@@ -1,0 +1,25 @@
+---
+title: "Histogram-based Deep Learning for Automotive Radar"
+type: "proceeding"
+author: "M. Tatarchenko* and K. Rambach*"
+year: "2023"
+publication: "RadarConf"
+pdf: "https://arxiv.org/pdf/2303.02975.pdf"
+project: ""
+code: ""
+toc: false
+---
+
+## Abstract
+
+There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions.
+
+## Bibtex
+```
+@misc{tatarchenko2023radarconf,
+      title={Histogram-based Deep Learning for Automotive Radar}, 
+      author={Maxim Tatarchenko and Kilian Rambach},
+      year={2023},
+      booktitle={RadarConf}
+}
+```

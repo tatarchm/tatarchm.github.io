@@ -1,0 +1,26 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Maxim Tatarchenko
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+
+::: {.print-only .contact-block}
+tatarchm@gmail.com | +4915788159993
+:::
+
+## EDUCATION
+
+**Albert-Ludwigs-Universität Freiburg** [*Jan. 2016 --- Feb. 2020*]{.cvdate} <br> *PhD (summa cum laude) in Computer Science* <br> Computer Vision Lab, advisor Prof. Dr.-Ing. Thomas Brox <br> Final grade 0.0, with distinction
+
+**Albert-Ludwigs-Universität Freiburg** [*Oct. 2012 --- Mar. 2013*]{.cvdate} <br> *Master in Computer Science* [*Apr. 2014 --- Dec. 2015*]{.cvdate}<br> Final grade 0.0, with distinction
+
+**“MATI” - K. I. Tsiolkovsky Russian State Technological University** [*Oct. 2012 --- Mar. 2013*]{.cvdate} <br> *Bachelor in Applied Mathematics and Informatics* <br> Final grade 4,8, with distinction
+
+## PROFESSIONAL EXPERIENCE

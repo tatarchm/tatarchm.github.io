@@ -1,0 +1,11 @@
+---
+title: "Maxim Tatarchenko"
+about: trestles
+image: images/avatar.jpg
+---
+
+I am a lead research scientist at Bosch working on 3D Deep Learning.
+My main focus is on company-internal projects but I do occasionally publish papers.
+
+For the past couple of years I've been running a robotics school for kids as my main hobby project.
+I generally enjoy thinking and reading about teaching, which infrequently results in some blog posts.c

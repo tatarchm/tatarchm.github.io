@@ -1,0 +1,17 @@
+---
+pagetitle: "Publications"
+toc: false
+listing:
+  - id: articles
+    contents: "publications/**.qmd"
+    template: ./ejs/publication.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
+    # page-size: 10
+---
+[Google Scholar](https://scholar.google.de/citations?user=noQo18T42ZoC&hl=en){.btn .btn-outline-primary .btn role="button"}
+
+:::{#articles}
+:::
