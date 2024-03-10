@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "tatarchm@gmail.com | +4915788159993"
+    "text": "This is a dummy blog posts\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nAlbert-Ludwigs-Universität Freiburg Jan. 2016 — Feb. 2020  PhD (summa cum laude) in Computer Science  Computer Vision Lab, advisor Prof. Dr.-Ing. Thomas Brox  Final grade 0.0, with distinction\nAlbert-Ludwigs-Universität Freiburg Oct. 2012 — Mar. 2013  Master in Computer Science Apr. 2014 — Dec. 2015 Final grade 0.0, with distinction\n“MATI” - K. I. Tsiolkovsky Russian State Technological University Oct. 2012 — Mar. 2013  Bachelor in Applied Mathematics and Informatics  Final grade 4,8, with distinction"
-  },
-  {
-    "objectID": "cv.html#professional-experience",
-    "href": "cv.html#professional-experience",
-    "title": "Curriculum Vitae",
-    "section": "PROFESSIONAL EXPERIENCE",
-    "text": "PROFESSIONAL EXPERIENCE"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Maxim Tatarchenko",
+    "section": "",
+    "text": "Google Scholar\n\n\n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -49,10 +42,31 @@
     "text": "Bibtex\n@misc{tatarchenko2023radarconf,\n      title={Histogram-based Deep Learning for Automotive Radar}, \n      author={Maxim Tatarchenko and Kilian Rambach},\n      year={2023},\n      booktitle={RadarConf}\n}"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Maxim Tatarchenko",
+    "objectID": "blog/2024_03_10.html",
+    "href": "blog/2024_03_10.html",
+    "title": "This is a dummy blog posts",
     "section": "",
-    "text": "Google Scholar\n\n\n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
+    "text": "Hello world"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "tatarchm@gmail.com | +4915788159993"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nAlbert-Ludwigs-Universität Freiburg Jan. 2016 — Feb. 2020  PhD (summa cum laude) in Computer Science  Computer Vision Lab, advisor Prof. Dr.-Ing. Thomas Brox  Final grade 0.0, with distinction\nAlbert-Ludwigs-Universität Freiburg Oct. 2012 — Mar. 2013  Master in Computer Science Apr. 2014 — Dec. 2015 Final grade 0.0, with distinction\n“MATI” - K. I. Tsiolkovsky Russian State Technological University Oct. 2012 — Mar. 2013  Bachelor in Applied Mathematics and Informatics  Final grade 4,8, with distinction"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "PROFESSIONAL EXPERIENCE",
+    "text": "PROFESSIONAL EXPERIENCE"
   }
 ]
