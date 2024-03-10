@@ -1,11 +1,71 @@
 ---
-title: 'This is a dummy blog posts'
-date: '2022-06-01'
+title: 'Efficient Learning'
+date: '2019-03-02'
 # categories: ['123', 'Second Tag']
-# description: 'This is a test post. In this post, I try out different functionalities'
-execute: 
-  message: false
-  warning: false
+description: 'What twenty years of formal education taught me about approaching new information'
+image: ../images/stanford.jpg
 ---
 
-# Hello world
+![](../images/stanford.jpg)
+
+For the last twenty years, my main day-to-day activity has been learning. This may seem like a lot at first glance but such is the world we live in: kindergarten, school, undergrad, graduate school… time adds up. And while those have been amazing years, I now realize that some of them could have been spent much more efficiently if I had known certain basic principles of learning. In this post I want to talk about three such principles: **remembering the world is not random**, **developing appropriate intuition** and **finding the right abstractions**.
+
+***
+
+### Remember the world is not random.
+
+Back in high school, I had a class called “Algebra and the basics of mathematical analysis”. There I learned that in order to find the extreme values of a function, you need to compute its derivative, then solve some equation, then check for some conditions… In fact, there was a 10-step algorithm which I successfully mastered. What I could not realize at the time was why on earth would anyone want to do this?
+
+The question “why?” turns out to be essential. It almost always gives you the right perspective for understanding things. The world around us is not random. People don’t start developing complex theories to put them into textbooks and make the school kids’ lives miserable. In the vast majority of cases, there is some motivation behind the process. Unfortunately, as theories make their way through the years, the initial motivation often fades away leaving us with dogmatic algorithms like that of finding a function’s extremal values.
+
+What I should have thought about back then are questions like “Why do we need functions in the first place?” Well, the answer is exactly because the world is not random and many things depend on many other things. The number of likes you get for a picture depends on the time of day you post it on Instagram. Functions help us reveal those dependencies, understand them. “Why do I need to find the extremal values of functions?” Well, because this is where the most interesting things usually happen. You want to get as many likes as possible for your picture — an event described by the maximum value of the corresponding fucntion.
+
+Clearly, the “why”-perspective is useful not only in mathematics. When studying history, forcing yourself to think about the “why’s” of events turns a series of random wars and revolutions into a meaningful logical flow. When learning to play guitar, you can blindly memorize songs for years. But analyzing why the chords in a song sound good together in the first place, can give you a whole new level of understanding.
+
+### Develop intuition.
+
+During my bachelor studies I had to take a lot of math courses. One of those was about Fourier analysis. Two hours a week for about three months in a row the professor would bombard us with all kinds of definitions, lemmas and theorems filling the blackboard with kilometers of formulas. I’m pretty sure it was all quality content. Problem is, now I don’t remember a single bit of it — he lost my attention after the first 10 minutes of the introductory lecture.
+
+It took me years to understand that this sort of information is completely useless without the intuition. Humans (well, at least most of us) don’t think in formal definitions, abstract concepts or mathematical formulas. We need to imagine stuff. We need to relate what we learn to something we already know — to familiar things from everyday life. Of course, it’s amazing if the teacher himself takes care of developing the right intuition in his students’ minds. But if not, there is nothing else left but to help yourself. Richard Feynman was a great master of this skill. Here’s how he describes communication with fellow physicists in his (hands down hilarious) <a href="https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!" target="_blank">book</a>.
+
+>*At all these places everybody working in physics would tell me what they were doing and I’d discuss it with them. They would tell me the general problem they were working on, and would begin to write a bunch of equations.*
+>
+>*“Wait a minute,” I would say. “Is there a particular example of this general problem?”*
+>
+>*“Why yes; of course.”*
+>
+>*“Good. Give me one example.” That was for me: I can’t understand anything in general unless I’m carrying along in my mind a specific example and watching it go. Some people think in the beginning that I’m kind of slow and I don’t understand the problem, because I ask a lot of these “dumb” questions: “Is a cathode plus or minus? Is an an-ion this way, or that way?”*
+>
+>*But later, when the guy’s in the middle of a bunch of equations, he’ll say something and I’ll say, “Wait a minute! There’s an error! That can’t be right!”*
+>
+>*The guy looks at his equations, and sure enough, after a while, he finds the mistake and wonders, “How the hell did this guy, who hardly understood at the beginning, find that mistake in the mess of all these equations?”*
+>
+>*He thinks I’m following the steps mathematically, but that’s not what I’m doing. I have the specific, physical example of what he’s trying to analyze, and I know from instinct and experience the properties of the thing. So when the equation says it should behave so-and-so, and I know that’s the wrong way around, I jump up and say, “Wait! There’s a mistake!”*
+>
+>*I had a scheme, which I still use today when somebody is explaining something that I’m trying to understand: I keep making up examples. For instance, the mathematicians would come in with a terrific theorem, and they’re all excited. As they’re telling me the conditions of the theorem, I construct something which fits all the conditions. You know, you have a set (one ball) — disjoint (two balls). Then the balls turn colors, grow hairs, or whatever, in my head as they put more conditions on. Finally they state the theorem, which is some dumb thing about the ball which isn’t true for my hairy green ball thing, so I say, “False!”*
+
+The guy’s opinion is definitely trustworthy. In the end, he received a Nobel prize in physics so he must have known what he was saying. In this passage we can spot a useful detail: the main tool for developing intuition is analogy. When learning something new, you can try to imagine something you already understand which has analogous properties.
+
+Imagine you stumble upon a statement like “in an electric circuit, the relationship between the resistance and the area of the cross section of a wire is inversely proportional.” This may look pretty intimidating at first glance. But as soon as you substitute the electric circuit with a water pipe in your mind, and imagine that electric current is water flow, the effect becomes obvious. The thicker you pipe is, the more water it can let through — thus the lower the resistance.
+
+The analogy I was missing during the Fourier analysis course was that essentially a Fourier transform of a function is a coordinate system — similar to that used in your GPS navigator. The latitude and the longitude of your favourite pizza place tell you that in order to reach it, you need to go this much north and then this much west. Turns out, it is possible to define a coordinate system for functions. Take this much of one function, add this much of another, and voila — you get your desired function.
+
+Of course, one needs to be careful with analogies. They are never perfect and have their limitations. But overall it’s a great way to develop some initial understanding when learning new things.
+
+### Find the right abstraction.
+
+The world around us is complex. Extremely complex. So complex in fact, that our poor brains cannot possibly process all the information that reaches us from outside. Good news is, in most situations we don’t need all the information. We can (and do) make sense of what we see, hear or feel by assigning it to some simple categories. That is, by thinking in more abstract and general terms rather than attending to the finest details.
+
+<a href="https://en.wikipedia.org/wiki/Robert_Sapolsky" target="_blank">Robert Sapolsky</a> in his <a href="https://www.youtube.com/watch?v=NNnIGh9g6fA" target="_blank">lecture on behavioural biology</a> gives an example with colors. Objectively, there is no such thing as red, green or blue. Instead, there is a continuous spectrum of wave lengths which can be registered by the human eye. We just conventionally agreed to cut this spectrum into seven bins and gave those bins certain names. For many practical purposes it’s good enough. When you are driving a car, it’s sufficient to distinguish red from green on a street light — the exact wave length does not matter. In a child’s picture the sky is blue and the grass is green, it can be any kind of blue or green depending on what the pencil producer happened to put into the box. (Well, there are some exceptions of course. If your friend’s wife is trying to pick herself new high heels, the difference between ruby red and coral red may be pretty huge.)
+
+Usually, we can immensely simplify the process of information consumption by identifying the right abstractions. What “the right” is, clearly depends on the task being solved. As a rule of thumb, let’s stick with the principle often attributed to Albert Einstein: “Everything should be made as simple as possible, but not simpler.”
+
+Three years ago I started a PhD in computer science. As a researcher, I naturally learn most of my time. When reading scientific papers, I learn new ideas developed by other people. When skimming through programming manuals, I learn about new tools and ways to use them. When running my own experiments, I learn something about the research problem I’m solving. It is so easy and tempting to get absorbed in details. Sometimes I start designing a new algorithm and run some initial experiments. I realize there is a parameter that might slightly affect the performance so I start tweaking this parameter. Indeed, there is some relation between it and the final result but it somehow looks strange. So I investigate more… Three weeks later I find myself struggling over a 1% performance gain which is completely unimportant and does not even help answer the initial question.
+
+Such situations can hamper your progress quite a bit, and the only way of avoiding them is to constantly remind yourself about maintaining the right abstractions. Again, this does not mean that details are not important — the devil is still in them. But sometimes you don’t want to let him speak.
+
+***
+
+The ideas I’ve described are no magic shortcuts. Even if you use all of them, there is no way around routine tasks. To master Taekwon-Do, you need to develop your body, no matter whether you understand the basic theory or not. To calculate integrals, you have to go through actually calculating maybe a hundred of them, not just figure out how or why this is done. As long as we don’t live in The Matrix, there is no way of upgrading our brain’s firmware to support some desired skill. Still, being aware of the basic principles when doing some routine practice, may make it more meaningful and exciting.
+
+At this point you may be willing to strike me with my own weapon by asking: “Why do we need all of this?” Let me leave you with a bit of general motivation. Genetic evolution is about the survival of the fittest. In an ever-changing environment, only species whose set of genes has adjusted successfully, stand a chance. However, such environmental changes can last millions of years, so normally there is quite some time to adapt. On the contrary, the society we live in changes rapidly. Individual skills, even entire occupations can become obsolete within a time span of several years. Therefore, the key to success in this social evolution is being able to quickly adapt yourself. That is, master new skills, understand new concepts and adjust your behaviour accordingly. The more efficient you are in all this, the higher your chances to survive. What can be more motivating?
