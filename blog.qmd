@@ -1,0 +1,9 @@
+---
+title: "Blog"
+listing:
+    feed: false
+    sort-ui: false
+    contents:
+        - "blog/*.qmd"
+page-layout: full
+---

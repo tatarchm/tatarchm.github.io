@@ -11,6 +11,8 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
