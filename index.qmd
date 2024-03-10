@@ -6,14 +6,16 @@ about:
     image-shape: round
     image: images/avatar.jpg
     links:
-        - icon: github
-          href: https://github.com/tatarchm
         - icon: envelope
           href: mailto:tatarchm@gmail.com
+        - icon: github
+          href: https://github.com/tatarchm
+        - icon: linkedin
+          href: https://www.linkedin.com/in/tatarchm/
 ---
 
 I am a lead research scientist at <a href="https://www.bosch-ai.com/about-us/our-people/" target="_blank">Bosch</a> working on 3D deep learning.
-My main focus is on company-internal projects but I do occasionally [publish papers](publications.qmd).
+My main focus at the moment is on company-internal projects but I do occasionally [publish papers](publications.qmd).
 
 For the past couple of years running a robotics school for kids has been my main hobby project.
 I generally take great pleasure in thinking about teaching and learning, which infrequently results in some [blog](blog.qmd) posts.
