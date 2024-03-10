@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "tatarchm@gmail.com | +4915788159993"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nAlbert-Ludwigs-Universität Freiburg Jan. 2016 — Feb. 2020  PhD (summa cum laude) in Computer Science  Computer Vision Lab, advisor Prof. Dr.-Ing. Thomas Brox  Final grade 0.0, with distinction\nAlbert-Ludwigs-Universität Freiburg Oct. 2012 — Mar. 2013  Master in Computer Science Apr. 2014 — Dec. 2015 Final grade 0.0, with distinction\n“MATI” - K. I. Tsiolkovsky Russian State Technological University Oct. 2012 — Mar. 2013  Bachelor in Applied Mathematics and Informatics  Final grade 4,8, with distinction"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "PROFESSIONAL EXPERIENCE",
+    "text": "PROFESSIONAL EXPERIENCE"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maxim Tatarchenko",
+    "section": "",
+    "text": "I am a lead research scientist at Bosch working on 3D Deep Learning. My main focus is on company-internal projects but I do occasionally publish papers.\nFor the past couple of years I’ve been running a robotics school for kids as my main hobby project. I generally enjoy thinking and reading about teaching, which infrequently results in some blog posts.c"
+  },
+  {
+    "objectID": "publications/tatarchenko23radarconf_histdl.html",
+    "href": "publications/tatarchenko23radarconf_histdl.html",
+    "title": "Histogram-based Deep Learning for Automotive Radar",
+    "section": "",
+    "text": "There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions."
+  },
+  {
+    "objectID": "publications/tatarchenko23radarconf_histdl.html#abstract",
+    "href": "publications/tatarchenko23radarconf_histdl.html#abstract",
+    "title": "Histogram-based Deep Learning for Automotive Radar",
+    "section": "",
+    "text": "There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions."
+  },
+  {
+    "objectID": "publications/tatarchenko23radarconf_histdl.html#bibtex",
+    "href": "publications/tatarchenko23radarconf_histdl.html#bibtex",
+    "title": "Histogram-based Deep Learning for Automotive Radar",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko2023radarconf,\n      title={Histogram-based Deep Learning for Automotive Radar}, \n      author={Maxim Tatarchenko and Kilian Rambach},\n      year={2023},\n      booktitle={RadarConf}\n}"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Maxim Tatarchenko",
+    "section": "",
+    "text": "Google Scholar\n\n\n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
+  }
+]
