@@ -1,11 +1,21 @@
 ---
 title: "Maxim Tatarchenko"
-about: trestles
-image: images/avatar.jpg
+about:
+    template: jolla
+    image-width: 10em
+    image-shape: round
+    image: images/avatar.jpg
+    links:
+        - icon: github
+          href: https://github.com/tatarchm
+        - icon: envelope
+          href: mailto:tatarchm@gmail.com
 ---
 
-I am a lead research scientist at Bosch working on 3D Deep Learning.
-My main focus is on company-internal projects but I do occasionally publish papers.
+I am a lead research scientist at <a href="https://www.bosch-ai.com/about-us/our-people/" target="_blank">Bosch</a> working on 3D deep learning.
+My main focus is on company-internal projects but I do occasionally [publish papers](publications.qmd).
 
-For the past couple of years I've been running a robotics school for kids as my main hobby project.
-I generally enjoy thinking and reading about teaching, which infrequently results in some blog posts.c
+For the past couple of years running a robotics school for kids has been my main hobby project.
+I generally take great pleasure in thinking about teaching and learning, which infrequently results in some [blog](blog.qmd) posts.
+
+Other then that, I enjoy creating music, reading and writing poetry, making stuff, and blabbering about all of those in my Russian-language TG channel.
