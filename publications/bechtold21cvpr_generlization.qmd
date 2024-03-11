@@ -1,0 +1,25 @@
+---
+title: "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors"
+type: "proceeding"
+author: "J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox"
+year: "2021"
+publication: "CVPR"
+pdf: "https://arxiv.org/pdf/2104.00476.pdf"
+project: ""
+code: "https://github.com/boschresearch/HierarchicalPriorNetworks"
+toc: false
+---
+
+## Abstract
+
+Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects.
+
+## Bibtex
+```
+@misc{bechtold21cvpr,
+      title={Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors}, 
+      author={Jan Bechtold, Maxim Tatarchenko, Volker Fischer and Thomas Brox},
+      year={2021},
+      booktitle={CVPR}
+}
+```

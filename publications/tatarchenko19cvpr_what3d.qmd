@@ -1,0 +1,25 @@
+---
+title: "What do single-view 3d reconstruction networks learn?"
+type: "proceeding"
+author: "M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox"
+year: "2019"
+publication: "CVPR"
+pdf: "https://arxiv.org/pdf/1905.03678.pdf"
+project: ""
+code: "https://github.com/lmb-freiburg/what3d"
+toc: false
+---
+
+## Abstract
+
+Convolutional networks for single-view object reconstruction have shown impressive performance and have become a popular subject of research. All existing techniques are united by the idea of having an encoder-decoder network that performs non-trivial reasoning about the 3D structure of the output space. In this work, we set up two alternative approaches that perform image classification and retrieval respectively. These simple baselines yield better results than state-of-the-art methods, both qualitatively and quantitatively. We show that encoder-decoder methods are statistically indistinguishable from these baselines, thus indicating that the current state of the art in single-view object reconstruction does not actually perform reconstruction but image classification. We identify aspects of popular experimental procedures that elicit this behavior and discuss ways to improve the current state of research.
+
+## Bibtex
+```
+@misc{tatarchenko19cvpr_what3d,
+      title={What do single-view 3d reconstruction networks learn?}, 
+      author={Maxim Tatarchenko and Stephan R. Richter and René Ranftl and Zhuwen Li and Vladlen Koltun and Thomas Brox},
+      year={2019},
+      booktitle={CVPR}
+}
+```

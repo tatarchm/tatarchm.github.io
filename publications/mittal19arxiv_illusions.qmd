@@ -1,0 +1,25 @@
+---
+title: "Parting with Illusions about Deep Active Learning"
+type: "proceeding"
+author: "S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox"
+year: "2019"
+publication: "arXiv"
+pdf: "https://arxiv.org/pdf/1912.05361.pdf"
+project: ""
+code: ""
+toc: false
+---
+
+## Abstract
+
+Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol.
+
+## Bibtex
+```
+@misc{mittal19arxiv_illusions,
+      title={Parting with Illusions about Deep Active Learning}, 
+      author={Sudhanshu Mittal and Maxim Tatarchenko and Özgün Çiçek and Thomas Brox},
+      year={2019},
+      booktitle={arXiv}
+}
+```

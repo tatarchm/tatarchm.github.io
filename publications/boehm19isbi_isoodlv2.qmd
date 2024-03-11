@@ -1,0 +1,25 @@
+---
+title: "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects"
+type: "proceeding"
+author: "A. Böhm, M. Tatarchenko, and T. Falk"
+year: "2019"
+publication: "ISBI"
+pdf: "https://lmb.informatik.uni-freiburg.de/Publications/2019/BTF19/paper-ISBI19_ISOOv2_IEEE_CR.pdf"
+project: ""
+code: ""
+toc: false
+---
+
+## Abstract
+
+We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance.
+
+## Bibtex
+```
+@misc{boehm19isbi_isoodlv2,
+      title={ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects}, 
+      author={Anton Boehm and Maxim Tatarchenko and Thorsten Falk and Thomas Brox},
+      year={2019},
+      booktitle={ISBI}
+}
+```
