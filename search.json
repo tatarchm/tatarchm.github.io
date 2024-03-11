@@ -11,7 +11,7 @@
     "href": "publications.html",
     "title": "Maxim Tatarchenko",
     "section": "",
-    "text": "Google Scholar\n\n\n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
+    "text": "Google Scholar\n\n\n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors\n    J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox\n    CVPR\n     (2021)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects\n    A. Böhm, M. Tatarchenko, and T. Falk\n    ISBI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Parting with Illusions about Deep Active Learning\n    S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox\n    arXiv\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Self-supervised 3d shape and viewpoint estimation from single images\n    O. Mees, M. Tatarchenko, T. Brox and W. Burgard\n    IROS\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Semi-supervised semantic segmentation with high- and low-level consistency\n    S. Mittal, M. Tatarchenko and T. Brox\n    TPAMI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    What do single-view 3d reconstruction networks learn?\n    M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox\n    CVPR\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Tangent convolutions for dense prediction in 3D\n    M. Tatarchenko, J. Park, V. Koltun, and Q.-Y. Zhou\n    CVPR\n     (2018)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Learning to generate chairs, tables and cars with convolutional networks\n    A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox\n    TPAMI\n     (2017)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ICCV\n     (2017)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Multi-view 3d models from single images with a convolutional network\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ECCV\n     (2016)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    3D-reconstruction of indoor environments from human activity\n    B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard\n    ICRA\n     (2015)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -19,6 +19,90 @@
     "title": "Maxim Tatarchenko",
     "section": "",
     "text": "I am a lead research scientist at Bosch working on 3D deep learning. My main focus at the moment is on company-internal projects but I do occasionally publish papers.\nFor the past couple of years running a robotics school for kids has been my main hobby project. I generally take great pleasure in thinking about teaching and learning, which infrequently results in some blog posts.\nOther than that, I enjoy creating music, reading and writing poetry, making stuff, and blabbering about all of those in my Russian-language TG channel."
+  },
+  {
+    "objectID": "publications/tatarchenko19cvpr_what3d.html",
+    "href": "publications/tatarchenko19cvpr_what3d.html",
+    "title": "What do single-view 3d reconstruction networks learn?",
+    "section": "",
+    "text": "Convolutional networks for single-view object reconstruction have shown impressive performance and have become a popular subject of research. All existing techniques are united by the idea of having an encoder-decoder network that performs non-trivial reasoning about the 3D structure of the output space. In this work, we set up two alternative approaches that perform image classification and retrieval respectively. These simple baselines yield better results than state-of-the-art methods, both qualitatively and quantitatively. We show that encoder-decoder methods are statistically indistinguishable from these baselines, thus indicating that the current state of the art in single-view object reconstruction does not actually perform reconstruction but image classification. We identify aspects of popular experimental procedures that elicit this behavior and discuss ways to improve the current state of research."
+  },
+  {
+    "objectID": "publications/tatarchenko19cvpr_what3d.html#abstract",
+    "href": "publications/tatarchenko19cvpr_what3d.html#abstract",
+    "title": "What do single-view 3d reconstruction networks learn?",
+    "section": "",
+    "text": "Convolutional networks for single-view object reconstruction have shown impressive performance and have become a popular subject of research. All existing techniques are united by the idea of having an encoder-decoder network that performs non-trivial reasoning about the 3D structure of the output space. In this work, we set up two alternative approaches that perform image classification and retrieval respectively. These simple baselines yield better results than state-of-the-art methods, both qualitatively and quantitatively. We show that encoder-decoder methods are statistically indistinguishable from these baselines, thus indicating that the current state of the art in single-view object reconstruction does not actually perform reconstruction but image classification. We identify aspects of popular experimental procedures that elicit this behavior and discuss ways to improve the current state of research."
+  },
+  {
+    "objectID": "publications/tatarchenko19cvpr_what3d.html#bibtex",
+    "href": "publications/tatarchenko19cvpr_what3d.html#bibtex",
+    "title": "What do single-view 3d reconstruction networks learn?",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko19cvpr_what3d,\n      title={What do single-view 3d reconstruction networks learn?}, \n      author={Maxim Tatarchenko and Stephan R. Richter and René Ranftl and Zhuwen Li and Vladlen Koltun and Thomas Brox},\n      year={2019},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/bechtold21cvpr_generlization.html",
+    "href": "publications/bechtold21cvpr_generlization.html",
+    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
+    "section": "",
+    "text": "Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects."
+  },
+  {
+    "objectID": "publications/bechtold21cvpr_generlization.html#abstract",
+    "href": "publications/bechtold21cvpr_generlization.html#abstract",
+    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
+    "section": "",
+    "text": "Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects."
+  },
+  {
+    "objectID": "publications/bechtold21cvpr_generlization.html#bibtex",
+    "href": "publications/bechtold21cvpr_generlization.html#bibtex",
+    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{bechtold21cvpr,\n      title={Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors}, \n      author={Jan Bechtold, Maxim Tatarchenko, Volker Fischer and Thomas Brox},\n      year={2021},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html",
+    "href": "publications/dosovitskiy17tpami_chairs.html",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "",
+    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html#abstract",
+    "href": "publications/dosovitskiy17tpami_chairs.html#abstract",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "",
+    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html#bibtex",
+    "href": "publications/dosovitskiy17tpami_chairs.html#bibtex",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{dosovitskiy17tpami_chairs,\n      title={Learning to generate chairs, tables and cars with convolutional networks}, \n      author={Alexey Dosovitskiy and Jost Tobias Springenberg and Maxim Tatarchenko and Thomas Brox},\n      year={2017},\n      booktitle={TPAMI}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html",
+    "title": "Tangent convolutions for dense prediction in 3D",
+    "section": "",
+    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
+  },
+  {
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
+    "title": "Tangent convolutions for dense prediction in 3D",
+    "section": "",
+    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
+  },
+  {
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
+    "title": "Tangent convolutions for dense prediction in 3D",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko18cvpr_tangentconv,\n      title={Tangent convolutions for dense prediction in 3D}, \n      author={Maxim Tatarchenko and Jaesik Park and Vladlen Koltun and Qian-Yi Zhou},\n      year={2018},\n      booktitle={CVPR}\n}"
   },
   {
     "objectID": "publications/tatarchenko23radarconf_histdl.html",
@@ -40,6 +124,153 @@
     "title": "Histogram-based Deep Learning for Automotive Radar",
     "section": "Bibtex",
     "text": "Bibtex\n@misc{tatarchenko2023radarconf,\n      title={Histogram-based Deep Learning for Automotive Radar}, \n      author={Maxim Tatarchenko and Kilian Rambach},\n      year={2023},\n      booktitle={RadarConf}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko17iccv_ogn.html",
+    "href": "publications/tatarchenko17iccv_ogn.html",
+    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
+    "section": "",
+    "text": "We present a deep convolutional decoder architecture that can generate volumetric 3D outputs in a compute- and memory-efficient manner by using an octree representation. The network learns to predict both the structure of the octree, and the occupancy values of individual cells. This makes it a particularly valuable technique for generating 3D shapes. In contrast to standard decoders acting on regular voxel grids, the architecture does not have cubic complexity. This allows representing much higher resolution outputs with a limited memory budget. We demonstrate this in several application domains, including 3D convolutional autoencoders, generation of objects and whole scenes from high-level representations, and shape from a single image."
+  },
+  {
+    "objectID": "publications/tatarchenko17iccv_ogn.html#abstract",
+    "href": "publications/tatarchenko17iccv_ogn.html#abstract",
+    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
+    "section": "",
+    "text": "We present a deep convolutional decoder architecture that can generate volumetric 3D outputs in a compute- and memory-efficient manner by using an octree representation. The network learns to predict both the structure of the octree, and the occupancy values of individual cells. This makes it a particularly valuable technique for generating 3D shapes. In contrast to standard decoders acting on regular voxel grids, the architecture does not have cubic complexity. This allows representing much higher resolution outputs with a limited memory budget. We demonstrate this in several application domains, including 3D convolutional autoencoders, generation of objects and whole scenes from high-level representations, and shape from a single image."
+  },
+  {
+    "objectID": "publications/tatarchenko17iccv_ogn.html#bibtex",
+    "href": "publications/tatarchenko17iccv_ogn.html#bibtex",
+    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko17iccv_ogn,\n      title={Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs}, \n      author={Maxim Tatarchenko and Alexey Dosovitskiy and Thomas Brox},\n      year={2017},\n      booktitle={ICCV}\n}"
+  },
+  {
+    "objectID": "publications/frank15icra_recon.html",
+    "href": "publications/frank15icra_recon.html",
+    "title": "3D-reconstruction of indoor environments from human activity",
+    "section": "",
+    "text": "Observing human activities can reveal a lot about the structure of the environment, the objects contained therein and also their functionality. This knowledge, in turn, can be useful for robots interacting with humans or for robots performing mobile manipulation tasks. In this paper, we present an approach to infer the geometric and functional structure of the environment and the position of certain relevant objects in it from human activity. We observe this activity using a full-body motion capture system consisting of a set of inertial measurement units. This is a hard problem since our data suit provides odometry estimates only, which severely drift over time. Therefore, we regard the objects inferred from the activ- ities as landmarks in a graph-based simultaneous localization and mapping problem, which we optimize to obtain accurate estimates about the poses of the objects and the trajectory of the human. In extensive experiments, we demonstrate the effectiveness of the proposed method for the reconstruction of 3D representations. The resulting models not only contain a geometric but also a functional description of the environment and naturally provide a segmentation into individual objects."
+  },
+  {
+    "objectID": "publications/frank15icra_recon.html#abstract",
+    "href": "publications/frank15icra_recon.html#abstract",
+    "title": "3D-reconstruction of indoor environments from human activity",
+    "section": "",
+    "text": "Observing human activities can reveal a lot about the structure of the environment, the objects contained therein and also their functionality. This knowledge, in turn, can be useful for robots interacting with humans or for robots performing mobile manipulation tasks. In this paper, we present an approach to infer the geometric and functional structure of the environment and the position of certain relevant objects in it from human activity. We observe this activity using a full-body motion capture system consisting of a set of inertial measurement units. This is a hard problem since our data suit provides odometry estimates only, which severely drift over time. Therefore, we regard the objects inferred from the activ- ities as landmarks in a graph-based simultaneous localization and mapping problem, which we optimize to obtain accurate estimates about the poses of the objects and the trajectory of the human. In extensive experiments, we demonstrate the effectiveness of the proposed method for the reconstruction of 3D representations. The resulting models not only contain a geometric but also a functional description of the environment and naturally provide a segmentation into individual objects."
+  },
+  {
+    "objectID": "publications/frank15icra_recon.html#bibtex",
+    "href": "publications/frank15icra_recon.html#bibtex",
+    "title": "3D-reconstruction of indoor environments from human activity",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{frank15icra_recon,\n      title={3D-reconstruction of indoor environments from human activity}, \n      author={Barbara Frank, Michael Ruhnke, Maxim Tatarchenko, and Wolfram Burgard},\n      year={2015},\n      booktitle={ICRA}\n}"
+  },
+  {
+    "objectID": "publications/mees19iros_3d.html",
+    "href": "publications/mees19iros_3d.html",
+    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
+    "section": "",
+    "text": "We present a convolutional neural network for joint 3D shape prediction and viewpoint estimation from a single input image. During training, our network gets the learning signal from a silhouette of an object in the input image - a form of self-supervision. It does not require ground truth data for 3D shapes and the viewpoints. Because it relies on such a weak form of supervision, our approach can easily be applied to real-world data. We demonstrate that our method produces reasonable qualitative and quantitative results on natural images for both shape estimation and viewpoint prediction. Unlike previous approaches, our method does not require multiple views of the same object instance in the dataset, which significantly expands the applicability in practical robotics scenarios. We showcase it by using the hallucinated shapes to improve the performance on the task of grasping real-world objects both in simulation and with a PR2 robot."
+  },
+  {
+    "objectID": "publications/mees19iros_3d.html#abstract",
+    "href": "publications/mees19iros_3d.html#abstract",
+    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
+    "section": "",
+    "text": "We present a convolutional neural network for joint 3D shape prediction and viewpoint estimation from a single input image. During training, our network gets the learning signal from a silhouette of an object in the input image - a form of self-supervision. It does not require ground truth data for 3D shapes and the viewpoints. Because it relies on such a weak form of supervision, our approach can easily be applied to real-world data. We demonstrate that our method produces reasonable qualitative and quantitative results on natural images for both shape estimation and viewpoint prediction. Unlike previous approaches, our method does not require multiple views of the same object instance in the dataset, which significantly expands the applicability in practical robotics scenarios. We showcase it by using the hallucinated shapes to improve the performance on the task of grasping real-world objects both in simulation and with a PR2 robot."
+  },
+  {
+    "objectID": "publications/mees19iros_3d.html#bibtex",
+    "href": "publications/mees19iros_3d.html#bibtex",
+    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{mees19iros_3d,\n      title={Self-supervised 3d shape and viewpoint estimation from single images}, \n      author={Oier Mees and Maxim Tatarchenko and Thomas Brox and Wolfram Burgard},\n      year={2019},\n      booktitle={IROS}\n}"
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html",
+    "href": "publications/boehm19isbi_isoodlv2.html",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "",
+    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html#abstract",
+    "href": "publications/boehm19isbi_isoodlv2.html#abstract",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "",
+    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html#bibtex",
+    "href": "publications/boehm19isbi_isoodlv2.html#bibtex",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{boehm19isbi_isoodlv2,\n      title={ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects}, \n      author={Anton Boehm and Maxim Tatarchenko and Thorsten Falk and Thomas Brox},\n      year={2019},\n      booktitle={ISBI}\n}"
+  },
+  {
+    "objectID": "publications/mittal19tpami_semseg.html",
+    "href": "publications/mittal19tpami_semseg.html",
+    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
+    "section": "",
+    "text": "The ability to understand visual information from limited labeled data is an important aspect of machine learning. While image-level classification has been extensively studied in a semi-supervised setting, dense pixel-level classification with limited data has only drawn attention recently. In this work, we propose an approach for semi-supervised semantic segmentation that learns from limited pixel-wise annotated samples while exploiting additional annotation-free images. It uses two network branches that link semi-supervised classification with semi-supervised segmentation including self-training. The dual-branch approach reduces both the low-level and the high-level artifacts typical when training with few labels. The approach attains significant improvement over existing methods, especially when trained with very few labeled samples. On several standard benchmarks - PASCAL VOC 2012, PASCAL-Context, and Cityscapes - the approach achieves new state-of-the-art in semi-supervised learning."
+  },
+  {
+    "objectID": "publications/mittal19tpami_semseg.html#abstract",
+    "href": "publications/mittal19tpami_semseg.html#abstract",
+    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
+    "section": "",
+    "text": "The ability to understand visual information from limited labeled data is an important aspect of machine learning. While image-level classification has been extensively studied in a semi-supervised setting, dense pixel-level classification with limited data has only drawn attention recently. In this work, we propose an approach for semi-supervised semantic segmentation that learns from limited pixel-wise annotated samples while exploiting additional annotation-free images. It uses two network branches that link semi-supervised classification with semi-supervised segmentation including self-training. The dual-branch approach reduces both the low-level and the high-level artifacts typical when training with few labels. The approach attains significant improvement over existing methods, especially when trained with very few labeled samples. On several standard benchmarks - PASCAL VOC 2012, PASCAL-Context, and Cityscapes - the approach achieves new state-of-the-art in semi-supervised learning."
+  },
+  {
+    "objectID": "publications/mittal19tpami_semseg.html#bibtex",
+    "href": "publications/mittal19tpami_semseg.html#bibtex",
+    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{mittal19tpami,\n      title={Semi-supervised semantic segmentation with high- and low-level consistency}, \n      author={Sudhanshu Mittal and Maxim Tatarchenko and Thomas Brox},\n      year={2019},\n      booktitle={TPAMI}\n}"
+  },
+  {
+    "objectID": "publications/mittal19arxiv_illusions.html",
+    "href": "publications/mittal19arxiv_illusions.html",
+    "title": "Parting with Illusions about Deep Active Learning",
+    "section": "",
+    "text": "Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol."
+  },
+  {
+    "objectID": "publications/mittal19arxiv_illusions.html#abstract",
+    "href": "publications/mittal19arxiv_illusions.html#abstract",
+    "title": "Parting with Illusions about Deep Active Learning",
+    "section": "",
+    "text": "Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol."
+  },
+  {
+    "objectID": "publications/mittal19arxiv_illusions.html#bibtex",
+    "href": "publications/mittal19arxiv_illusions.html#bibtex",
+    "title": "Parting with Illusions about Deep Active Learning",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{mittal19arxiv_illusions,\n      title={Parting with Illusions about Deep Active Learning}, \n      author={Sudhanshu Mittal and Maxim Tatarchenko and Özgün Çiçek and Thomas Brox},\n      year={2019},\n      booktitle={arXiv}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko16eccv_mv3d.html",
+    "href": "publications/tatarchenko16eccv_mv3d.html",
+    "title": "Multi-view 3d models from single images with a convolutional network",
+    "section": "",
+    "text": "We present a convolutional network capable of inferring a 3D representation of a previously unseen object given a single image of this object. Concretely, the network can predict an RGB image and a depth map of the object as seen from an arbitrary view. Several of these depth maps fused together give a full point cloud of the object. The point cloud can in turn be transformed into a surface mesh. The network is trained on renderings of synthetic 3D models of cars and chairs. It successfully deals with objects on cluttered background and generates reasonable predictions for real images of cars."
+  },
+  {
+    "objectID": "publications/tatarchenko16eccv_mv3d.html#abstract",
+    "href": "publications/tatarchenko16eccv_mv3d.html#abstract",
+    "title": "Multi-view 3d models from single images with a convolutional network",
+    "section": "",
+    "text": "We present a convolutional network capable of inferring a 3D representation of a previously unseen object given a single image of this object. Concretely, the network can predict an RGB image and a depth map of the object as seen from an arbitrary view. Several of these depth maps fused together give a full point cloud of the object. The point cloud can in turn be transformed into a surface mesh. The network is trained on renderings of synthetic 3D models of cars and chairs. It successfully deals with objects on cluttered background and generates reasonable predictions for real images of cars."
+  },
+  {
+    "objectID": "publications/tatarchenko16eccv_mv3d.html#bibtex",
+    "href": "publications/tatarchenko16eccv_mv3d.html#bibtex",
+    "title": "Multi-view 3d models from single images with a convolutional network",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko16eccv_mv3d,\n      title={Multi-view 3d models from single images with a convolutional network}, \n      author={Maxim Tatarchenko and Alexey Dosovitskiy and Thomas Brox},\n      year={2016},\n      booktitle={ECCV}\n}"
   },
   {
     "objectID": "blog/2019_03_02_efficient_learning.html",

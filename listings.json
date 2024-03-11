@@ -8,7 +8,18 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/publications/tatarchenko23radarconf_histdl.html"
+      "/publications/tatarchenko23radarconf_histdl.html",
+      "/publications/bechtold21cvpr_generlization.html",
+      "/publications/boehm19isbi_isoodlv2.html",
+      "/publications/mittal19arxiv_illusions.html",
+      "/publications/mees19iros_3d.html",
+      "/publications/mittal19tpami_semseg.html",
+      "/publications/tatarchenko19cvpr_what3d.html",
+      "/publications/tatarchenko18cvpr_tangentconv.html",
+      "/publications/dosovitskiy17tpami_chairs.html",
+      "/publications/tatarchenko17iccv_ogn.html",
+      "/publications/tatarchenko16eccv_mv3d.html",
+      "/publications/frank15icra_recon.html"
     ]
   }
 ]
