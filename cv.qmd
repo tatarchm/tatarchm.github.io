@@ -24,3 +24,155 @@ tatarchm@gmail.com | +4915788159993
 **“MATI” - K. I. Tsiolkovsky Russian State Technological University** [*Oct. 2012 --- Mar. 2013*]{.cvdate} <br> *Bachelor in Applied Mathematics and Informatics* <br> Final grade 4,8, with distinction
 
 ## PROFESSIONAL EXPERIENCE
+
+**Bosch, Renningen, Germany** [*Nov. 2023 --- now*]{.cvdate} <br> *Lead Research Scientist* <br> AI Research Department
+
+**Bosch, Renningen, Germany** [*May. 2020 --- Oct. 2023*]{.cvdate} <br> *Research Scientist* <br> AI Research Department
+
+**Albert-Ludwigs-Universität Freiburg, Germany** [*Jan. 2016 --- Feb. 2020*]{.cvdate} <br> *Research Assistant* <br> Computer Vision Lab
+
+**Intel Labs, Santa Clara, USA** [*May. 2017 --- Nov. 2017*]{.cvdate} <br> *Research Intern* <br> Intelligent Systems Lab, advisor Dr. Vladlen Koltun
+
+**Albert-Ludwigs-Universität Freiburg, Germany** [*Jun. 2014 --- Dec. 2015*]{.cvdate} <br> *Student Research Assistant* <br> Autonomous Intelligent Systems Lab
+
+**GPSCOM, Moscow, Russia** [*Dec. 2011 --- Apr. 2014*]{.cvdate} <br> *Software Engineer*
+
+**Crechet corp., Moscow, Russia** [*Jun. 2011 --- Dec. 2011*]{.cvdate} <br> *Software Developer*
+
+## PUBLICATIONS
+
+Google scholar citations: **2650**.
+
+Not including publications in Russian prior to 2015.
+
+#### Referred papers
+
+1. J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg "Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory" In *CVPR*, 2024
+
+2. M. Tatarchenko, K. Rambach “Histogram-based Deep Learning for Automotive Radar.” In *RadarConf*, 2023
+
+3. J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors." In *CVPR*, 2021
+
+4. S. Mittal, M. Tatarchenko and T. Brox. “Semi-supervised semantic segmentation with high- and low-level consistency.” In *TPAMI*, 2019
+
+5. O. Mees, M. Tatarchenko, T. Brox and W. Burgard. “Self-supervised 3d shape and viewpoint estimation from single images.” In *IROS*, 2019
+
+6. M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox. “What do single-view 3d reconstruction networks learn?” In *CVPR*, 2019
+
+7. A. Böhm, M. Tatarchenko, and T. Falk. “ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects.” In *ISBI*, 2019
+
+8. M. Tatarchenko*, J. Park*, V. Koltun, and Q.-Y. Zhou. “Tangent convolutions for dense prediction in 3d.” In *CVPR*, 2018 **(Selected for spotlight oral)**
+
+9. A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox. “Learning to generate chairs, tables and cars with convolutional networks.” *TPAMI*, Apr 2017
+
+10. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs.” In *ICCV*, 2017
+
+11. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Multi-view 3d models from single images with a convolutional network.” In ECCV, 2016 **(Selected for spotlight oral)**
+
+12. B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard. “3d-reconstruction of indoor environments from human activity.” In *ICRA*, 2015
+
+#### Preprints
+
+1. S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox. “Parting with Illusions about Deep Active Learning.” In *arXiv:1912.05361*, 2019
+
+#### Theses
+
+1. "Scalable 3D deep learning: methods and applications", *PhD thesis*, 2020
+
+2. "Generating unseen views of objects with convolutional networks", *Master's thesis*, 2015
+
+## PROFESSIONAL SERVICES
+
+Reviewer for IROS’18, ICCV’18, CVPR’18, CVPR’19 (outstanding reviewer), TPAMI’19, CVPR’20, IJCV’20, CVPR’21 (outstanding reviewer), RA-L’21, TPAMI’21, TPAMI’22, CVPR’23, CVPR’24
+
+## AWARDS
+
+**VDI-Förderpreis** [*2016*]{.cvdate} <br> *Sponsorship award of the Association of German Engineers* <br> Awarded for the master’s thesis
+
+## MEDIA COVERAGE
+
+**3sat: Scobel** [*2016*]{.cvdate} <br> *TV program about AI* <br> Mentioned the work “Multi-view 3D models from single images with CNNs”
+
+## PATENTS
+
+**Computer-implemented method and system for reconstructing an object captured by an imaging sensor, and training method** [*2022*]{.cvdate} <br> *DE patent “DE102021202711 A1””* <br> J. Bechtold, T. Brox, V. Fischer and M. Tatarchenko
+
+**Tangent convolutions for 3D data** [*2019*]{.cvdate} <br> *US patent “US2019042883 AA”* <br> J. Park, V. Koltun, M. Tatarchenko and Q.-Y. Zhou
+
+<!---
+## ADDITIONAL TRAINING
+
+**Machine Learning Summer School** [*2016*]{.cvdate} <br> *Cadiz, Spain*
+--->
+
+## LANGUAGE SKILLS
+
+**Russian** (mother tongue), **English** (advanced), **German** (advanced)
+
+## TEACHING EXPERIENCE
+
+#### PhD student supervision
+
+**Jonas Kälble** [*Apr. 2023 --- now*]{.cvdate} <br> *Image-based occupancy estimation* <br> University of Saarland and Bosch
+
+**Melis Öcal** [*Sep. 2022 --- now*]{.cvdate} <br> *Generative modelling for 3D reconstruction* <br> University of Amsterdam and Bosch Delta Lab 2
+
+**Ronny Xavier Velastegui Sandoval** [*Oct. 2022 --- now*]{.cvdate} <br> *3D semantic segmentation* <br> University of Amsterdam and Bosch Delta Lab 2
+
+**Jan Bechtold** [*Apr. 2021 --- Mar. 2023*]{.cvdate} <br> *Single-view 3D reconstruction* <br> University of Freiburg and Bosch
+
+#### Master/bachelor/intern supervision
+
+**Yuchen Tao** [*Oct. 2021 --- Apr. 2022*]{.cvdate} <br> *Point cloud completion via direct measurement integration* <br> Master intern at BCAI
+
+**Olesya Tsapenko** [*Mar. 2019 --- Sep. 2019*]{.cvdate} <br> *Point cloud colorization using sparse convolutions* <br> Master’s thesis
+
+**Jan Bechtold** [*Jun. 2018 --- Dec. 2018*]{.cvdate} <br> *3D object detection using tangent convolutions* <br> Master’s thesis
+
+**Lukas Wiens** [*Dec. 2017 --- Mar. 2018*]{.cvdate} <br> *Implementierung der Octree Generating Networks Deep Learning Architektur in Tensorflow* <br> Bachelor’s thesis
+
+**Sudhanshu Mittal** [*Mar. 2017 --- Nov. 2017*]{.cvdate} <br> *Semi-supervised learning for real-world object recognition using adversarial autoencoders* <br> Master’s thesis
+
+**Vladislav Tananaev** [*Mar. 2017 --- Jun. 2017*]{.cvdate} <br> *Semantic segmentation in point clouds with deep networks* <br> Master’s thesis
+
+#### University courses
+
+**Optimization (in German)** [*WS 2019 --- 2020*]{.cvdate} <br> *Lecture* <br> Teaching assistant
+
+**Statistical pattern recognition** [*2018 --- 2019*]{.cvdate} <br> *Lecture, selected classes* <br> Lecturer
+
+**Computer vision** [*2018*]{.cvdate} <br> *Lecture, selected classes* <br> Lecturer
+
+**Deep learning for biomedical image analysis** [*2016 --- 2019*]{.cvdate} <br> *Seminar* <br> Supervisor
+
+**Current works in computer vision** [*2016 --- 2019*]{.cvdate} <br> *Seminar* <br> Supervisor
+
+**Deep learning** [*SS 2016*]{.cvdate} <br> *Lab course* <br> Co-organizer and supervisor
+
+**Parking space detection** [*SS 2015*]{.cvdate} <br> *Lab course* <br> Co-organizer
+
+## SELECTED TALKS
+
+Not including internal company/lab talks, not including talks prior to 2016.
+
+**3D deep learning: methods and applications** [*Jul. 2020*]{.cvdate} <br> *PhD defence, Freiburg, Germany*
+
+**3D deep learning: methods and applications** [*Dec. 2019*]{.cvdate} <br> *5th Christmas Colloquium on Computer Vision, Yandex, Moscow*
+
+**What do single-view 3d reconstruction networks learn?** [*Jul. 2019*]{.cvdate} <br> *Dynamic Vision workshop, CVPR, Long Beach*
+
+**Problems of single-image 3d reconstruction** [*Sep. 2018*]{.cvdate} <br> *Intel Network on Intelligent Systems Workshop, Munich*
+
+**Deep learning in computer vision and its applications to 3D data** [*Jun. 2018*]{.cvdate} <br> *Optics Colloquium, University of Freiburg*
+
+**Multi-view 3D models from single images with a convolutional network** [*Dec. 2016*]{.cvdate} <br> *2nd Christmas Colloquium on Computer Vision, Skoltech, Moscow*
+
+**Multi-view 3D models from single images with a convolutional network** [*Oct. 2016*]{.cvdate} <br> *ECCV, Amsterdam*
+
+**Graduation speech** [*Jul. 2016*]{.cvdate} <br> *Graduation ceremony, University of Freiburg*
+
+## VOLUNTEERING ACTIVITIES
+
+**Robotics workshop for Ukrainian kids** [*May. 2022 --- now*]{.cvdate} <br> *Organizer*
+
+**Youth hackathon Freiburg** [*Nov. 2019*]{.cvdate} <br> *Mentor*
