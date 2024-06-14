@@ -1,0 +1,76 @@
+---
+title: 'Learning to teach robotics'
+date: '2024-06-14'
+# categories: ['123', 'Second Tag']
+description: 'How I started a robotics school'
+image: images_locoschool/group_picture_banner.jpg
+---
+
+![](images_locoschool/group_picture.jpg)
+
+For the past two years, I've been running a robotics school for Ukrainian kids who came to Berlin after the invasion started. This is my first blog post in a series where I'll share my experiences and some lessons learned along the way. I have two reasons for writing this. First, there's a bit of a "dear-diary" element to it. This project has been a huge part of my life recently, but I haven't taken the time to really process everything that's happened since it began. Second, I hope someone out there might find it helpful to see the whole journey, not just a curated list of best practices (which I'll share eventually, so stay tuned).
+
+***
+
+### Idea and pitch
+
+Describing everything I felt in the weeks following February 24, 2022, is impossible, but I remember one particular thought that kept running through my mind: I need to do something. In retrospect, I realize there was nothing purely altruistic about that impulse; it was pretty much the only way to save my sanity and survive. So, I tried different ways to help. At some point, I stumbled upon [PANDA Platforma's Safe Space](https://panda-platforma.berlin/events/panda-safe-space-pandaukraine-78/), which took place every Sunday. It was a chance for people who had left their homes to talk, get some psychological support, or receive help navigating the maze of German bureaucracy. There were also workshops for kids. That's when it hit me: this was the perfect setting to turn my constant craving for teaching into something useful.
+
+A couple of years before that, I had tried my hand at mentoring in the [Youth Hackathon Freiburg](https://www.jugendarbeit-jhw.de/unsere-angebote/hackathon/), a weekend-long maker workshop for kids and teenagers. I might write about that experience in a later post, but in short, it was fantastic. So, I decided to use their format as a basis and pitch it as a multi-session course for kids and teenagers to PANDA.
+
+At that point, all I had was a very vague impression of what the whole thing could look like. Namely:
+
+1. It had to be about robotics because robots are cool. You know, they move and stuff -- kids should probably love it.
+2. It had to be fairly cheap in material costs, which meant no LEGO or other high-end brands as a platform.
+
+That’s it. I prepared a short elevator pitch along those lines and presented it at PANDA. Everyone was generally supportive of the direction, so now I had to work out the details. Right after the pitch, Kostya, my soon-to-be partner in crime, approached me. He was a software engineer who liked my idea and had actually thought of something similar himself, but focused on game development. We had a short but productive brainstorming session, and decided to work together. That’s when the fun stuff started.
+
+### Preparation
+
+First, we needed a concrete agenda. We decided to offer a course where kids would gradually build their own obstacle-avoiding robot. The first several sessions would cover the basics: the fundamentals of coding, working with DC motors, measuring distance with an ultrasonic sensor, and so on. In the second half of the course, the kids would combine these building blocks into a wheeled, obstacle-avoiding rover.
+
+Second, we needed a hardware platform. Somewhat biased by my previous hackathon experience, we decided to go with Arduino. It seemed powerful enough for what we had in mind, had a huge enthusiast community around it, and was fairly cheap—especially if you buy clones. An unofficial [Arduino starter set from Amazon](https://www.amazon.de/Complete-Ultimate-Tutorial-Microcontroller-Accessories/dp/B01IHCCKKK/ref=sr_1_1_sspa?crid=3OYHZQJXA55O3&dib=eyJ2IjoiMSJ9.ujJjh3WyJ0WwFxrwfvPWhmZVtXhsSoGUH-XaG5dA2NbzJzodMMOHl7WWUrNcdhyeQtMWQVpmoEGbDs6qP0d9rOq0EaFl_5izZmi6jOOt5PN6TgDOIN-p7uiOaO7RwnVy_H0A82ALE3i3qSdW8sEIvot2FSOSa6ousNwF4TRVBSBcQdvFBjvG33BJT08f097-ySGNOpwYL_QeRlNI7XXGnqMeqyct1twb7zTd4nkoimg.0FhJ8NKcKJ4vXXzhmQl_TCGhOTEBhhqRLlgoHSmA6Ho&dib_tag=se&keywords=electronics+starter+kit&qid=1718366705&sprefix=electronics+starter+kit%2Caps%2C105&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1), along with a [3-wheeled chassis](https://www.amazon.de/-/en/10Gtek-Chassis-Encoder-Battery-DIY/dp/B0B8G29X4V/ref=sr_1_4?crid=2O6T2Y4S4GOFB&dib=eyJ2IjoiMSJ9.REu-6R265PuFjKjKdtQlxhQjxEMG9u1x_jblT3YZQlqTFMlIrIfTdVEkkUHiF6SFc70NOB10Srwu8TdzE2zIJfgou5nIUS8AeXNds16eAimylXOV3qlJn56QSJe7wxg1MROfXppQtNn6-mbAUg9GUO4M3a30ZyyvA_MvciKBcnkLjw3HXsbFBJQ59_QowSm_AcLymEA2LQI7hS3-J0uWrjXqCRdm_KtZZR5Yc6E--P0.4m7CvGavkTDz2VOH4m8rW1vZAgufpy0LxAsjE2Wc5rk&dib_tag=se&keywords=robot+chassis&qid=1718366738&sprefix=robot+chassis%2Caps%2C93&sr=8-4), would cost less than $60, which was a perfectly reasonable price.
+
+Of course, I started with a prototype before purchasing multiple sets.
+
+![](images_locoschool/prototype.jpg)
+
+At this point, I want to give a big thank you to my Bosch manager, Michael Pfeiffer. When I started, I approached him to see if Bosch would be willing to financially support my initiative. Michael was instantly sold on the idea. He asked how much I needed, and after I told him the amount, he just transferred it to my PayPal account. As far as I know, he asked the management team for donations afterward, so thanks also to everyone who chipped in. It was the most uncomplicated process ever. The initial equipment batch was bought with this money.
+
+Third, we needed a software framework. This one was trickier. The course was planned to be roughly 10 weeks long with 2-hour weekly sessions, targeting 11-14-year-olds with no prior experience in programming. This effectively meant that C as a programming language was out of bounds if we realistically wanted to get to the fun stuff. Instead, we looked into block-based programming, like Arduino-compatible versions of Scratch or Blockly. Even though I was deeply impressed by how popular block programming had become, the available tools still seemed limited at best. Some of them were platform-specific, only working with certain microcontroller types and supporting a certain set of peripheral devices. Others were more generic but poorly designed and unreliable. In the end, we picked [OttoBlockly](https://www.ottodiy.com/software), an IDE powering the [Otto](https://www.ottodiy.com) robot. It was an open-source environment with a reasonable set of functions, and it had versions for both Windows and Mac OS.
+
+At the same time, I also started considering the idea of getting a 3D printer. It was clear that launching the course was perfectly possible without one. However, having one would elevate everything to a more professional level (note the magnificent cardboard-and-clothespin sensor mounting in the prototype) and enable us to design custom parts for robots. In the end, I gave in and purchased an [Ender 3 V2](https://store.creality.com/de/products/ender-3-v2-3d-printer) for about $250. It was quite capable, yet affordable enough to not suffer too much in case the whole enterprise did not work out. Looking back, I have to say this was one of the best decisions I made along the way.
+
+### Launch
+
+Finally, we were ready to launch. PANDA posted the invitation in some Ukrainian TG channels, and in less than 24 hours, our registration list was full. We asked everyone to bring their own laptops because providing computers for the course was too expensive. Kostya and I didn't have time to plan the entire course in advance, so we only planned one session ahead.
+
+I was super nervous, but everything worked out well. The kids were supportive and communicative. The hardware (mostly) worked. The software (mostly) worked.
+
+In the first half of the course, which lasted 5 weeks, every session followed roughly the same structure. We started with a short presentation of the current topic, such as how to work with the ultrasonic sensor. Then, there were some small exercises followed by the final "project" — for example, a parktronic system that would beep differently depending on the distance. I even designed a handheld housing for that one.
+
+![](images_locoschool/parktronic.jpg)
+
+One important lesson I quickly learned was that **lectures do not work, not even a little**. I had to forget all my university-style teaching and make the presentation part as interactive as possible. This meant discussing, asking questions, brainstorming together — but in no way just going through slides and showing things.
+
+![](images_locoschool/lecture.jpg)
+
+There were a total of 10 participants, mostly working in groups of two. Fortunately, we didn't admit more people because this was nearly the limit of what two mentors could reasonably handle. Because:
+
+1. Hardware and software are not perfect. When problems arose, we had to troubleshoot and fix them ourselves, which was sometimes niether straightforward, nor fast.
+
+2. The kids had little to no experience with programming and hardware, they required a lot of individualized support.
+
+Focusing on one group inevitably meant temporarily leaving others who might quickly get stuck. So, limiting the course to 10 participants (actually fewer at times due to sickness or missed sessions) turned out to be a good call.
+
+![](images_locoschool/session.jpg)
+
+Over the second half of the course we worked together to build the final robots. The basic goal was the same for every team: create an obstacle-avoiding rover capable of autonomously navigating without collisions. Of course, every team ended up with a slightly different version of course. Here is one.
+
+![](images_locoschool/final_robot.jpg)
+
+You can see some jumper-wire spaghetti, a creatively mounted power bank, and a loose breadboard. Yes, the hardware platform we offered was definitely not perfect (more on this in later posts). But the important thing was that it worked. We concluded the course with a robot show-off for parents and a tea party featuring syrniki (Eastern European cottage cheese pancakes).
+
+***
+
+In the next post, I'll write about the adjustments we made to the course based on this initial experience, and the three subsequent streams that followed.
