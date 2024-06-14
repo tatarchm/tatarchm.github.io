@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-06-14">
+<meta name="description" content="How I started my robotics school">
 
-<title>Maxim Tatarchenko - Blog</title>
+<title>Maxim Tatarchenko - Learning to teach robotics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -138,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Maxim Tatarchenko</span>
     </a>
   </div>
@@ -149,19 +91,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -176,21 +118,40 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#idea-and-pitch" id="toc-idea-and-pitch" class="nav-link active" data-scroll-target="#idea-and-pitch">Idea and pitch</a></li>
+  <li><a href="#preparation" id="toc-preparation" class="nav-link" data-scroll-target="#preparation">Preparation</a></li>
+  <li><a href="#launch" id="toc-launch" class="nav-link" data-scroll-target="#launch">Launch</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title">Learning to teach robotics</h1>
 </div>
 
+<div>
+  <div class="description">
+    How I started my robotics school
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 14, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -200,67 +161,55 @@ window.Quarto = {
 </header>
 
 
+<p><img src="images_locoschool/group_picture.jpg" class="img-fluid"></p>
+<p>For the past two years, I’ve been running a robotics school for Ukrainian kids who came to Berlin after the invasion started. This is my first blog post in a series where I’ll share my experiences and some lessons learned along the way. I have two reasons for writing this. First, there’s a bit of a “dear-diary” element to it. This project has been a huge part of my life recently, but I haven’t taken the time to really process everything that’s happened since it began. Second, I hope someone out there might find it helpful to see the whole journey, not just a curated list of best practices (which I’ll share eventually, so stay tuned).</p>
+<hr>
+<section id="idea-and-pitch" class="level3">
+<h3 class="anchored" data-anchor-id="idea-and-pitch">Idea and pitch</h3>
+<p>Describing everything I felt in the weeks following February 24, 2022, is impossible, but I remember one particular thought that kept running through my mind: I need to do something. In retrospect, I realize there was nothing purely altruistic about that impulse; it was pretty much the only way to save my sanity and survive. So, I tried different ways to help. At some point, I stumbled upon <a href="https://panda-platforma.berlin/events/panda-safe-space-pandaukraine-78/">PANDA Platforma’s Safe Space</a>, which took place every Sunday. It was a chance for people who had left their homes to talk, get some psychological support, or receive help navigating the maze of German bureaucracy. There were also workshops for kids. That’s when it hit me: this was the perfect setting to turn my constant craving for teaching into something useful.</p>
+<p>A couple of years before that, I had tried my hand at mentoring in the <a href="https://www.jugendarbeit-jhw.de/unsere-angebote/hackathon/">Youth Hackathon Freiburg</a>, a weekend-long maker workshop for kids and teenagers. I might write about that experience in a later post, but in short, it was fantastic. So, I decided to use their format as a basis and pitch it as a multi-session course for kids and teenagers to PANDA.</p>
+<p>At that point, all I had was a very vague impression of what the whole thing could look like. Namely:</p>
+<ol type="1">
+<li>It had to be about robotics because robots are cool. You know, they move and stuff – kids should probably love it.</li>
+<li>It had to be fairly cheap in material costs, which meant no LEGO or other high-end brands as a platform.</li>
+</ol>
+<p>That’s it. I prepared a short elevator pitch along those lines and presented it at PANDA. Everyone was generally supportive of the direction, so now I had to work out the details. Right after the pitch, Kostya, my soon-to-be partner in crime, approached me. He was a software engineer who liked my idea and had actually thought of something similar himself, but focused on game development. We had a short but productive brainstorming session, and decided to work together. That’s when the fun stuff started.</p>
+</section>
+<section id="preparation" class="level3">
+<h3 class="anchored" data-anchor-id="preparation">Preparation</h3>
+<p>First, we needed a concrete agenda. We decided to offer a course where kids would gradually build their own obstacle-avoiding robot. The first several sessions would cover the basics: the fundamentals of coding, working with DC motors, measuring distance with an ultrasonic sensor, and so on. In the second half of the course, the kids would combine these building blocks into a wheeled, obstacle-avoiding rover.</p>
+<p>Second, we needed a hardware platform. Somewhat biased by my previous hackathon experience, we decided to go with Arduino. It seemed powerful enough for what we had in mind, had a huge enthusiast community around it, and was fairly cheap—especially if you buy clones. An unofficial <a href="https://www.amazon.de/Complete-Ultimate-Tutorial-Microcontroller-Accessories/dp/B01IHCCKKK/ref=sr_1_1_sspa?crid=3OYHZQJXA55O3&amp;dib=eyJ2IjoiMSJ9.ujJjh3WyJ0WwFxrwfvPWhmZVtXhsSoGUH-XaG5dA2NbzJzodMMOHl7WWUrNcdhyeQtMWQVpmoEGbDs6qP0d9rOq0EaFl_5izZmi6jOOt5PN6TgDOIN-p7uiOaO7RwnVy_H0A82ALE3i3qSdW8sEIvot2FSOSa6ousNwF4TRVBSBcQdvFBjvG33BJT08f097-ySGNOpwYL_QeRlNI7XXGnqMeqyct1twb7zTd4nkoimg.0FhJ8NKcKJ4vXXzhmQl_TCGhOTEBhhqRLlgoHSmA6Ho&amp;dib_tag=se&amp;keywords=electronics+starter+kit&amp;qid=1718366705&amp;sprefix=electronics+starter+kit%2Caps%2C105&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1">Arduino starter set from Amazon</a>, along with a <a href="https://www.amazon.de/-/en/10Gtek-Chassis-Encoder-Battery-DIY/dp/B0B8G29X4V/ref=sr_1_4?crid=2O6T2Y4S4GOFB&amp;dib=eyJ2IjoiMSJ9.REu-6R265PuFjKjKdtQlxhQjxEMG9u1x_jblT3YZQlqTFMlIrIfTdVEkkUHiF6SFc70NOB10Srwu8TdzE2zIJfgou5nIUS8AeXNds16eAimylXOV3qlJn56QSJe7wxg1MROfXppQtNn6-mbAUg9GUO4M3a30ZyyvA_MvciKBcnkLjw3HXsbFBJQ59_QowSm_AcLymEA2LQI7hS3-J0uWrjXqCRdm_KtZZR5Yc6E--P0.4m7CvGavkTDz2VOH4m8rW1vZAgufpy0LxAsjE2Wc5rk&amp;dib_tag=se&amp;keywords=robot+chassis&amp;qid=1718366738&amp;sprefix=robot+chassis%2Caps%2C93&amp;sr=8-4">3-wheeled chassis</a>, would cost less than $60, which was a perfectly reasonable price.</p>
+<p>Of course, I started with a prototype before purchasing multiple sets.</p>
+<p><img src="images_locoschool/prototype.jpg" class="img-fluid"></p>
+<p>At this point, I want to give a big thank you to my Bosch manager, Michael Pfeiffer. When I started, I approached him to see if Bosch would be willing to financially support my initiative. Michael was instantly sold on the idea. He asked how much I needed, and after I told him the amount, he just transferred it to my PayPal account. As far as I know, he asked the management team for donations afterward, so thanks also to everyone who chipped in. It was the most uncomplicated process ever. The initial equipment batch was bought with this money.</p>
+<p>Third, we needed a software framework. This one was trickier. The course was planned to be roughly 10 weeks long with 2-hour weekly sessions, targeting 11-14-year-olds with no prior experience in programming. This effectively meant that C as a programming language was out of bounds if we realistically wanted to get to the fun stuff. Instead, we looked into block-based programming, like Arduino-compatible versions of Scratch or Blockly. Even though I was deeply impressed by how popular block programming had become, the available tools still seemed limited at best. Some of them were platform-specific, only working with certain microcontroller types and supporting a certain set of peripheral devices. Others were more generic but poorly designed and unreliable. In the end, we picked <a href="https://www.ottodiy.com/software">OttoBlockly</a>, an IDE powering the <a href="https://www.ottodiy.com">Otto</a> robot. It was an open-source environment with a reasonable set of functions, and it had versions for both Windows and Mac OS.</p>
+<p>At the same time, I also started considering the idea of getting a 3D printer. It was clear that launching the course was perfectly possible without one. However, having one would elevate everything to a more professional level (note the magnificent cardboard-and-clothespin sensor mounting in the prototype) and enable us to design custom parts for robots. In the end, I gave in and purchased an <a href="https://store.creality.com/de/products/ender-3-v2-3d-printer">Ender 3 V2</a> for about $250. It was quite capable, yet affordable enough to not suffer too much in case the whole enterprise did not work out. Looking back, I have to say this was one of the best decisions I made along the way.</p>
+</section>
+<section id="launch" class="level3">
+<h3 class="anchored" data-anchor-id="launch">Launch</h3>
+<p>Finally, we were ready to launch. PANDA posted the invitation in some Ukrainian TG channels, and in less than 24 hours, our registration list was full. We asked everyone to bring their own laptops because providing computers for the course was too expensive. Kostya and I didn’t have time to plan the entire course in advance, so we only planned one session ahead.</p>
+<p>I was super nervous, but everything worked out well. The kids were supportive and communicative. The hardware (mostly) worked. The software (mostly) worked.</p>
+<p>In the first half of the course, which lasted 5 weeks, every session followed roughly the same structure. We started with a short presentation of the current topic, such as how to work with the ultrasonic sensor. Then, there were some small exercises followed by the final “project” — for example, a parktronic system that would beep differently depending on the distance. I even designed a handheld housing for that one.</p>
+<p><img src="images_locoschool/parktronic.jpg" class="img-fluid"></p>
+<p>One important lesson I quickly learned was that <strong>lectures do not work, not even a little</strong>. I had to forget all my university-style teaching and make the presentation part as interactive as possible. This meant discussing, asking questions, brainstorming together — but in no way just going through slides and showing things.</p>
+<p><img src="images_locoschool/lecture.jpg" class="img-fluid"></p>
+<p>There were a total of 10 participants, mostly working in groups of two. Fortunately, we didn’t admit more people because this was nearly the limit of what two mentors could reasonably handle. Because:</p>
+<ol type="1">
+<li><p>Hardware and software are not perfect. When problems arose, we had to troubleshoot and fix them ourselves, which was sometimes niether straightforward, nor fast.</p></li>
+<li><p>The kids had little to no experience with programming and hardware, they required a lot of individualized support.</p></li>
+</ol>
+<p>Focusing on one group inevitably meant temporarily leaving others who might quickly get stuck. So, limiting the course to 10 participants (actually fewer at times due to sickness or missed sessions) turned out to be a good call.</p>
+<p><img src="images_locoschool/session.jpg" class="img-fluid"></p>
+<p>Over the second half of the course we worked together to build the final robots. The basic goal was the same for every team: create an obstacle-avoiding rover capable of autonomously navigating without collisions. Of course, every team ended up with a slightly different version of course. Here is one.</p>
+<p><img src="images_locoschool/final_robot.jpg" class="img-fluid"></p>
+<p>You can see some jumper-wire spaghetti, a creatively mounted power bank, and a loose breadboard. Yes, the hardware platform we offered was definitely not perfect (more on this in later posts). But the important thing was that it worked. We concluded the course with a robot show-off for parents and a tea party featuring syrniki (Eastern European cottage cheese pancakes).</p>
+<hr>
+<p>In the next post, I’ll write about the adjustments we made to the course based on this initial experience, and the three subsequent streams that followed.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1551481200000" data-listing-file-modified-sort="1710098162832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1991">
-<div class="thumbnail">
-<p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a></p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external">
-<p><img src="./images/stanford.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">Efficient Learning</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">What twenty years of formal education taught me about approaching new information</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">
-<div class="listing-date">
-Mar 2, 2019
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1718316000000" data-listing-file-modified-sort="1718370799910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1401">
-<div class="thumbnail">
-<p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a></p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">
-<p><img src="./blog/images_locoschool/group_picture_banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">Learning to teach robotics</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">How I started my robotics school</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">
-<div class="listing-date">
-Jun 14, 2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
