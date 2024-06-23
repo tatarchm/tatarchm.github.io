@@ -65,7 +65,7 @@ Focusing on one group inevitably meant temporarily leaving others who might quic
 
 ![](images_locoschool/session.jpg)
 
-Over the second half of the course we worked together to build the final robots. The basic goal was the same for every team: create an obstacle-avoiding rover capable of autonomously navigating without collisions. Of course, every team ended up with a slightly different version of course. Here is one.
+Over the second half of the course we worked together to build the final robots. The basic goal was the same for every team: create an obstacle-avoiding rover capable of autonomously navigating without collisions. Of course, every team ended up with a slightly different version. Here is one.
 
 ![](images_locoschool/final_robot.jpg)
 
