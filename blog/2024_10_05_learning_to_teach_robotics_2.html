@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-10-05">
+<meta name="description" content="Trial and error">
 
-<title>Maxim Tatarchenko - Blog</title>
+<title>Maxim Tatarchenko - Learning to teach robotics 2</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -138,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Maxim Tatarchenko</span>
     </a>
   </div>
@@ -149,19 +91,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -176,21 +118,41 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#lectures-dont-work-slides-dont-matter" id="toc-lectures-dont-work-slides-dont-matter" class="nav-link active" data-scroll-target="#lectures-dont-work-slides-dont-matter">Lectures don’t work, slides don’t matter</a></li>
+  <li><a href="#they-have-better-ideas-than-you-do" id="toc-they-have-better-ideas-than-you-do" class="nav-link" data-scroll-target="#they-have-better-ideas-than-you-do">They have better ideas than you do</a></li>
+  <li><a href="#documentation-is-important-but-dont-call-it-that" id="toc-documentation-is-important-but-dont-call-it-that" class="nav-link" data-scroll-target="#documentation-is-important-but-dont-call-it-that">Documentation is important (but don’t call it that)</a></li>
+  <li><a href="#students-per-mentor" id="toc-students-per-mentor" class="nav-link" data-scroll-target="#students-per-mentor">3.3333333 students per mentor</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title">Learning to teach robotics 2</h1>
 </div>
 
+<div>
+  <div class="description">
+    Trial and error
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 5, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -200,92 +162,55 @@ window.Quarto = {
 </header>
 
 
+<p>The <a href="https://tatarchm.github.io/blog/2024_06_14_learning_to_teach_robotics.html">pilot robotics course</a> went quite well so we were naturally motivated to continue. What followed were three more streams, where we tried out - with various degrees of success - a lot of different ideas. This is a lessons learned post describing those attempts and how they played out. I will mostly focus on the organizational and conceptual aspects, leaving the technical details of the platform we used for a later post.</p>
+<hr>
+<p>There are two strategies for learning something new. If you have the time, you can systematically work your way through the fundamentals, gradually going from the basics to more advanced topics, letting the knowledge sink in. That’s how university education works. If you don’t have the time (and who does, right?), you start doing something and learn as you go. That’s how startups work.</p>
+<p>That’s how we learned to teach robotics, too. For the lack of a better term, let’s call it intuitive pedagogy. I’m sure thoughts that will follow are mostly self-evident if you have a formal education as a teacher. We didn’t. Instead, we <a href="https://tatarchm.github.io/blog/2024_06_14_learning_to_teach_robotics.html">put together</a> a course that seemed plausible, with the intention of getting into a feedback loop as quickly as possible. Here’s the feedback we got and how we dealt with it.</p>
+<section id="lectures-dont-work-slides-dont-matter" class="level3">
+<h3 class="anchored" data-anchor-id="lectures-dont-work-slides-dont-matter">Lectures don’t work, slides don’t matter</h3>
+<p>The original idea of splitting the course into two parts - basics and projects - stayed intact. During the “basics” sessions we would usually take turns going through several PowerPoint slides covering the new topic. As it quickly turned out, these short lectures do not work. Not even a little.</p>
+<p>I was biased by my university teaching experience, where one could talk about something for an extended period of time, without losing the audience. Not the case with kids. And I don’t mean 30-minute-long monologues, even 2-3 minutes of you talking without any interaction was way too much. I could almost read the word “b-o-r-i-n-g” on their faces, no matter how much effort I put into the slide design.</p>
+<p>What worked well, on the other hand, was staying in a constant discussion mode. I would say a couple of sentences, then check in: “What do you think? Why is this a problem? What can we do about it? Do you have an idea how this could work?” In my experience, the kids usually eagerly engaged in such discussions. Interestingly, it did not matter that much whether you had slides during those conversations or not. Of course, some concepts are easier to illustrate if you have a picture at hand. But most of the time just brainstorming together was really enough. Such discussions also worked well during the recaps at the beginning of each session where we tried to quickly refresh the concepts from the previous meetings.</p>
+<p>This also nicely played together with the role I wanted to take in the whole process. I did not see myself as a teacher in the classical sense, rather what a <em>senpai</em> is in karate - someone more experienced, one who has trained longer. Eye-level discussions with me as a moderator felt exactly right.</p>
+</section>
+<section id="they-have-better-ideas-than-you-do" class="level3">
+<h3 class="anchored" data-anchor-id="they-have-better-ideas-than-you-do">They have better ideas than you do</h3>
+<p>In the second half of the course, I wanted to give the kids more freedom with their projects. Starting from the second stream, every team would design and build their own custom robots.</p>
+<p>During the brainstorming sessions the room would buzz with ideas. Our main task as mentors was directing the kids’ fountains of creativity, wrapping their proposals into something the teams could actually implement within the following 4-5 weeks. There is some delicacy to it. You need to convert their often extremely ambitious ideas into a workable plan, while preserving the authors’ original intention.</p>
+<p><img src="images_locoschool/locoschoolcomics.png" class="img-fluid"></p>
+<p>We even asked every group to jot down a brief project plan. Of course, those went astray right after the first step but it was not a bad thing to do nonetheless. The young engineers got a glimpse of how plans often work out in reality.</p>
+<p>To this day I am vastly impressed by the projects with which the teams came up. Letting them decide what to do was better than handing out fixed tasks on so many levels. As a result, we got a remote-controlled painter that could draw shapes similar to those from a spirogrpah.</p>
+<p><img src="images_locoschool/painter.png" class="img-fluid"></p>
+<p>A Mars rover that would collect atmospheric measurements and transfer them to Earth in Morse code. Guess how we simulated the temperature changes?</p>
+<p><img src="images_locoschool/mars_rover.png" class="img-fluid"> <img src="images_locoschool/hair_dryer.png" class="img-fluid"></p>
+<p>A custom-sculpted moveable manipulator.</p>
+<p><img src="images_locoschool/manipulator.png" class="img-fluid"></p>
+<p>A robot that would scan the environment and display the map on the screen.</p>
+<p><img src="images_locoschool/mapper.png" class="img-fluid"></p>
+<p>An many more. I could dedicate the entire post to the awesome kids’ project. In summary, creative part of the course - definitely a go.</p>
+</section>
+<section id="documentation-is-important-but-dont-call-it-that" class="level3">
+<h3 class="anchored" data-anchor-id="documentation-is-important-but-dont-call-it-that">Documentation is important (but don’t call it that)</h3>
+<p>In the first stream there were no materials we could hand out to the students. They would simply ask us every time they forgot how to connect some component or how to use some coding block. This worked but was definitely not perfect.</p>
+<p>I’m not sure which is the best learning medium for gen alpha but as a millenial I figured it could be videos so I started a YouTube channel. This gave me a chance to direct those who missed a session to the corresponding video, instead of trying to squeeze in 15 minutes worth of information into a short one-on-one conversation during the next class. This also opened a door to handing out some optional homework assignments for those who wanted to practice outside the classroom.</p>
+<p>The reality was slightly different. First, no one likes homework (well, who could have guessed!). There were occasional people who would touch the Arduino at home but their number was disproportional to the effort I had to put into those videos. Second, it is not a coincidence that hardware has “hard” in it. You have to connect everything correctly, otherwise some components might burn. You have to debug if something does not work right away. You have to figure out how to deal with occasional equipment hickups and imperfections. All of those are fine if there’s an experienced mentor sitting next to you, providing real-time feedback. When you are 12 years old, trying to replicate something from a YouTube video alone, it quickly gets tricky.</p>
+<p>Plus, we were constantly changing something about the course so the videos got outdated a couple of weeks after I published them. All of those reasons made me quit after recording about five videos. At some point I might come back to it though. While time-consuming, video production actually was fun. There was also some positive feedback. My video about the basics of Arduino programming got around 2K views, which was surprising given that I never advertised it anywhere - all those came organically through YouTube’s recommendation system.</p>
+<p>Instead of videos, we ended up putting together a couple of documentation pages summarizing how to connect certain components and how to control them with blocks. Those were not self-sufficient, you could not learn a completely new topic from them. They rather worked as a quick reference. A final marketing tip: calling them <em>documentation</em>, however professional it may sound, does not agree with kids. The word is too scary. <em>Cheatsheet</em> is better.</p>
+<p><img src="images_locoschool/documentation.png" class="img-fluid"></p>
+</section>
+<section id="students-per-mentor" class="level3">
+<h3 class="anchored" data-anchor-id="students-per-mentor">3.3333333 students per mentor</h3>
+<p>Kostya and I finished two streams together, then he had to leave the project. I started looking for a new companion an luckily found Vova, a brilliant engineering student. The two of us ran the third stream. After that, I got approached by Natasha. She was the mother of one of the boys who attended the first stream, and she wanted to join as a mentor now. For the fourth stream we became a trio, and things instantly got so much better.</p>
+<p>With individual projects and inexperienced audience two people often can’t provide enough support. There is simply too much multi-tasking: debugging hardware issues, discussing the next implementation step, configuring the environment, explaining the concept someone missed… Three mentors for ten students turned out to be a perfect ratio.</p>
+<hr>
+<p>Finally, I came up with a brand name - this is when the project officially became LOCO School.</p>
+<p><img src="images_locoschool/logo_center.jpg" class="img-fluid"></p>
+<p>LOCO as in locomotion, making the robots drive and driving the students forward. And if you feel a little Spanish, LOCO as in a not-quite-your-regular school with a bit of good craziness, making it so much more fun.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1728079200000" data-listing-file-modified-sort="1728146411895" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1362">
-<div class="thumbnail">
-<p><a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external"></a></p><a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">
-<p><img src="./blog/images_locoschool/lecture_banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">Learning to teach robotics 2</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">Trial and error</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">
-<div class="listing-date">
-Oct 5, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1718316000000" data-listing-file-modified-sort="1727948383926" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1319">
-<div class="thumbnail">
-<p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a></p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">
-<p><img src="./blog/images_locoschool/group_picture_banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">Learning to teach robotics</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">How I started a robotics school</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">
-<div class="listing-date">
-Jun 14, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1551481200000" data-listing-file-modified-sort="1727943313339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1991">
-<div class="thumbnail">
-<p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a></p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external">
-<p><img src="./images/stanford.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">Efficient Learning</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">What twenty years of formal education taught me about approaching new information</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">
-<div class="listing-date">
-Mar 2, 2019
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
