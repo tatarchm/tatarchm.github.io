@@ -2,6 +2,7 @@
 title: "Blog"
 listing:
     feed: false
+    sort: "date desc"
     sort-ui: false
     contents:
         - "blog/*.qmd"
