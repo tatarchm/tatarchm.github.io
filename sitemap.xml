@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://tatarchm.github.io/index.html</loc>
-    <lastmod>2024-03-10T19:21:44.343Z</lastmod>
+    <lastmod>2024-12-01T11:36:19.332Z</lastmod>
   </url>
   <url>
     <loc>https://tatarchm.github.io/publications/tatarchenko19cvpr_what3d.html</loc>
@@ -25,12 +25,20 @@
     <lastmod>2024-03-11T19:20:34.796Z</lastmod>
   </url>
   <url>
-    <loc>https://tatarchm.github.io/publications/dosovitskiy17tpami_chairs.html</loc>
-    <lastmod>2024-03-11T19:35:11.339Z</lastmod>
+    <loc>https://tatarchm.github.io/publications/velastegui24cviu_semseg.html</loc>
+    <lastmod>2024-12-01T11:47:15.492Z</lastmod>
   </url>
   <url>
-    <loc>https://tatarchm.github.io/publications/tatarchenko18cvpr_tangentconv.html</loc>
-    <lastmod>2024-03-11T19:31:50.872Z</lastmod>
+    <loc>https://tatarchm.github.io/publications/kaelble24cvpr_binocc.html</loc>
+    <lastmod>2024-12-01T11:43:30.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tatarchm.github.io/publications/boehm19isbi_isoodlv2.html</loc>
+    <lastmod>2024-03-11T19:24:50.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tatarchm.github.io/publications/ocal23eccv_sceneteller.html</loc>
+    <lastmod>2024-12-01T11:39:42.988Z</lastmod>
   </url>
   <url>
     <loc>https://tatarchm.github.io/publications/tatarchenko23radarconf_histdl.html</loc>
@@ -49,8 +57,16 @@
     <lastmod>2024-03-11T19:15:07.682Z</lastmod>
   </url>
   <url>
-    <loc>https://tatarchm.github.io/publications/boehm19isbi_isoodlv2.html</loc>
-    <lastmod>2024-03-11T19:24:50.019Z</lastmod>
+    <loc>https://tatarchm.github.io/publications/tatarchenko18cvpr_tangentconv.html</loc>
+    <lastmod>2024-03-11T19:31:50.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tatarchm.github.io/publications/ocal24arxiv_realdiff.html</loc>
+    <lastmod>2024-12-01T11:49:37.305Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tatarchm.github.io/publications/dosovitskiy17tpami_chairs.html</loc>
+    <lastmod>2024-03-11T19:35:11.339Z</lastmod>
   </url>
   <url>
     <loc>https://tatarchm.github.io/publications/mittal19tpami_semseg.html</loc>

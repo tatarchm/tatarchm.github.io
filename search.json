@@ -11,7 +11,7 @@
     "href": "publications.html",
     "title": "Maxim Tatarchenko",
     "section": "",
-    "text": "Google Scholar\n\n\n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors\n    J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox\n    CVPR\n     (2021)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects\n    A. Böhm, M. Tatarchenko, and T. Falk\n    ISBI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Parting with Illusions about Deep Active Learning\n    S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox\n    arXiv\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Self-supervised 3d shape and viewpoint estimation from single images\n    O. Mees, M. Tatarchenko, T. Brox and W. Burgard\n    IROS\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Semi-supervised semantic segmentation with high- and low-level consistency\n    S. Mittal, M. Tatarchenko and T. Brox\n    TPAMI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    What do single-view 3d reconstruction networks learn?\n    M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox\n    CVPR\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Tangent convolutions for dense prediction in 3D\n    M. Tatarchenko, J. Park, V. Koltun, and Q.-Y. Zhou\n    CVPR\n     (2018)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Learning to generate chairs, tables and cars with convolutional networks\n    A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox\n    TPAMI\n     (2017)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ICCV\n     (2017)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Multi-view 3d models from single images with a convolutional network\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ECCV\n     (2016)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    3D-reconstruction of indoor environments from human activity\n    B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard\n    ICRA\n     (2015)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
+    "text": "Google Scholar\n\n\n\n  \n    Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory\n    J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg\n    CVPR\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Image semantic segmentation of indoor scenes: A survey\n    R. Velastegui, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    CVIU\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models\n    B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    arXiv\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    SceneTeller: Language-to-3D Scene Generation\n    B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    ECCV\n     (2024)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors\n    J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox\n    CVPR\n     (2021)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects\n    A. Böhm, M. Tatarchenko, and T. Falk\n    ISBI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Parting with Illusions about Deep Active Learning\n    S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox\n    arXiv\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Self-supervised 3d shape and viewpoint estimation from single images\n    O. Mees, M. Tatarchenko, T. Brox and W. Burgard\n    IROS\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Semi-supervised semantic segmentation with high- and low-level consistency\n    S. Mittal, M. Tatarchenko and T. Brox\n    TPAMI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    What do single-view 3d reconstruction networks learn?\n    M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox\n    CVPR\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Tangent convolutions for dense prediction in 3D\n    M. Tatarchenko, J. Park, V. Koltun, and Q.-Y. Zhou\n    CVPR\n     (2018)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Learning to generate chairs, tables and cars with convolutional networks\n    A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox\n    TPAMI\n     (2017)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ICCV\n     (2017)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Multi-view 3d models from single images with a convolutional network\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ECCV\n     (2016)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    3D-reconstruction of indoor environments from human activity\n    B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard\n    ICRA\n     (2015)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/2019_03_02_efficient_learning.html",
@@ -70,46 +70,88 @@
     "text": "Bibtex\n@misc{bechtold21cvpr,\n      title={Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors}, \n      author={Jan Bechtold, Maxim Tatarchenko, Volker Fischer and Thomas Brox},\n      year={2021},\n      booktitle={CVPR}\n}"
   },
   {
-    "objectID": "publications/dosovitskiy17tpami_chairs.html",
-    "href": "publications/dosovitskiy17tpami_chairs.html",
-    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "objectID": "publications/velastegui24cviu_semseg.html",
+    "href": "publications/velastegui24cviu_semseg.html",
+    "title": "Image semantic segmentation of indoor scenes: A survey",
     "section": "",
-    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+    "text": "This survey provides a comprehensive evaluation of various deep learning-based segmentation architectures. It covers a wide range of models, from traditional ones like FCN and PSPNet to more modern approaches like SegFormer and FAN. In addition to assessing the methods in terms of segmentation accuracy, we propose to also evaluate the methods in terms of temporal consistency and corruption vulnerability. Most of the existing surveys on semantic segmentation focus on outdoor datasets. In contrast, this survey focuses on indoor scenarios to enhance the applicability of segmentation methods in this specific domain. Furthermore, our evaluation consists of a performance analysis of the methods in prevalent real-world segmentation scenarios that pose particular challenges. These complex situations involve scenes impacted by diverse forms of noise, blur corruptions, camera movements, optical aberrations, among other factors. By jointly exploring the segmentation accuracy, temporal consistency, and corruption vulnerability in challenging real-world situations, our survey offers insights that go beyond existing surveys, facilitating the understanding and development of better image segmentation methods for indoor scenes."
   },
   {
-    "objectID": "publications/dosovitskiy17tpami_chairs.html#abstract",
-    "href": "publications/dosovitskiy17tpami_chairs.html#abstract",
-    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "objectID": "publications/velastegui24cviu_semseg.html#abstract",
+    "href": "publications/velastegui24cviu_semseg.html#abstract",
+    "title": "Image semantic segmentation of indoor scenes: A survey",
     "section": "",
-    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+    "text": "This survey provides a comprehensive evaluation of various deep learning-based segmentation architectures. It covers a wide range of models, from traditional ones like FCN and PSPNet to more modern approaches like SegFormer and FAN. In addition to assessing the methods in terms of segmentation accuracy, we propose to also evaluate the methods in terms of temporal consistency and corruption vulnerability. Most of the existing surveys on semantic segmentation focus on outdoor datasets. In contrast, this survey focuses on indoor scenarios to enhance the applicability of segmentation methods in this specific domain. Furthermore, our evaluation consists of a performance analysis of the methods in prevalent real-world segmentation scenarios that pose particular challenges. These complex situations involve scenes impacted by diverse forms of noise, blur corruptions, camera movements, optical aberrations, among other factors. By jointly exploring the segmentation accuracy, temporal consistency, and corruption vulnerability in challenging real-world situations, our survey offers insights that go beyond existing surveys, facilitating the understanding and development of better image segmentation methods for indoor scenes."
   },
   {
-    "objectID": "publications/dosovitskiy17tpami_chairs.html#bibtex",
-    "href": "publications/dosovitskiy17tpami_chairs.html#bibtex",
-    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "objectID": "publications/velastegui24cviu_semseg.html#bibtex",
+    "href": "publications/velastegui24cviu_semseg.html#bibtex",
+    "title": "Image semantic segmentation of indoor scenes: A survey",
     "section": "Bibtex",
-    "text": "Bibtex\n@misc{dosovitskiy17tpami_chairs,\n      title={Learning to generate chairs, tables and cars with convolutional networks}, \n      author={Alexey Dosovitskiy and Jost Tobias Springenberg and Maxim Tatarchenko and Thomas Brox},\n      year={2017},\n      booktitle={TPAMI}\n}"
+    "text": "Bibtex\n@misc{velastegui24cviu_semseg,\n      title={Image semantic segmentation of indoor scenes: A survey}, \n      author={Ronny Velastegui and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={CVIU}\n}"
   },
   {
-    "objectID": "publications/tatarchenko18cvpr_tangentconv.html",
-    "href": "publications/tatarchenko18cvpr_tangentconv.html",
-    "title": "Tangent convolutions for dense prediction in 3D",
+    "objectID": "publications/kaelble24cvpr_binocc.html",
+    "href": "publications/kaelble24cvpr_binocc.html",
+    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
     "section": "",
-    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
+    "text": "Automated driving fundamentally requires knowledge about the surrounding geometry of the scene. Modern approaches use only captured images to predict occupancy maps that represent the geometry. Training these approaches requires accurate data that may be acquired with the help of LiDAR scanners. We show that the techniques used for current benchmarks and training datasets to convert LiDAR scans into occupancy grid maps yield very low quality, and subsequently present a novel approach using evidence theory that yields more accurate reconstructions. We demonstrate that these are superior by a large margin, both qualitatively and quantitatively, and that we additionally obtain meaningful uncertainty estimates. When converting the occupancy maps back to depth estimates and comparing them with the raw LiDAR measurements, our method yields a MAE improvement of 30% to 52% on nuScenes and 53% on Waymo over other occupancy ground-truth data. Finally, we use the improved occupancy maps to train a state-of-the-art occupancy prediction method and demonstrate that it improves the MAE by 25% on nuScenes."
   },
   {
-    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
-    "href": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
-    "title": "Tangent convolutions for dense prediction in 3D",
+    "objectID": "publications/kaelble24cvpr_binocc.html#abstract",
+    "href": "publications/kaelble24cvpr_binocc.html#abstract",
+    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
     "section": "",
-    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
+    "text": "Automated driving fundamentally requires knowledge about the surrounding geometry of the scene. Modern approaches use only captured images to predict occupancy maps that represent the geometry. Training these approaches requires accurate data that may be acquired with the help of LiDAR scanners. We show that the techniques used for current benchmarks and training datasets to convert LiDAR scans into occupancy grid maps yield very low quality, and subsequently present a novel approach using evidence theory that yields more accurate reconstructions. We demonstrate that these are superior by a large margin, both qualitatively and quantitatively, and that we additionally obtain meaningful uncertainty estimates. When converting the occupancy maps back to depth estimates and comparing them with the raw LiDAR measurements, our method yields a MAE improvement of 30% to 52% on nuScenes and 53% on Waymo over other occupancy ground-truth data. Finally, we use the improved occupancy maps to train a state-of-the-art occupancy prediction method and demonstrate that it improves the MAE by 25% on nuScenes."
   },
   {
-    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
-    "href": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
-    "title": "Tangent convolutions for dense prediction in 3D",
+    "objectID": "publications/kaelble24cvpr_binocc.html#bibtex",
+    "href": "publications/kaelble24cvpr_binocc.html#bibtex",
+    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
     "section": "Bibtex",
-    "text": "Bibtex\n@misc{tatarchenko18cvpr_tangentconv,\n      title={Tangent convolutions for dense prediction in 3D}, \n      author={Maxim Tatarchenko and Jaesik Park and Vladlen Koltun and Qian-Yi Zhou},\n      year={2018},\n      booktitle={CVPR}\n}"
+    "text": "Bibtex\n@misc{kaelble24cvpr_binocc,\n      title={Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory}, \n      author={Jonas Kälble and Sascha Wirges and Maxim Tatarchenko and Eddy Ilg},\n      year={2024},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html",
+    "href": "publications/boehm19isbi_isoodlv2.html",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "",
+    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html#abstract",
+    "href": "publications/boehm19isbi_isoodlv2.html#abstract",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "",
+    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html#bibtex",
+    "href": "publications/boehm19isbi_isoodlv2.html#bibtex",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{boehm19isbi_isoodlv2,\n      title={ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects}, \n      author={Anton Boehm and Maxim Tatarchenko and Thorsten Falk and Thomas Brox},\n      year={2019},\n      booktitle={ISBI}\n}"
+  },
+  {
+    "objectID": "publications/ocal23eccv_sceneteller.html",
+    "href": "publications/ocal23eccv_sceneteller.html",
+    "title": "SceneTeller: Language-to-3D Scene Generation",
+    "section": "",
+    "text": "Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices."
+  },
+  {
+    "objectID": "publications/ocal23eccv_sceneteller.html#abstract",
+    "href": "publications/ocal23eccv_sceneteller.html#abstract",
+    "title": "SceneTeller: Language-to-3D Scene Generation",
+    "section": "",
+    "text": "Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices."
+  },
+  {
+    "objectID": "publications/ocal23eccv_sceneteller.html#bibtex",
+    "href": "publications/ocal23eccv_sceneteller.html#bibtex",
+    "title": "SceneTeller: Language-to-3D Scene Generation",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{ocal23eccv_sceneteller,\n      title={SceneTeller: Language-to-3D Scene Generation}, \n      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={ECCV}\n}"
   },
   {
     "objectID": "publications/tatarchenko23radarconf_histdl.html",
@@ -196,25 +238,67 @@
     "text": "Bibtex\n@misc{mees19iros_3d,\n      title={Self-supervised 3d shape and viewpoint estimation from single images}, \n      author={Oier Mees and Maxim Tatarchenko and Thomas Brox and Wolfram Burgard},\n      year={2019},\n      booktitle={IROS}\n}"
   },
   {
-    "objectID": "publications/boehm19isbi_isoodlv2.html",
-    "href": "publications/boehm19isbi_isoodlv2.html",
-    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html",
+    "title": "Tangent convolutions for dense prediction in 3D",
     "section": "",
-    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
   },
   {
-    "objectID": "publications/boehm19isbi_isoodlv2.html#abstract",
-    "href": "publications/boehm19isbi_isoodlv2.html#abstract",
-    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
+    "title": "Tangent convolutions for dense prediction in 3D",
     "section": "",
-    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
   },
   {
-    "objectID": "publications/boehm19isbi_isoodlv2.html#bibtex",
-    "href": "publications/boehm19isbi_isoodlv2.html#bibtex",
-    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
+    "title": "Tangent convolutions for dense prediction in 3D",
     "section": "Bibtex",
-    "text": "Bibtex\n@misc{boehm19isbi_isoodlv2,\n      title={ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects}, \n      author={Anton Boehm and Maxim Tatarchenko and Thorsten Falk and Thomas Brox},\n      year={2019},\n      booktitle={ISBI}\n}"
+    "text": "Bibtex\n@misc{tatarchenko18cvpr_tangentconv,\n      title={Tangent convolutions for dense prediction in 3D}, \n      author={Maxim Tatarchenko and Jaesik Park and Vladlen Koltun and Qian-Yi Zhou},\n      year={2018},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/ocal24arxiv_realdiff.html",
+    "href": "publications/ocal24arxiv_realdiff.html",
+    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
+    "section": "",
+    "text": "Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion."
+  },
+  {
+    "objectID": "publications/ocal24arxiv_realdiff.html#abstract",
+    "href": "publications/ocal24arxiv_realdiff.html#abstract",
+    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
+    "section": "",
+    "text": "Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion."
+  },
+  {
+    "objectID": "publications/ocal24arxiv_realdiff.html#bibtex",
+    "href": "publications/ocal24arxiv_realdiff.html#bibtex",
+    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{ocal24arxiv_realdiff,\n      title={RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models}, \n      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={arXiv}\n}"
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html",
+    "href": "publications/dosovitskiy17tpami_chairs.html",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "",
+    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html#abstract",
+    "href": "publications/dosovitskiy17tpami_chairs.html#abstract",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "",
+    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html#bibtex",
+    "href": "publications/dosovitskiy17tpami_chairs.html#bibtex",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{dosovitskiy17tpami_chairs,\n      title={Learning to generate chairs, tables and cars with convolutional networks}, \n      author={Alexey Dosovitskiy and Jost Tobias Springenberg and Maxim Tatarchenko and Thomas Brox},\n      year={2017},\n      booktitle={TPAMI}\n}"
   },
   {
     "objectID": "publications/mittal19tpami_semseg.html",

@@ -10,6 +10,10 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/kaelble24cvpr_binocc.html",
+      "/publications/velastegui24cviu_semseg.html",
+      "/publications/ocal24arxiv_realdiff.html",
+      "/publications/ocal23eccv_sceneteller.html",
       "/publications/tatarchenko23radarconf_histdl.html",
       "/publications/bechtold21cvpr_generlization.html",
       "/publications/boehm19isbi_isoodlv2.html",
