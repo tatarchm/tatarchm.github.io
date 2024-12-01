@@ -19,7 +19,7 @@ tatarchm@gmail.com | +4915788159993
 
 **Albert-Ludwigs-Universität Freiburg** [*Jan. 2016 --- Feb. 2020*]{.cvdate} <br> *PhD (summa cum laude) in Computer Science* <br> Computer Vision Lab, advisor Prof. Dr.-Ing. Thomas Brox <br> Final grade 0.0, with distinction
 
-**Albert-Ludwigs-Universität Freiburg** [*Oct. 2012 --- Mar. 2013*]{.cvdate} <br> *Master in Computer Science* [*Apr. 2014 --- Dec. 2015*]{.cvdate}<br> Final grade 0.0, with distinction
+**Albert-Ludwigs-Universität Freiburg** [*Oct. 2012 --- Mar. 2013*]{.cvdate} <br> *Master in Computer Science* [*Apr. 2014 --- Dec. 2015*]{.cvdate}<br> Final grade 1.0, with distinction
 
 **“MATI” - K. I. Tsiolkovsky Russian State Technological University** [*Oct. 2012 --- Mar. 2013*]{.cvdate} <br> *Bachelor in Applied Mathematics and Informatics* <br> Final grade 4,8, with distinction
 
@@ -41,39 +41,45 @@ tatarchm@gmail.com | +4915788159993
 
 ## PUBLICATIONS
 
-Google scholar citations: **2650**.
+Google scholar citations: **4122**.
 
 Not including publications in Russian prior to 2015.
 
 #### Referred papers
 
-1. J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg "Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory" In *CVPR*, 2024
+1. B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers "SceneTeller: Language-to-3D Scene Generation" In *ECCV*, 2024
 
-2. M. Tatarchenko, K. Rambach “Histogram-based Deep Learning for Automotive Radar.” In *RadarConf*, 2023
+2. R. Velastegui, M. Tatarchenko, S. Karaoğlu and T. Gevers "Image semantic segmentation of indoor scenes: A survey" In *CVIU*, 2024
 
-3. J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors." In *CVPR*, 2021
+3. J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg "Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory" In *CVPR*, 2024
 
-4. S. Mittal, M. Tatarchenko and T. Brox. “Semi-supervised semantic segmentation with high- and low-level consistency.” In *TPAMI*, 2019
+4. M. Tatarchenko, K. Rambach “Histogram-based Deep Learning for Automotive Radar.” In *RadarConf*, 2023
 
-5. O. Mees, M. Tatarchenko, T. Brox and W. Burgard. “Self-supervised 3d shape and viewpoint estimation from single images.” In *IROS*, 2019
+5. J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors." In *CVPR*, 2021
 
-6. M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox. “What do single-view 3d reconstruction networks learn?” In *CVPR*, 2019
+6. S. Mittal, M. Tatarchenko and T. Brox. “Semi-supervised semantic segmentation with high- and low-level consistency.” In *TPAMI*, 2019
 
-7. A. Böhm, M. Tatarchenko, and T. Falk. “ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects.” In *ISBI*, 2019
+7. O. Mees, M. Tatarchenko, T. Brox and W. Burgard. “Self-supervised 3d shape and viewpoint estimation from single images.” In *IROS*, 2019
 
-8. M. Tatarchenko*, J. Park*, V. Koltun, and Q.-Y. Zhou. “Tangent convolutions for dense prediction in 3d.” In *CVPR*, 2018 **(Selected for spotlight oral)**
+8. M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox. “What do single-view 3d reconstruction networks learn?” In *CVPR*, 2019
 
-9. A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox. “Learning to generate chairs, tables and cars with convolutional networks.” *TPAMI*, Apr 2017
+9. A. Böhm, M. Tatarchenko, and T. Falk. “ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects.” In *ISBI*, 2019
 
-10. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs.” In *ICCV*, 2017
+10. M. Tatarchenko*, J. Park*, V. Koltun, and Q.-Y. Zhou. “Tangent convolutions for dense prediction in 3d.” In *CVPR*, 2018 **(Selected for spotlight oral)**
 
-11. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Multi-view 3d models from single images with a convolutional network.” In ECCV, 2016 **(Selected for spotlight oral)**
+11. A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox. “Learning to generate chairs, tables and cars with convolutional networks.” *TPAMI*, Apr 2017
 
-12. B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard. “3d-reconstruction of indoor environments from human activity.” In *ICRA*, 2015
+12. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs.” In *ICCV*, 2017
+
+13. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Multi-view 3d models from single images with a convolutional network.” In ECCV, 2016 **(Selected for spotlight oral)**
+
+14. B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard. “3d-reconstruction of indoor environments from human activity.” In *ICRA*, 2015
 
 #### Preprints
 
-1. S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox. “Parting with Illusions about Deep Active Learning.” In *arXiv:1912.05361*, 2019
+1. B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models" In *arXiv:2409.10180*, 2024
+
+2. S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox. “Parting with Illusions about Deep Active Learning.” In *arXiv:1912.05361*, 2019
 
 #### Theses
 
@@ -115,9 +121,9 @@ Reviewer for IROS’18, ICCV’18, CVPR’18, CVPR’19 (outstanding reviewer), 
 
 **Jonas Kälble** [*Apr. 2023 --- now*]{.cvdate} <br> *Image-based occupancy estimation* <br> University of Saarland and Bosch
 
-**Melis Öcal** [*Sep. 2022 --- now*]{.cvdate} <br> *Generative modelling for 3D reconstruction* <br> University of Amsterdam and Bosch Delta Lab 2
+**Melis Öcal** [*Sep. 2022 --- Mar. 2024*]{.cvdate} <br> *Generative modelling for 3D reconstruction* <br> University of Amsterdam and Bosch Delta Lab 2
 
-**Ronny Xavier Velastegui Sandoval** [*Oct. 2022 --- now*]{.cvdate} <br> *3D semantic segmentation* <br> University of Amsterdam and Bosch Delta Lab 2
+**Ronny Xavier Velastegui Sandoval** [*Oct. 2022 --- Mar. 2024*]{.cvdate} <br> *3D semantic segmentation* <br> University of Amsterdam and Bosch Delta Lab 2
 
 **Jan Bechtold** [*Apr. 2021 --- Mar. 2023*]{.cvdate} <br> *Single-view 3D reconstruction* <br> University of Freiburg and Bosch
 
