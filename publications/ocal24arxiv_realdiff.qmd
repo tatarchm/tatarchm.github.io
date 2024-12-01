@@ -1,0 +1,25 @@
+---
+title: "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models"
+type: "proceeding"
+author: "B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers"
+year: "2024"
+publication: "arXiv"
+pdf: "https://www.arxiv.org/pdf/2409.10180"
+project: ""
+code: ""
+toc: false
+---
+
+## Abstract
+
+Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion.
+
+## Bibtex
+```
+@misc{ocal24arxiv_realdiff,
+      title={RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models}, 
+      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},
+      year={2024},
+      booktitle={arXiv}
+}
+```

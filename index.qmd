@@ -14,7 +14,7 @@ about:
           href: https://www.linkedin.com/in/tatarchm/
 ---
 
-I am a lead research scientist at <a href="https://www.bosch-ai.com/about-us/our-people/" target="_blank">Bosch</a> working on 3D deep learning.
+I am a lead research scientist at Bosch working on 3D deep learning.
 My main focus at the moment is on company-internal projects but I do occasionally [publish papers](publications.qmd).
 
 For the past couple of years running a robotics school for kids has been my main hobby project.

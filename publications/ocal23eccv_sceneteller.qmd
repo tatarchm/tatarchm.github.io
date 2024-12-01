@@ -1,0 +1,25 @@
+---
+title: "SceneTeller: Language-to-3D Scene Generation"
+type: "proceeding"
+author: "B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers"
+year: "2024"
+publication: "ECCV"
+pdf: "https://arxiv.org/pdf/2407.20727"
+project: "https://sceneteller.github.io"
+code: "https://github.com/sceneteller/SceneTeller"
+toc: false
+---
+
+## Abstract
+
+Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices.
+
+## Bibtex
+```
+@misc{ocal23eccv_sceneteller,
+      title={SceneTeller: Language-to-3D Scene Generation}, 
+      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},
+      year={2024},
+      booktitle={ECCV}
+}
+```
