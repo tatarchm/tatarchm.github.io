@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-12-19">
+<meta name="description" content="Platform evolution">
 
-<title>Maxim Tatarchenko - Blog</title>
+<title>Maxim Tatarchenko - Learning to teach robotics 3</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -138,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Maxim Tatarchenko</span>
     </a>
   </div>
@@ -149,19 +91,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -176,21 +118,40 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#electrical-engineering" id="toc-electrical-engineering" class="nav-link active" data-scroll-target="#electrical-engineering">Electrical engineering</a></li>
+  <li><a href="#mechanical-engineering" id="toc-mechanical-engineering" class="nav-link" data-scroll-target="#mechanical-engineering">Mechanical engineering</a></li>
+  <li><a href="#software-engineering" id="toc-software-engineering" class="nav-link" data-scroll-target="#software-engineering">Software engineering</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title">Learning to teach robotics 3</h1>
 </div>
 
+<div>
+  <div class="description">
+    Platform evolution
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 19, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -200,117 +161,41 @@ window.Quarto = {
 </header>
 
 
+<p>In this post I’ll go through the iterations of our technical setup. Fundamentally, I think there are three components to a course like this one: electrical engineering, mechanical engineering, and software engineering. You don’t necessarily need to actually teach all of them together, but you definitely need to provide the students with a platform for each of those components. Here’s what we tried.</p>
+<hr>
+<section id="electrical-engineering" class="level3">
+<h3 class="anchored" data-anchor-id="electrical-engineering">Electrical engineering</h3>
+<p>On the microcontroller side we stuck with Arduino. Yes, it’s not the most powerful option available. But it has an absolutely enormous community, meaning easy access to all imaginable libraries and a lot of information if (ok, when) problems arise.</p>
+<p>From the beginning I was - still am - reluctant to proprietary closed systems like micro:bit, makeblock or Lego. First, they are simply expensive. Second, they work really nice if you use the standard components but implementing something custom cat get increasingly tricky. With Arduino, on the other hand, you can use pretty much any sensor or actuator available. Most likely, there already is a community-developed library for it.</p>
+<p>There are also numerous shields one can get. We only used the most basic one for prototyping.</p>
+<p><img src="images_locoschool/prototype_shield.jpg" class="img-fluid"></p>
+<p>It provides multiple GND/5V outputs for connecting several external components, and has a space for a small breadboard. This simple setup turned out to be sufficient for powering pretty advanced projects. The only downside was a wireframe spaghetti when you connect too much stuff at the same time. The best solution we found for this was in fact designing our own shield - but this is a topic for a later post.</p>
+</section>
+<section id="mechanical-engineering" class="level3">
+<h3 class="anchored" data-anchor-id="mechanical-engineering">Mechanical engineering</h3>
+<p>Our initial wheeled platform was obviously not good enough. It was not even a platform yet, rather just a collection of basic electronic components and a couple of 3D-printed plastic boxes one could glue together and put on a wheeled chassis.</p>
+<p><img src="images_locoschool/initial_platform.jpg" class="img-fluid"></p>
+<p>We definitely needed more - so we tried the <a href="https://www.thingiverse.com/thing:2662828">SMARS</a>.</p>
+<p>SMARS is a cute little modular 3D-printable robot. In its basic configuration it has a four-wheeled chassis with tracks and two extension mounting slots. A small but dedicated enthusiast community around it designed some nice extensions: from basics like a sonar or an infrared sensor mount to quite fancy stuff like a servo-driven pen holder and a motorized forklift.</p>
+<p><img src="images_locoschool/smars.jpg" class="img-fluid"></p>
+<p>In the first half of the course the SMARS worked reasonably well. Every session the kids would take a different hardware module, mount it and solve some coding exercises with it. For the projects in the second half, however, it proved to be quite limited. With its two extension mounting slots it simply did not provide enough flexibility for the young engineers’ ambitious ideas.</p>
+<p>So in the next stream I combined the SMARS with the original wheeled chassis and called it a LOCORover. I designed a couple of SMARS-compatible extension holders one could screw to the chassis, remixed the base and voila - the number of components one could put together in a project instantly increased.</p>
+<p><a href="https://www.youtube.com/watch?v=XJp5noUISCc"><img src="images_locoschool/locorover.jpg" class="img-fluid"></a></p>
+<p>The nice part about it was the SMARS compatibility. One did not need to design all extensions from scratch, the existing ones worked out of the box. Overall, I’m pretty happy with this version of the platform. It did not have a perfect balance and the 3D-printed parts sometimes broke but it got the job done.</p>
+<p>The only fundamental limitation we faced was that it was a rover. Some kids wanted to have robots that were entirely different. That’s when I found <a href="https://www.stemfie.org">STEMFIE</a> and I could not be more excited. I’m still testing it so it’s definitely a topic for a later post but the results look very promising so far.</p>
+</section>
+<section id="software-engineering" class="level3">
+<h3 class="anchored" data-anchor-id="software-engineering">Software engineering</h3>
+<p>Programming environment selection for Arduino is easy if you are using C - you just go to the official website and download Arduino IDE. Our first four streams were for kids who had no idea about programming, starting with C was definitely an overkill.</p>
+<p>So it had to be block programming. Problem is, all Arduino-compatible IDEs for block programming I could find were somehow impaired. We started off with <a href="https://www.ottodiy.com/software">OttoBlockly</a>, which was ok but messy. It had a lot of blocks which used random libraries under the hood. This sometimes meant that certain block combinations would not compile for an unknown reason. With some digging and modifying the library code you could usually get it to work but this was not a pleasant experience. The biggest problem was that if some blocks were missing, there was no easy way to add them. Yeah, one probably could recompile the entire IDE (though I failed when I tried) but again, this was not nice.</p>
+<p>Because of this, after two streams we switched to <a href="https://mblock.cc">mBlock</a>. This is a coding environment behind the mBot robots, which luckily supports multiple different microcontrollers and, most importantly, custom block creation. You can design your own extensions (i.e., block libraries) using their online editor. This works as follows. You upload your custom C libraries (as many of them as you want) into this editor, and then specify which functions should be called by which blocks. It’s not the prettiest piece of software but it works alright.</p>
+<p>There are a couple of annoying bits though. If you want to open a previously saved program, the extension version in your IDE has to exactly match the one that was used to save the program in the first place. Otherwise it does not work. Even if the blocks have not changed between the versions. This is ok when your extension is stable and does not change often but was really a problem for us, since we were developing it as we went, adding features every week. Also, something as basic as a serial monitor is not available in mBlock.</p>
+<p>To this day I haven’t found a better solution. Fundamentally, we need an open-source extensible <a href="https://developers.google.com/blockly?hl=de">blockly</a>-based IDE. One could develop it from scratch of course but that’s a pretty big project, not something one can do over a single weekend.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1734562800000" data-listing-file-modified-sort="1734637105420" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="974">
-<div class="thumbnail">
-<p><a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external"></a></p><a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external">
-<p><img src="./blog/images_locoschool/initial_platform_banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external">Learning to teach robotics 3</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external">Platform evolution</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_3.html" class="no-external">
-<div class="listing-date">
-Dec 19, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1728079200000" data-listing-file-modified-sort="1734636581603" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1362">
-<div class="thumbnail">
-<p><a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external"></a></p><a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">
-<p><img src="./blog/images_locoschool/lecture_banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">Learning to teach robotics 2</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">Trial and error</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024_10_05_learning_to_teach_robotics_2.html" class="no-external">
-<div class="listing-date">
-Oct 5, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1718316000000" data-listing-file-modified-sort="1727948383926" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1319">
-<div class="thumbnail">
-<p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a></p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">
-<p><img src="./blog/images_locoschool/group_picture_banner.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">Learning to teach robotics</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">How I started a robotics school</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024_06_14_learning_to_teach_robotics.html" class="no-external">
-<div class="listing-date">
-Jun 14, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1551481200000" data-listing-file-modified-sort="1727943313339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1991">
-<div class="thumbnail">
-<p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a></p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external">
-<p><img src="./images/stanford.jpg" class="thumbnail-image"></p>
-</a><p><a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">Efficient Learning</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">What twenty years of formal education taught me about approaching new information</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2019_03_02_efficient_learning.html" class="no-external">
-<div class="listing-date">
-Mar 2, 2019
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
