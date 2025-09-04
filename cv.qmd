@@ -27,6 +27,8 @@ tatarchm@gmail.com | +4915788159993
 
 **Bosch, Renningen, Germany** [*Nov. 2023 --- now*]{.cvdate} <br> *Lead Research Scientist* <br> AI Research Department
 
+**LOCO School, Berlin, Germany** [*May. 2022 --- now*]{.cvdate} <br> *Founder* <br> Nonprofit robotics school for kids and teenagers
+
 **Bosch, Renningen, Germany** [*May. 2020 --- Oct. 2023*]{.cvdate} <br> *Research Scientist* <br> AI Research Department
 
 **Albert-Ludwigs-Universität Freiburg, Germany** [*Jan. 2016 --- Feb. 2020*]{.cvdate} <br> *Research Assistant* <br> Computer Vision Lab
@@ -41,45 +43,49 @@ tatarchm@gmail.com | +4915788159993
 
 ## PUBLICATIONS
 
-Google scholar citations: **4122**.
+Google scholar citations: **4514**. H-Index: **11**.
 
 Not including publications in Russian prior to 2015.
 
 #### Referred papers
 
-1. B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers "SceneTeller: Language-to-3D Scene Generation" In *ECCV*, 2024
+1. S. Mittal, J. Niemeijer, Ö. Çiçek, M. Tatarchenko, J. Ehrhardt, J. P. Schäfer, H. Handels, T. Brox "Realistic Evaluation of Deep Active Learning for Image Classification and Semantic Segmentation" In *IJCV*, 2025
 
-2. R. Velastegui, M. Tatarchenko, S. Karaoğlu and T. Gevers "Image semantic segmentation of indoor scenes: A survey" In *CVIU*, 2024
+2. J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg "EvOcc: Accurate Semantic Occupancy for Automated Driving Using Evidence Theory" In *CVPR*, 2025
 
-3. J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg "Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory" In *CVPR*, 2024
+3. B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers "SceneTeller: Language-to-3D Scene Generation" In *ECCV*, 2024
 
-4. M. Tatarchenko, K. Rambach “Histogram-based Deep Learning for Automotive Radar.” In *RadarConf*, 2023
+4. R. Velastegui, M. Tatarchenko, S. Karaoğlu and T. Gevers "Image Semantic Segmentation of Indoor Scenes: A Survey" In *CVIU*, 2024
 
-5. J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors." In *CVPR*, 2021
+5. J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg "Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory" In *CVPR*, 2024
 
-6. S. Mittal, M. Tatarchenko and T. Brox. “Semi-supervised semantic segmentation with high- and low-level consistency.” In *TPAMI*, 2019
+6. M. Tatarchenko, K. Rambach “Histogram-based Deep Learning for Automotive Radar.” In *RadarConf*, 2023
 
-7. O. Mees, M. Tatarchenko, T. Brox and W. Burgard. “Self-supervised 3d shape and viewpoint estimation from single images.” In *IROS*, 2019
+7. J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors." In *CVPR*, 2021
 
-8. M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox. “What do single-view 3d reconstruction networks learn?” In *CVPR*, 2019
+8. S. Mittal, M. Tatarchenko and T. Brox. “Semi-supervised semantic segmentation with high- and low-level consistency.” In *TPAMI*, 2019
 
-9. A. Böhm, M. Tatarchenko, and T. Falk. “ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects.” In *ISBI*, 2019
+9. O. Mees, M. Tatarchenko, T. Brox and W. Burgard. “Self-supervised 3d shape and viewpoint estimation from single images.” In *IROS*, 2019
 
-10. M. Tatarchenko*, J. Park*, V. Koltun, and Q.-Y. Zhou. “Tangent convolutions for dense prediction in 3d.” In *CVPR*, 2018 **(Selected for spotlight oral)**
+10. M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox. “What do single-view 3d reconstruction networks learn?” In *CVPR*, 2019
 
-11. A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox. “Learning to generate chairs, tables and cars with convolutional networks.” *TPAMI*, Apr 2017
+11. A. Böhm, M. Tatarchenko, and T. Falk. “ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects.” In *ISBI*, 2019
 
-12. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs.” In *ICCV*, 2017
+12. M. Tatarchenko*, J. Park*, V. Koltun, and Q.-Y. Zhou. “Tangent convolutions for dense prediction in 3d.” In *CVPR*, 2018 **(Selected for spotlight oral)**
 
-13. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Multi-view 3d models from single images with a convolutional network.” In ECCV, 2016 **(Selected for spotlight oral)**
+13. A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox. “Learning to generate chairs, tables and cars with convolutional networks.” *TPAMI*, Apr 2017
 
-14. B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard. “3d-reconstruction of indoor environments from human activity.” In *ICRA*, 2015
+14. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs.” In *ICCV*, 2017
+
+15. M. Tatarchenko, A. Dosovitskiy, and T. Brox. “Multi-view 3d models from single images with a convolutional network.” In ECCV, 2016 **(Selected for spotlight oral)**
+
+16. B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard. “3d-reconstruction of indoor environments from human activity.” In *ICRA*, 2015
 
 #### Preprints
 
 1. B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models" In *arXiv:2409.10180*, 2024
 
-2. S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox. “Parting with Illusions about Deep Active Learning.” In *arXiv:1912.05361*, 2019
+2. S. Mittal, M. Tatarchenko, Ö. Çiçek and T. Brox. “Parting with Illusions about Deep Active Learning.” In *arXiv:1912.05361*, 2019
 
 #### Theses
 
@@ -89,7 +95,7 @@ Not including publications in Russian prior to 2015.
 
 ## PROFESSIONAL SERVICES
 
-Reviewer for IROS’18, ICCV’18, CVPR’18, CVPR’19 (outstanding reviewer), TPAMI’19, CVPR’20, IJCV’20, CVPR’21 (outstanding reviewer), RA-L’21, TPAMI’21, TPAMI’22, CVPR’23, CVPR’24
+Reviewer for IROS’18, ICCV’18, CVPR’18, CVPR’19 (outstanding reviewer), TPAMI’19, CVPR’20, IJCV’20, CVPR’21 (outstanding reviewer), RA-L’21, TPAMI’21, TPAMI’22, CVPR’23, CVPR’24, NeurIPS'25
 
 ## AWARDS
 
@@ -101,7 +107,19 @@ Reviewer for IROS’18, ICCV’18, CVPR’18, CVPR’19 (outstanding reviewer), 
 
 ## PATENTS
 
-**Computer-implemented method and system for reconstructing an object captured by an imaging sensor, and training method** [*2022*]{.cvdate} <br> *DE patent “DE102021202711 A1””* <br> J. Bechtold, T. Brox, V. Fischer and M. Tatarchenko
+**Training method, method and system for generating synthetic measurement data** [*2025*]{.cvdate} <br> *DE patent app. “DE202410201465”* <br> M. Tatarchenko, M. Schreiber and J. Vertens
+
+**Device and method for generating training data for an object detector** [*2025*]{.cvdate} <br> *US patent app. “US19049260”* <br> M. Schreiber, J. Vertens and M. Tatarchenko
+
+**Method and system for sensing an environment of a device using sparse spectra** [*2025*]{.cvdate} <br> *US patent app. “US19032764”* <br> K. Rambach, D. K. Jenet, M. Quach, M. Tatarchenko, O. Kern, S. Braun and Y. Feldman
+
+**Device and method for training a model for determining a shape of an object, method for operating a computer controlled machine depending on a shape of an object** [*2025*]{.cvdate} <br> *US patent app. “US18917575”* <br> M. Tatarchenko, M. Öcal, S. Karaoglu, T. Gevers
+
+**Processing of measurement data available as point clouds with better generalization across the training data** [*2024*]{.cvdate} <br> *US patent app. “US18543876”* <br> K. Rambach, D. Stöckel, M. Tatarchenko
+
+**Method for compressing sensor data of at least one sensor of a vehicle** [*2024*]{.cvdate} <br> *WO patent app. “WO2023EP82406”* <br> M. Tatarchenko, K. Rambach
+
+**Computer-implemented method and system for reconstructing an object captured by an imaging sensor, and training method** [*2022*]{.cvdate} <br> *DE patent app. “DE102021202711 A1”* <br> J. Bechtold, T. Brox, V. Fischer and M. Tatarchenko
 
 **Tangent convolutions for 3D data** [*2019*]{.cvdate} <br> *US patent “US2019042883 AA”* <br> J. Park, V. Koltun, M. Tatarchenko and Q.-Y. Zhou
 
@@ -157,6 +175,12 @@ Reviewer for IROS’18, ICCV’18, CVPR’18, CVPR’19 (outstanding reviewer), 
 
 **Parking space detection** [*SS 2015*]{.cvdate} <br> *Lab course* <br> Co-organizer
 
+#### School courses
+
+**Introduction to Arduino robotics** [*2022 --- 2024*]{.cvdate} <br> *Practical course* <br> Organizer
+
+**Advanced Arduino robotics in C** [*2024 --- 2025*]{.cvdate} <br> *Practical course* <br> Organizer
+
 ## SELECTED TALKS
 
 Not including internal company/lab talks, not including talks prior to 2016.
@@ -179,6 +203,6 @@ Not including internal company/lab talks, not including talks prior to 2016.
 
 ## VOLUNTEERING ACTIVITIES
 
-**Robotics workshop for Ukrainian kids** [*May. 2022 --- now*]{.cvdate} <br> *Organizer*
+**PANDA Platforma Berlin** [*Jun. 2022 --- now*]{.cvdate} <br> *Technical Director*
 
 **Youth hackathon Freiburg** [*Nov. 2019*]{.cvdate} <br> *Mentor*
