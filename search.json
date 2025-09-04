@@ -4,14 +4,14 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Learning to teach robotics 3\n\n\n\n\n\nPlatform evolution\n\n\n\n\n\nDec 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLearning to teach robotics 2\n\n\n\n\n\nTrial and error\n\n\n\n\n\nOct 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLearning to teach robotics\n\n\n\n\n\nHow I started a robotics school\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEfficient Learning\n\n\n\n\n\nWhat twenty years of formal education taught me about approaching new information\n\n\n\n\n\nMar 2, 2019\n\n\n\n\n\n\nNo matching items"
+    "text": "Learning to teach robotics 2\n\n\nTrial and error\n\n\n\n\n\nOct 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLearning to teach robotics\n\n\nHow I started a robotics school\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEfficient Learning\n\n\nWhat twenty years of formal education taught me about approaching new information\n\n\n\n\n\nMar 2, 2019\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Maxim Tatarchenko",
     "section": "",
-    "text": "Google Scholar\n\n\n\n  \n    Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory\n    J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg\n    CVPR\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Image semantic segmentation of indoor scenes: A survey\n    R. Velastegui, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    CVIU\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models\n    B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    arXiv\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    SceneTeller: Language-to-3D Scene Generation\n    B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    ECCV\n     (2024)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors\n    J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox\n    CVPR\n     (2021)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects\n    A. Böhm, M. Tatarchenko, and T. Falk\n    ISBI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Parting with Illusions about Deep Active Learning\n    S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox\n    arXiv\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Self-supervised 3d shape and viewpoint estimation from single images\n    O. Mees, M. Tatarchenko, T. Brox and W. Burgard\n    IROS\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Semi-supervised semantic segmentation with high- and low-level consistency\n    S. Mittal, M. Tatarchenko and T. Brox\n    TPAMI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    What do single-view 3d reconstruction networks learn?\n    M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox\n    CVPR\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Tangent convolutions for dense prediction in 3D\n    M. Tatarchenko, J. Park, V. Koltun, and Q.-Y. Zhou\n    CVPR\n     (2018)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Learning to generate chairs, tables and cars with convolutional networks\n    A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox\n    TPAMI\n     (2017)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ICCV\n     (2017)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Multi-view 3d models from single images with a convolutional network\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ECCV\n     (2016)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    3D-reconstruction of indoor environments from human activity\n    B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard\n    ICRA\n     (2015)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\n\nNo matching items"
+    "text": "Google Scholar\n\n\n\n  \n    Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory\n    J. Kälble, S. Wirges, M. Tatarchenko and E. Ilg\n    CVPR\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Image semantic segmentation of indoor scenes: A survey\n    R. Velastegui, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    CVIU\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models\n    B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    arXiv\n     (2024)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    SceneTeller: Language-to-3D Scene Generation\n    B. M. Öcal, M. Tatarchenko, S. Karaoğlu and T. Gevers\n    ECCV\n     (2024)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Histogram-based Deep Learning for Automotive Radar\n    M. Tatarchenko* and K. Rambach*\n    RadarConf\n     (2023)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors\n    J. Bechtold, M. Tatarchenko, V. Fischer and T. Brox\n    CVPR\n     (2021)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects\n    A. Böhm, M. Tatarchenko, and T. Falk\n    ISBI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Parting with Illusions about Deep Active Learning\n    S. Mittal, M. Tatarchenko, Özgün Çiçek and T. Brox\n    arXiv\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Self-supervised 3d shape and viewpoint estimation from single images\n    O. Mees, M. Tatarchenko, T. Brox and W. Burgard\n    IROS\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Semi-supervised semantic segmentation with high- and low-level consistency\n    S. Mittal, M. Tatarchenko and T. Brox\n    TPAMI\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    What do single-view 3d reconstruction networks learn?\n    M. Tatarchenko*, S. R. Richter*, R. Ranftl, Z. Li, V. Koltun, and T. Brox\n    CVPR\n     (2019)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Tangent convolutions for dense prediction in 3D\n    M. Tatarchenko, J. Park, V. Koltun, and Q.-Y. Zhou\n    CVPR\n     (2018)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Learning to generate chairs, tables and cars with convolutional networks\n    A. Dosovitskiy, J. T. Springenberg, M. Tatarchenko, and T. Brox\n    TPAMI\n     (2017)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n  \n    Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ICCV\n     (2017)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    Multi-view 3d models from single images with a convolutional network\n    M. Tatarchenko, A. Dosovitskiy, and T. Brox\n    ECCV\n     (2016)\n    \n      Details\n    \n    \n    \n       Project page\n    \n    \n    \n      \n         PDF\n      \n      \n      \n        \n           Code\n        \n        \n  \n\n  \n    3D-reconstruction of indoor environments from human activity\n    B. Frank, M. Ruhnke, M. Tatarchenko, and W. Burgard\n    ICRA\n     (2015)\n    \n      Details\n    \n    \n    \n      \n         PDF\n      \n      \n      \n  \n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/2019_03_02_efficient_learning.html",
@@ -21,326 +21,11 @@
     "text": "For the last twenty years, my main day-to-day activity has been learning. This may seem like a lot at first glance but such is the world we live in: kindergarten, school, undergrad, graduate school… time adds up. And while those have been amazing years, I now realize that some of them could have been spent much more efficiently if I had known certain basic principles of learning. In this post I want to talk about three such principles: remembering the world is not random, developing appropriate intuition and finding the right abstractions.\n\n\nRemember the world is not random.\nBack in high school, I had a class called “Algebra and the basics of mathematical analysis”. There I learned that in order to find the extreme values of a function, you need to compute its derivative, then solve some equation, then check for some conditions… In fact, there was a 10-step algorithm which I successfully mastered. What I could not realize at the time was why on earth would anyone want to do this?\nThe question “why?” turns out to be essential. It almost always gives you the right perspective for understanding things. The world around us is not random. People don’t start developing complex theories to put them into textbooks and make the school kids’ lives miserable. In the vast majority of cases, there is some motivation behind the process. Unfortunately, as theories make their way through the years, the initial motivation often fades away leaving us with dogmatic algorithms like that of finding a function’s extremal values.\nWhat I should have thought about back then are questions like “Why do we need functions in the first place?” Well, the answer is exactly because the world is not random and many things depend on many other things. The number of likes you get for a picture depends on the time of day you post it on Instagram. Functions help us reveal those dependencies, understand them. “Why do I need to find the extremal values of functions?” Well, because this is where the most interesting things usually happen. You want to get as many likes as possible for your picture — an event described by the maximum value of the corresponding function.\nClearly, the “why”-perspective is useful not only in mathematics. When studying history, forcing yourself to think about the “why’s” of events turns a series of random wars and revolutions into a meaningful logical flow. When learning to play guitar, you can blindly memorize songs for years. But analyzing why the chords in a song sound good together in the first place, can give you a whole new level of understanding.\n\n\nDevelop intuition.\nDuring my bachelor studies I had to take a lot of math courses. One of those was about Fourier analysis. Two hours a week for about three months in a row the professor would bombard us with all kinds of definitions, lemmas and theorems filling the blackboard with kilometers of formulas. I’m pretty sure it was all quality content. Problem is, now I don’t remember a single bit of it — he lost my attention after the first 10 minutes of the introductory lecture.\nIt took me years to understand that this sort of information is completely useless without the intuition. Humans (well, at least most of us) don’t think in formal definitions, abstract concepts or mathematical formulas. We need to imagine stuff. We need to relate what we learn to something we already know — to familiar things from everyday life. Of course, it’s amazing if the teacher himself takes care of developing the right intuition in his students’ minds. But if not, there is nothing else left but to help yourself. Richard Feynman was a great master of this skill. Here’s how he describes communication with fellow physicists in his (hands down hilarious) book.\n\nAt all these places everybody working in physics would tell me what they were doing and I’d discuss it with them. They would tell me the general problem they were working on, and would begin to write a bunch of equations.\n“Wait a minute,” I would say. “Is there a particular example of this general problem?”\n“Why yes; of course.”\n“Good. Give me one example.” That was for me: I can’t understand anything in general unless I’m carrying along in my mind a specific example and watching it go. Some people think in the beginning that I’m kind of slow and I don’t understand the problem, because I ask a lot of these “dumb” questions: “Is a cathode plus or minus? Is an an-ion this way, or that way?”\nBut later, when the guy’s in the middle of a bunch of equations, he’ll say something and I’ll say, “Wait a minute! There’s an error! That can’t be right!”\nThe guy looks at his equations, and sure enough, after a while, he finds the mistake and wonders, “How the hell did this guy, who hardly understood at the beginning, find that mistake in the mess of all these equations?”\nHe thinks I’m following the steps mathematically, but that’s not what I’m doing. I have the specific, physical example of what he’s trying to analyze, and I know from instinct and experience the properties of the thing. So when the equation says it should behave so-and-so, and I know that’s the wrong way around, I jump up and say, “Wait! There’s a mistake!”\nI had a scheme, which I still use today when somebody is explaining something that I’m trying to understand: I keep making up examples. For instance, the mathematicians would come in with a terrific theorem, and they’re all excited. As they’re telling me the conditions of the theorem, I construct something which fits all the conditions. You know, you have a set (one ball) — disjoint (two balls). Then the balls turn colors, grow hairs, or whatever, in my head as they put more conditions on. Finally they state the theorem, which is some dumb thing about the ball which isn’t true for my hairy green ball thing, so I say, “False!”\n\nThe guy’s opinion is definitely trustworthy. In the end, he received a Nobel prize in physics so he must have known what he was saying. In this passage we can spot a useful detail: the main tool for developing intuition is analogy. When learning something new, you can try to imagine something you already understand which has analogous properties.\nImagine you stumble upon a statement like “in an electric circuit, the relationship between the resistance and the area of the cross section of a wire is inversely proportional.” This may look pretty intimidating at first glance. But as soon as you substitute the electric circuit with a water pipe in your mind, and imagine that electric current is water flow, the effect becomes obvious. The thicker you pipe is, the more water it can let through — thus the lower the resistance.\nThe analogy I was missing during the Fourier analysis course was that essentially a Fourier transform of a function is a coordinate system — similar to that used in your GPS navigator. The latitude and the longitude of your favourite pizza place tell you that in order to reach it, you need to go this much north and then this much west. Turns out, it is possible to define a coordinate system for functions. Take this much of one function, add this much of another, and voila — you get your desired function.\nOf course, one needs to be careful with analogies. They are never perfect and have their limitations. But overall it’s a great way to develop some initial understanding when learning new things.\n\n\nFind the right abstraction.\nThe world around us is complex. Extremely complex. So complex in fact, that our poor brains cannot possibly process all the information that reaches us from outside. Good news is, in most situations we don’t need all the information. We can (and do) make sense of what we see, hear or feel by assigning it to some simple categories. That is, by thinking in more abstract and general terms rather than attending to the finest details.\nRobert Sapolsky in his lecture on behavioural biology gives an example with colors. Objectively, there is no such thing as red, green or blue. Instead, there is a continuous spectrum of wave lengths which can be registered by the human eye. We just conventionally agreed to cut this spectrum into seven bins and gave those bins certain names. For many practical purposes it’s good enough. When you are driving a car, it’s sufficient to distinguish red from green on a street light — the exact wave length does not matter. In a child’s picture the sky is blue and the grass is green, it can be any kind of blue or green depending on what the pencil producer happened to put into the box. (Well, there are some exceptions of course. If you are shopping for new shoes, the difference between ruby red and coral red may be pretty huge.)\nUsually, we can immensely simplify the process of information consumption by identifying the right abstractions. What “the right” is, clearly depends on the task being solved. As a rule of thumb, let’s stick with the principle often attributed to Albert Einstein: “Everything should be made as simple as possible, but not simpler.”\nThree years ago I started a PhD in computer science. As a researcher, I naturally learn most of my time. When reading scientific papers, I learn new ideas developed by other people. When skimming through programming manuals, I learn about new tools and ways to use them. When running my own experiments, I learn something about the research problem I’m solving. It is so easy and tempting to get absorbed in details. Sometimes I start designing a new algorithm and run some initial experiments. I realize there is a parameter that might slightly affect the performance so I start tweaking this parameter. Indeed, there is some relation between it and the final result but it somehow looks strange. So I investigate more… Three weeks later I find myself struggling over a 1% performance gain which is completely unimportant and does not even help answer the initial question.\nSuch situations can hamper your progress quite a bit, and the only way of avoiding them is to constantly remind yourself about maintaining the right abstractions. Again, this does not mean that details are not important — the devil is still in them. But sometimes you don’t want to let him speak.\n\nThe ideas I’ve described are no magic shortcuts. Even if you use all of them, there is no way around routine tasks. To master Taekwon-Do, you need to develop your body, no matter whether you understand the basic theory or not. To calculate integrals, you have to go through actually calculating maybe a hundred of them, not just figure out how or why this is done. As long as we don’t live in The Matrix, there is no way of upgrading our brain’s firmware to support some desired skill. Still, being aware of the basic principles when doing some routine practice, may make it more meaningful and exciting.\nAt this point you may be willing to strike me with my own weapon by asking: “Why do we need all of this?” Let me leave you with a bit of general motivation. Genetic evolution is about the survival of the fittest. In an ever-changing environment, only species whose set of genes has adjusted successfully, stand a chance. However, such environmental changes can last millions of years, so normally there is quite some time to adapt. On the contrary, the society we live in changes rapidly. Individual skills, even entire occupations can become obsolete within a time span of several years. Therefore, the key to success in this social evolution is being able to quickly adapt yourself. That is, master new skills, understand new concepts and adjust your behaviour accordingly. The more efficient you are in all this, the higher your chances to survive. What can be more motivating?"
   },
   {
-    "objectID": "blog/2024_10_05_learning_to_teach_robotics_2.html",
-    "href": "blog/2024_10_05_learning_to_teach_robotics_2.html",
-    "title": "Learning to teach robotics 2",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maxim Tatarchenko",
     "section": "",
-    "text": "The pilot robotics course went quite well so we were naturally motivated to continue. What followed were three more streams, where we tried out - with various degrees of success - a lot of different ideas. This is a lessons learned post describing those attempts and how they played out. I will mostly focus on the organizational and conceptual aspects, leaving the technical details of the platform we used for a later post.\n\nThere are two strategies for learning something new. If you have the time, you can systematically work your way through the fundamentals, gradually going from the basics to more advanced topics, letting the knowledge sink in. That’s how university education works. If you don’t have the time (and who does, right?), you start doing something and learn as you go. That’s how startups work.\nThat’s how we learned to teach robotics, too. For the lack of a better term, let’s call it intuitive pedagogy. I’m sure thoughts that will follow are mostly self-evident if you have a formal education as a teacher. We didn’t. Instead, we put together a course that seemed plausible, with the intention of getting into a feedback loop as quickly as possible. Here’s the feedback we got and how we dealt with it.\n\nLectures don’t work, slides don’t matter\nThe original idea of splitting the course into two parts - basics and projects - stayed intact. During the “basics” sessions we would usually take turns going through several PowerPoint slides covering the new topic. As it quickly turned out, these short lectures do not work. Not even a little.\nI was biased by my university teaching experience, where one could talk about something for an extended period of time, without losing the audience. Not the case with kids. And I don’t mean 30-minute-long monologues, even 2-3 minutes of you talking without any interaction was way too much. I could almost read the word “b-o-r-i-n-g” on their faces, no matter how much effort I put into the slide design.\nWhat worked well, on the other hand, was staying in a constant discussion mode. I would say a couple of sentences, then check in: “What do you think? Why is this a problem? What can we do about it? Do you have an idea how this could work?” In my experience, the kids usually eagerly engaged in such discussions. Interestingly, it did not matter that much whether you had slides during those conversations or not. Of course, some concepts are easier to illustrate if you have a picture at hand. But most of the time just brainstorming together was really enough. Such discussions also worked well during the recaps at the beginning of each session where we tried to quickly refresh the concepts from the previous meetings.\nThis also nicely played together with the role I wanted to take in the whole process. I did not see myself as a teacher in the classical sense, rather what a senpai is in karate - someone more experienced, one who has trained longer. Eye-level discussions with me as a moderator felt exactly right.\n\n\nThey have better ideas than you do\nIn the second half of the course, I wanted to give the kids more freedom with their projects. Starting from the second stream, every team would design and build their own custom robots.\nDuring the brainstorming sessions the room would buzz with ideas. Our main task as mentors was directing the kids’ fountains of creativity, wrapping their proposals into something the teams could actually implement within the following 4-5 weeks. There is some delicacy to it. You need to convert their often extremely ambitious ideas into a workable plan, while preserving the authors’ original intention.\n\nWe even asked every group to jot down a brief project plan. Of course, those went astray right after the first step but it was not a bad thing to do nonetheless. The young engineers got a glimpse of how plans often work out in reality.\nTo this day I am vastly impressed by the projects with which the teams came up. Letting them decide what to do was better than handing out fixed tasks on so many levels. As a result, we got a remote-controlled painter that could draw shapes similar to those from a spirogrpah.\n\nA Mars rover that would collect atmospheric measurements and transfer them to Earth in Morse code. Guess how we simulated the temperature changes?\n \nA custom-sculpted moveable manipulator.\n\nA robot that would scan the environment and display the map on the screen.\n\nAn many more. I could dedicate the entire post to the awesome kids’ project. In summary, creative part of the course - definitely a go.\n\n\nDocumentation is important (but don’t call it that)\nIn the first stream there were no materials we could hand out to the students. They would simply ask us every time they forgot how to connect some component or how to use some coding block. This worked but was definitely not perfect.\nI’m not sure which is the best learning medium for gen alpha but as a millenial I figured it could be videos so I started a YouTube channel. This gave me a chance to direct those who missed a session to the corresponding video, instead of trying to squeeze in 15 minutes worth of information into a short one-on-one conversation during the next class. This also opened a door to handing out some optional homework assignments for those who wanted to practice outside the classroom.\nThe reality was slightly different. First, no one likes homework (well, who could have guessed!). There were occasional people who would touch the Arduino at home but their number was disproportional to the effort I had to put into those videos. Second, it is not a coincidence that hardware has “hard” in it. You have to connect everything correctly, otherwise some components might burn. You have to debug if something does not work right away. You have to figure out how to deal with occasional equipment hickups and imperfections. All of those are fine if there’s an experienced mentor sitting next to you, providing real-time feedback. When you are 12 years old, trying to replicate something from a YouTube video alone, it quickly gets tricky.\nPlus, we were constantly changing something about the course so the videos got outdated a couple of weeks after I published them. All of those reasons made me quit after recording about five videos. At some point I might come back to it though. While time-consuming, video production actually was fun. There was also some positive feedback. My video about the basics of Arduino programming got around 2K views, which was surprising given that I never advertised it anywhere - all those came organically through YouTube’s recommendation system.\nInstead of videos, we ended up putting together a couple of documentation pages summarizing how to connect certain components and how to control them with blocks. Those were not self-sufficient, you could not learn a completely new topic from them. They rather worked as a quick reference. A final marketing tip: calling them documentation, however professional it may sound, does not agree with kids. The word is too scary. Cheatsheet is better.\n\n\n\n3.3333333 students per mentor\nKostya and I finished two streams together, then he had to leave the project. I started looking for a new companion an luckily found Vova, a brilliant engineering student. The two of us ran the third stream. After that, I got approached by Natasha. She was the mother of one of the boys who attended the first stream, and she wanted to join as a mentor now. For the fourth stream we became a trio, and things instantly got so much better.\nWith individual projects and inexperienced audience two people often can’t provide enough support. There is simply too much multi-tasking: debugging hardware issues, discussing the next implementation step, configuring the environment, explaining the concept someone missed… Three mentors for ten students turned out to be a perfect ratio.\n\nFinally, I came up with a brand name - this is when the project officially became LOCO School.\n\nLOCO as in locomotion, making the robots drive and driving the students forward. And if you feel a little Spanish, LOCO as in a not-quite-your-regular school with a bit of good craziness, making it so much more fun."
-  },
-  {
-    "objectID": "publications/tatarchenko16eccv_mv3d.html",
-    "href": "publications/tatarchenko16eccv_mv3d.html",
-    "title": "Multi-view 3d models from single images with a convolutional network",
-    "section": "",
-    "text": "We present a convolutional network capable of inferring a 3D representation of a previously unseen object given a single image of this object. Concretely, the network can predict an RGB image and a depth map of the object as seen from an arbitrary view. Several of these depth maps fused together give a full point cloud of the object. The point cloud can in turn be transformed into a surface mesh. The network is trained on renderings of synthetic 3D models of cars and chairs. It successfully deals with objects on cluttered background and generates reasonable predictions for real images of cars."
-  },
-  {
-    "objectID": "publications/tatarchenko16eccv_mv3d.html#abstract",
-    "href": "publications/tatarchenko16eccv_mv3d.html#abstract",
-    "title": "Multi-view 3d models from single images with a convolutional network",
-    "section": "",
-    "text": "We present a convolutional network capable of inferring a 3D representation of a previously unseen object given a single image of this object. Concretely, the network can predict an RGB image and a depth map of the object as seen from an arbitrary view. Several of these depth maps fused together give a full point cloud of the object. The point cloud can in turn be transformed into a surface mesh. The network is trained on renderings of synthetic 3D models of cars and chairs. It successfully deals with objects on cluttered background and generates reasonable predictions for real images of cars."
-  },
-  {
-    "objectID": "publications/tatarchenko16eccv_mv3d.html#bibtex",
-    "href": "publications/tatarchenko16eccv_mv3d.html#bibtex",
-    "title": "Multi-view 3d models from single images with a convolutional network",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{tatarchenko16eccv_mv3d,\n      title={Multi-view 3d models from single images with a convolutional network}, \n      author={Maxim Tatarchenko and Alexey Dosovitskiy and Thomas Brox},\n      year={2016},\n      booktitle={ECCV}\n}"
-  },
-  {
-    "objectID": "publications/mittal19arxiv_illusions.html",
-    "href": "publications/mittal19arxiv_illusions.html",
-    "title": "Parting with Illusions about Deep Active Learning",
-    "section": "",
-    "text": "Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol."
-  },
-  {
-    "objectID": "publications/mittal19arxiv_illusions.html#abstract",
-    "href": "publications/mittal19arxiv_illusions.html#abstract",
-    "title": "Parting with Illusions about Deep Active Learning",
-    "section": "",
-    "text": "Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol."
-  },
-  {
-    "objectID": "publications/mittal19arxiv_illusions.html#bibtex",
-    "href": "publications/mittal19arxiv_illusions.html#bibtex",
-    "title": "Parting with Illusions about Deep Active Learning",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{mittal19arxiv_illusions,\n      title={Parting with Illusions about Deep Active Learning}, \n      author={Sudhanshu Mittal and Maxim Tatarchenko and Özgün Çiçek and Thomas Brox},\n      year={2019},\n      booktitle={arXiv}\n}"
-  },
-  {
-    "objectID": "publications/mittal19tpami_semseg.html",
-    "href": "publications/mittal19tpami_semseg.html",
-    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
-    "section": "",
-    "text": "The ability to understand visual information from limited labeled data is an important aspect of machine learning. While image-level classification has been extensively studied in a semi-supervised setting, dense pixel-level classification with limited data has only drawn attention recently. In this work, we propose an approach for semi-supervised semantic segmentation that learns from limited pixel-wise annotated samples while exploiting additional annotation-free images. It uses two network branches that link semi-supervised classification with semi-supervised segmentation including self-training. The dual-branch approach reduces both the low-level and the high-level artifacts typical when training with few labels. The approach attains significant improvement over existing methods, especially when trained with very few labeled samples. On several standard benchmarks - PASCAL VOC 2012, PASCAL-Context, and Cityscapes - the approach achieves new state-of-the-art in semi-supervised learning."
-  },
-  {
-    "objectID": "publications/mittal19tpami_semseg.html#abstract",
-    "href": "publications/mittal19tpami_semseg.html#abstract",
-    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
-    "section": "",
-    "text": "The ability to understand visual information from limited labeled data is an important aspect of machine learning. While image-level classification has been extensively studied in a semi-supervised setting, dense pixel-level classification with limited data has only drawn attention recently. In this work, we propose an approach for semi-supervised semantic segmentation that learns from limited pixel-wise annotated samples while exploiting additional annotation-free images. It uses two network branches that link semi-supervised classification with semi-supervised segmentation including self-training. The dual-branch approach reduces both the low-level and the high-level artifacts typical when training with few labels. The approach attains significant improvement over existing methods, especially when trained with very few labeled samples. On several standard benchmarks - PASCAL VOC 2012, PASCAL-Context, and Cityscapes - the approach achieves new state-of-the-art in semi-supervised learning."
-  },
-  {
-    "objectID": "publications/mittal19tpami_semseg.html#bibtex",
-    "href": "publications/mittal19tpami_semseg.html#bibtex",
-    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{mittal19tpami,\n      title={Semi-supervised semantic segmentation with high- and low-level consistency}, \n      author={Sudhanshu Mittal and Maxim Tatarchenko and Thomas Brox},\n      year={2019},\n      booktitle={TPAMI}\n}"
-  },
-  {
-    "objectID": "publications/dosovitskiy17tpami_chairs.html",
-    "href": "publications/dosovitskiy17tpami_chairs.html",
-    "title": "Learning to generate chairs, tables and cars with convolutional networks",
-    "section": "",
-    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
-  },
-  {
-    "objectID": "publications/dosovitskiy17tpami_chairs.html#abstract",
-    "href": "publications/dosovitskiy17tpami_chairs.html#abstract",
-    "title": "Learning to generate chairs, tables and cars with convolutional networks",
-    "section": "",
-    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
-  },
-  {
-    "objectID": "publications/dosovitskiy17tpami_chairs.html#bibtex",
-    "href": "publications/dosovitskiy17tpami_chairs.html#bibtex",
-    "title": "Learning to generate chairs, tables and cars with convolutional networks",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{dosovitskiy17tpami_chairs,\n      title={Learning to generate chairs, tables and cars with convolutional networks}, \n      author={Alexey Dosovitskiy and Jost Tobias Springenberg and Maxim Tatarchenko and Thomas Brox},\n      year={2017},\n      booktitle={TPAMI}\n}"
-  },
-  {
-    "objectID": "publications/ocal24arxiv_realdiff.html",
-    "href": "publications/ocal24arxiv_realdiff.html",
-    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
-    "section": "",
-    "text": "Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion."
-  },
-  {
-    "objectID": "publications/ocal24arxiv_realdiff.html#abstract",
-    "href": "publications/ocal24arxiv_realdiff.html#abstract",
-    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
-    "section": "",
-    "text": "Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion."
-  },
-  {
-    "objectID": "publications/ocal24arxiv_realdiff.html#bibtex",
-    "href": "publications/ocal24arxiv_realdiff.html#bibtex",
-    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{ocal24arxiv_realdiff,\n      title={RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models}, \n      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={arXiv}\n}"
-  },
-  {
-    "objectID": "publications/tatarchenko18cvpr_tangentconv.html",
-    "href": "publications/tatarchenko18cvpr_tangentconv.html",
-    "title": "Tangent convolutions for dense prediction in 3D",
-    "section": "",
-    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
-  },
-  {
-    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
-    "href": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
-    "title": "Tangent convolutions for dense prediction in 3D",
-    "section": "",
-    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
-  },
-  {
-    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
-    "href": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
-    "title": "Tangent convolutions for dense prediction in 3D",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{tatarchenko18cvpr_tangentconv,\n      title={Tangent convolutions for dense prediction in 3D}, \n      author={Maxim Tatarchenko and Jaesik Park and Vladlen Koltun and Qian-Yi Zhou},\n      year={2018},\n      booktitle={CVPR}\n}"
-  },
-  {
-    "objectID": "publications/mees19iros_3d.html",
-    "href": "publications/mees19iros_3d.html",
-    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
-    "section": "",
-    "text": "We present a convolutional neural network for joint 3D shape prediction and viewpoint estimation from a single input image. During training, our network gets the learning signal from a silhouette of an object in the input image - a form of self-supervision. It does not require ground truth data for 3D shapes and the viewpoints. Because it relies on such a weak form of supervision, our approach can easily be applied to real-world data. We demonstrate that our method produces reasonable qualitative and quantitative results on natural images for both shape estimation and viewpoint prediction. Unlike previous approaches, our method does not require multiple views of the same object instance in the dataset, which significantly expands the applicability in practical robotics scenarios. We showcase it by using the hallucinated shapes to improve the performance on the task of grasping real-world objects both in simulation and with a PR2 robot."
-  },
-  {
-    "objectID": "publications/mees19iros_3d.html#abstract",
-    "href": "publications/mees19iros_3d.html#abstract",
-    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
-    "section": "",
-    "text": "We present a convolutional neural network for joint 3D shape prediction and viewpoint estimation from a single input image. During training, our network gets the learning signal from a silhouette of an object in the input image - a form of self-supervision. It does not require ground truth data for 3D shapes and the viewpoints. Because it relies on such a weak form of supervision, our approach can easily be applied to real-world data. We demonstrate that our method produces reasonable qualitative and quantitative results on natural images for both shape estimation and viewpoint prediction. Unlike previous approaches, our method does not require multiple views of the same object instance in the dataset, which significantly expands the applicability in practical robotics scenarios. We showcase it by using the hallucinated shapes to improve the performance on the task of grasping real-world objects both in simulation and with a PR2 robot."
-  },
-  {
-    "objectID": "publications/mees19iros_3d.html#bibtex",
-    "href": "publications/mees19iros_3d.html#bibtex",
-    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{mees19iros_3d,\n      title={Self-supervised 3d shape and viewpoint estimation from single images}, \n      author={Oier Mees and Maxim Tatarchenko and Thomas Brox and Wolfram Burgard},\n      year={2019},\n      booktitle={IROS}\n}"
-  },
-  {
-    "objectID": "publications/frank15icra_recon.html",
-    "href": "publications/frank15icra_recon.html",
-    "title": "3D-reconstruction of indoor environments from human activity",
-    "section": "",
-    "text": "Observing human activities can reveal a lot about the structure of the environment, the objects contained therein and also their functionality. This knowledge, in turn, can be useful for robots interacting with humans or for robots performing mobile manipulation tasks. In this paper, we present an approach to infer the geometric and functional structure of the environment and the position of certain relevant objects in it from human activity. We observe this activity using a full-body motion capture system consisting of a set of inertial measurement units. This is a hard problem since our data suit provides odometry estimates only, which severely drift over time. Therefore, we regard the objects inferred from the activ- ities as landmarks in a graph-based simultaneous localization and mapping problem, which we optimize to obtain accurate estimates about the poses of the objects and the trajectory of the human. In extensive experiments, we demonstrate the effectiveness of the proposed method for the reconstruction of 3D representations. The resulting models not only contain a geometric but also a functional description of the environment and naturally provide a segmentation into individual objects."
-  },
-  {
-    "objectID": "publications/frank15icra_recon.html#abstract",
-    "href": "publications/frank15icra_recon.html#abstract",
-    "title": "3D-reconstruction of indoor environments from human activity",
-    "section": "",
-    "text": "Observing human activities can reveal a lot about the structure of the environment, the objects contained therein and also their functionality. This knowledge, in turn, can be useful for robots interacting with humans or for robots performing mobile manipulation tasks. In this paper, we present an approach to infer the geometric and functional structure of the environment and the position of certain relevant objects in it from human activity. We observe this activity using a full-body motion capture system consisting of a set of inertial measurement units. This is a hard problem since our data suit provides odometry estimates only, which severely drift over time. Therefore, we regard the objects inferred from the activ- ities as landmarks in a graph-based simultaneous localization and mapping problem, which we optimize to obtain accurate estimates about the poses of the objects and the trajectory of the human. In extensive experiments, we demonstrate the effectiveness of the proposed method for the reconstruction of 3D representations. The resulting models not only contain a geometric but also a functional description of the environment and naturally provide a segmentation into individual objects."
-  },
-  {
-    "objectID": "publications/frank15icra_recon.html#bibtex",
-    "href": "publications/frank15icra_recon.html#bibtex",
-    "title": "3D-reconstruction of indoor environments from human activity",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{frank15icra_recon,\n      title={3D-reconstruction of indoor environments from human activity}, \n      author={Barbara Frank, Michael Ruhnke, Maxim Tatarchenko, and Wolfram Burgard},\n      year={2015},\n      booktitle={ICRA}\n}"
-  },
-  {
-    "objectID": "publications/tatarchenko17iccv_ogn.html",
-    "href": "publications/tatarchenko17iccv_ogn.html",
-    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
-    "section": "",
-    "text": "We present a deep convolutional decoder architecture that can generate volumetric 3D outputs in a compute- and memory-efficient manner by using an octree representation. The network learns to predict both the structure of the octree, and the occupancy values of individual cells. This makes it a particularly valuable technique for generating 3D shapes. In contrast to standard decoders acting on regular voxel grids, the architecture does not have cubic complexity. This allows representing much higher resolution outputs with a limited memory budget. We demonstrate this in several application domains, including 3D convolutional autoencoders, generation of objects and whole scenes from high-level representations, and shape from a single image."
-  },
-  {
-    "objectID": "publications/tatarchenko17iccv_ogn.html#abstract",
-    "href": "publications/tatarchenko17iccv_ogn.html#abstract",
-    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
-    "section": "",
-    "text": "We present a deep convolutional decoder architecture that can generate volumetric 3D outputs in a compute- and memory-efficient manner by using an octree representation. The network learns to predict both the structure of the octree, and the occupancy values of individual cells. This makes it a particularly valuable technique for generating 3D shapes. In contrast to standard decoders acting on regular voxel grids, the architecture does not have cubic complexity. This allows representing much higher resolution outputs with a limited memory budget. We demonstrate this in several application domains, including 3D convolutional autoencoders, generation of objects and whole scenes from high-level representations, and shape from a single image."
-  },
-  {
-    "objectID": "publications/tatarchenko17iccv_ogn.html#bibtex",
-    "href": "publications/tatarchenko17iccv_ogn.html#bibtex",
-    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{tatarchenko17iccv_ogn,\n      title={Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs}, \n      author={Maxim Tatarchenko and Alexey Dosovitskiy and Thomas Brox},\n      year={2017},\n      booktitle={ICCV}\n}"
-  },
-  {
-    "objectID": "publications/tatarchenko23radarconf_histdl.html",
-    "href": "publications/tatarchenko23radarconf_histdl.html",
-    "title": "Histogram-based Deep Learning for Automotive Radar",
-    "section": "",
-    "text": "There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions."
-  },
-  {
-    "objectID": "publications/tatarchenko23radarconf_histdl.html#abstract",
-    "href": "publications/tatarchenko23radarconf_histdl.html#abstract",
-    "title": "Histogram-based Deep Learning for Automotive Radar",
-    "section": "",
-    "text": "There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions."
-  },
-  {
-    "objectID": "publications/tatarchenko23radarconf_histdl.html#bibtex",
-    "href": "publications/tatarchenko23radarconf_histdl.html#bibtex",
-    "title": "Histogram-based Deep Learning for Automotive Radar",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{tatarchenko2023radarconf,\n      title={Histogram-based Deep Learning for Automotive Radar}, \n      author={Maxim Tatarchenko and Kilian Rambach},\n      year={2023},\n      booktitle={RadarConf}\n}"
-  },
-  {
-    "objectID": "publications/ocal23eccv_sceneteller.html",
-    "href": "publications/ocal23eccv_sceneteller.html",
-    "title": "SceneTeller: Language-to-3D Scene Generation",
-    "section": "",
-    "text": "Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices."
-  },
-  {
-    "objectID": "publications/ocal23eccv_sceneteller.html#abstract",
-    "href": "publications/ocal23eccv_sceneteller.html#abstract",
-    "title": "SceneTeller: Language-to-3D Scene Generation",
-    "section": "",
-    "text": "Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices."
-  },
-  {
-    "objectID": "publications/ocal23eccv_sceneteller.html#bibtex",
-    "href": "publications/ocal23eccv_sceneteller.html#bibtex",
-    "title": "SceneTeller: Language-to-3D Scene Generation",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{ocal23eccv_sceneteller,\n      title={SceneTeller: Language-to-3D Scene Generation}, \n      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={ECCV}\n}"
-  },
-  {
-    "objectID": "publications/boehm19isbi_isoodlv2.html",
-    "href": "publications/boehm19isbi_isoodlv2.html",
-    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
-    "section": "",
-    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
-  },
-  {
-    "objectID": "publications/boehm19isbi_isoodlv2.html#abstract",
-    "href": "publications/boehm19isbi_isoodlv2.html#abstract",
-    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
-    "section": "",
-    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
-  },
-  {
-    "objectID": "publications/boehm19isbi_isoodlv2.html#bibtex",
-    "href": "publications/boehm19isbi_isoodlv2.html#bibtex",
-    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{boehm19isbi_isoodlv2,\n      title={ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects}, \n      author={Anton Boehm and Maxim Tatarchenko and Thorsten Falk and Thomas Brox},\n      year={2019},\n      booktitle={ISBI}\n}"
-  },
-  {
-    "objectID": "publications/kaelble24cvpr_binocc.html",
-    "href": "publications/kaelble24cvpr_binocc.html",
-    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
-    "section": "",
-    "text": "Automated driving fundamentally requires knowledge about the surrounding geometry of the scene. Modern approaches use only captured images to predict occupancy maps that represent the geometry. Training these approaches requires accurate data that may be acquired with the help of LiDAR scanners. We show that the techniques used for current benchmarks and training datasets to convert LiDAR scans into occupancy grid maps yield very low quality, and subsequently present a novel approach using evidence theory that yields more accurate reconstructions. We demonstrate that these are superior by a large margin, both qualitatively and quantitatively, and that we additionally obtain meaningful uncertainty estimates. When converting the occupancy maps back to depth estimates and comparing them with the raw LiDAR measurements, our method yields a MAE improvement of 30% to 52% on nuScenes and 53% on Waymo over other occupancy ground-truth data. Finally, we use the improved occupancy maps to train a state-of-the-art occupancy prediction method and demonstrate that it improves the MAE by 25% on nuScenes."
-  },
-  {
-    "objectID": "publications/kaelble24cvpr_binocc.html#abstract",
-    "href": "publications/kaelble24cvpr_binocc.html#abstract",
-    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
-    "section": "",
-    "text": "Automated driving fundamentally requires knowledge about the surrounding geometry of the scene. Modern approaches use only captured images to predict occupancy maps that represent the geometry. Training these approaches requires accurate data that may be acquired with the help of LiDAR scanners. We show that the techniques used for current benchmarks and training datasets to convert LiDAR scans into occupancy grid maps yield very low quality, and subsequently present a novel approach using evidence theory that yields more accurate reconstructions. We demonstrate that these are superior by a large margin, both qualitatively and quantitatively, and that we additionally obtain meaningful uncertainty estimates. When converting the occupancy maps back to depth estimates and comparing them with the raw LiDAR measurements, our method yields a MAE improvement of 30% to 52% on nuScenes and 53% on Waymo over other occupancy ground-truth data. Finally, we use the improved occupancy maps to train a state-of-the-art occupancy prediction method and demonstrate that it improves the MAE by 25% on nuScenes."
-  },
-  {
-    "objectID": "publications/kaelble24cvpr_binocc.html#bibtex",
-    "href": "publications/kaelble24cvpr_binocc.html#bibtex",
-    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{kaelble24cvpr_binocc,\n      title={Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory}, \n      author={Jonas Kälble and Sascha Wirges and Maxim Tatarchenko and Eddy Ilg},\n      year={2024},\n      booktitle={CVPR}\n}"
-  },
-  {
-    "objectID": "publications/velastegui24cviu_semseg.html",
-    "href": "publications/velastegui24cviu_semseg.html",
-    "title": "Image semantic segmentation of indoor scenes: A survey",
-    "section": "",
-    "text": "This survey provides a comprehensive evaluation of various deep learning-based segmentation architectures. It covers a wide range of models, from traditional ones like FCN and PSPNet to more modern approaches like SegFormer and FAN. In addition to assessing the methods in terms of segmentation accuracy, we propose to also evaluate the methods in terms of temporal consistency and corruption vulnerability. Most of the existing surveys on semantic segmentation focus on outdoor datasets. In contrast, this survey focuses on indoor scenarios to enhance the applicability of segmentation methods in this specific domain. Furthermore, our evaluation consists of a performance analysis of the methods in prevalent real-world segmentation scenarios that pose particular challenges. These complex situations involve scenes impacted by diverse forms of noise, blur corruptions, camera movements, optical aberrations, among other factors. By jointly exploring the segmentation accuracy, temporal consistency, and corruption vulnerability in challenging real-world situations, our survey offers insights that go beyond existing surveys, facilitating the understanding and development of better image segmentation methods for indoor scenes."
-  },
-  {
-    "objectID": "publications/velastegui24cviu_semseg.html#abstract",
-    "href": "publications/velastegui24cviu_semseg.html#abstract",
-    "title": "Image semantic segmentation of indoor scenes: A survey",
-    "section": "",
-    "text": "This survey provides a comprehensive evaluation of various deep learning-based segmentation architectures. It covers a wide range of models, from traditional ones like FCN and PSPNet to more modern approaches like SegFormer and FAN. In addition to assessing the methods in terms of segmentation accuracy, we propose to also evaluate the methods in terms of temporal consistency and corruption vulnerability. Most of the existing surveys on semantic segmentation focus on outdoor datasets. In contrast, this survey focuses on indoor scenarios to enhance the applicability of segmentation methods in this specific domain. Furthermore, our evaluation consists of a performance analysis of the methods in prevalent real-world segmentation scenarios that pose particular challenges. These complex situations involve scenes impacted by diverse forms of noise, blur corruptions, camera movements, optical aberrations, among other factors. By jointly exploring the segmentation accuracy, temporal consistency, and corruption vulnerability in challenging real-world situations, our survey offers insights that go beyond existing surveys, facilitating the understanding and development of better image segmentation methods for indoor scenes."
-  },
-  {
-    "objectID": "publications/velastegui24cviu_semseg.html#bibtex",
-    "href": "publications/velastegui24cviu_semseg.html#bibtex",
-    "title": "Image semantic segmentation of indoor scenes: A survey",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{velastegui24cviu_semseg,\n      title={Image semantic segmentation of indoor scenes: A survey}, \n      author={Ronny Velastegui and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={CVIU}\n}"
-  },
-  {
-    "objectID": "publications/bechtold21cvpr_generlization.html",
-    "href": "publications/bechtold21cvpr_generlization.html",
-    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
-    "section": "",
-    "text": "Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects."
-  },
-  {
-    "objectID": "publications/bechtold21cvpr_generlization.html#abstract",
-    "href": "publications/bechtold21cvpr_generlization.html#abstract",
-    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
-    "section": "",
-    "text": "Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects."
-  },
-  {
-    "objectID": "publications/bechtold21cvpr_generlization.html#bibtex",
-    "href": "publications/bechtold21cvpr_generlization.html#bibtex",
-    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
-    "section": "Bibtex",
-    "text": "Bibtex\n@misc{bechtold21cvpr,\n      title={Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors}, \n      author={Jan Bechtold, Maxim Tatarchenko, Volker Fischer and Thomas Brox},\n      year={2021},\n      booktitle={CVPR}\n}"
+    "text": "I am a lead research scientist at Bosch working on 3D deep learning. My main focus at the moment is on company-internal projects but I do occasionally publish papers.\nFor the past couple of years running a robotics school for kids has been my main hobby project. I generally take great pleasure in thinking about teaching and learning, which infrequently results in some blog posts.\nOther than that, I enjoy creating music, reading and writing poetry, making stuff, and blabbering about all of those in my Russian-language TG channel."
   },
   {
     "objectID": "publications/tatarchenko19cvpr_what3d.html",
@@ -364,18 +49,326 @@
     "text": "Bibtex\n@misc{tatarchenko19cvpr_what3d,\n      title={What do single-view 3d reconstruction networks learn?}, \n      author={Maxim Tatarchenko and Stephan R. Richter and René Ranftl and Zhuwen Li and Vladlen Koltun and Thomas Brox},\n      year={2019},\n      booktitle={CVPR}\n}"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Maxim Tatarchenko",
+    "objectID": "publications/bechtold21cvpr_generlization.html",
+    "href": "publications/bechtold21cvpr_generlization.html",
+    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
     "section": "",
-    "text": "I am a lead research scientist at Bosch working on 3D deep learning. My main focus at the moment is on company-internal projects but I do occasionally publish papers.\nFor the past couple of years running a robotics school for kids has been my main hobby project. I generally take great pleasure in thinking about teaching and learning, which infrequently results in some blog posts.\nOther than that, I enjoy creating music, reading and writing poetry, making stuff, and blabbering about all of those in my Russian-language TG channel."
+    "text": "Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects."
   },
   {
-    "objectID": "blog/2024_10_05_learning_to_teach_robotics_3.html",
-    "href": "blog/2024_10_05_learning_to_teach_robotics_3.html",
-    "title": "Learning to teach robotics 3",
+    "objectID": "publications/bechtold21cvpr_generlization.html#abstract",
+    "href": "publications/bechtold21cvpr_generlization.html#abstract",
+    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
     "section": "",
-    "text": "In this post I’ll go through the iterations of our technical setup. Fundamentally, I think there are three components to a course like this one: electrical engineering, mechanical engineering, and software engineering. You don’t necessarily need to actually teach all of them together, but you definitely need to provide the students with a platform for each of those components. Here’s what we tried.\n\n\nElectrical engineering\nOn the microcontroller side we stuck with Arduino. Yes, it’s not the most powerful option available. But it has an absolutely enormous community, meaning easy access to all imaginable libraries and a lot of information if (ok, when) problems arise.\nFrom the beginning I was - still am - reluctant to proprietary closed systems like micro:bit, makeblock or Lego. First, they are simply expensive. Second, they work really nice if you use the standard components but implementing something custom cat get increasingly tricky. With Arduino, on the other hand, you can use pretty much any sensor or actuator available. Most likely, there already is a community-developed library for it.\nThere are also numerous shields one can get. We only used the most basic one for prototyping.\n\nIt provides multiple GND/5V outputs for connecting several external components, and has a space for a small breadboard. This simple setup turned out to be sufficient for powering pretty advanced projects. The only downside was a wireframe spaghetti when you connect too much stuff at the same time. The best solution we found for this was in fact designing our own shield - but this is a topic for a later post.\n\n\nMechanical engineering\nOur initial wheeled platform was obviously not good enough. It was not even a platform yet, rather just a collection of basic electronic components and a couple of 3D-printed plastic boxes one could glue together and put on a wheeled chassis.\n\nWe definitely needed more - so we tried the SMARS.\nSMARS is a cute little modular 3D-printable robot. In its basic configuration it has a four-wheeled chassis with tracks and two extension mounting slots. A small but dedicated enthusiast community around it designed some nice extensions: from basics like a sonar or an infrared sensor mount to quite fancy stuff like a servo-driven pen holder and a motorized forklift.\n\nIn the first half of the course the SMARS worked reasonably well. Every session the kids would take a different hardware module, mount it and solve some coding exercises with it. For the projects in the second half, however, it proved to be quite limited. With its two extension mounting slots it simply did not provide enough flexibility for the young engineers’ ambitious ideas.\nSo in the next stream I combined the SMARS with the original wheeled chassis and called it a LOCORover. I designed a couple of SMARS-compatible extension holders one could screw to the chassis, remixed the base and voila - the number of components one could put together in a project instantly increased.\n\nThe nice part about it was the SMARS compatibility. One did not need to design all extensions from scratch, the existing ones worked out of the box. Overall, I’m pretty happy with this version of the platform. It did not have a perfect balance and the 3D-printed parts sometimes broke but it got the job done.\nThe only fundamental limitation we faced was that it was a rover. Some kids wanted to have robots that were entirely different. That’s when I found STEMFIE and I could not be more excited. I’m still testing it so it’s definitely a topic for a later post but the results look very promising so far.\n\n\nSoftware engineering\nProgramming environment selection for Arduino is easy if you are using C - you just go to the official website and download Arduino IDE. Our first four streams were for kids who had no idea about programming, starting with C was definitely an overkill.\nSo it had to be block programming. Problem is, all Arduino-compatible IDEs for block programming I could find were somehow impaired. We started off with OttoBlockly, which was ok but messy. It had a lot of blocks which used random libraries under the hood. This sometimes meant that certain block combinations would not compile for an unknown reason. With some digging and modifying the library code you could usually get it to work but this was not a pleasant experience. The biggest problem was that if some blocks were missing, there was no easy way to add them. Yeah, one probably could recompile the entire IDE (though I failed when I tried) but again, this was not nice.\nBecause of this, after two streams we switched to mBlock. This is a coding environment behind the mBot robots, which luckily supports multiple different microcontrollers and, most importantly, custom block creation. You can design your own extensions (i.e., block libraries) using their online editor. This works as follows. You upload your custom C libraries (as many of them as you want) into this editor, and then specify which functions should be called by which blocks. It’s not the prettiest piece of software but it works alright.\nThere are a couple of annoying bits though. If you want to open a previously saved program, the extension version in your IDE has to exactly match the one that was used to save the program in the first place. Otherwise it does not work. Even if the blocks have not changed between the versions. This is ok when your extension is stable and does not change often but was really a problem for us, since we were developing it as we went, adding features every week. Also, something as basic as a serial monitor is not available in mBlock.\nTo this day I haven’t found a better solution. Fundamentally, we need an open-source extensible blockly-based IDE. One could develop it from scratch of course but that’s a pretty big project, not something one can do over a single weekend."
+    "text": "Single-view 3D object reconstruction has seen much progress, yet methods still struggle generalizing to novel shapes unseen during training. Common approaches predominantly rely on learned global shape priors and, hence, disregard detailed local observations. In this work, we address this issue by learning a hierarchy of priors at different levels of locality from ground truth input depth maps. We argue that exploiting local priors allows our method to efficiently use input observations, thus improving generalization in visible areas of novel shapes. At the same time, the combination of local and global priors enables meaningful hallucination of unobserved parts resulting in consistent 3D shapes. We show that the hierarchical approach generalizes much better than the global approach. It generalizes not only between different instances of a class but also across classes and to unseen arrangements of objects."
+  },
+  {
+    "objectID": "publications/bechtold21cvpr_generlization.html#bibtex",
+    "href": "publications/bechtold21cvpr_generlization.html#bibtex",
+    "title": "Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{bechtold21cvpr,\n      title={Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors}, \n      author={Jan Bechtold, Maxim Tatarchenko, Volker Fischer and Thomas Brox},\n      year={2021},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/velastegui24cviu_semseg.html",
+    "href": "publications/velastegui24cviu_semseg.html",
+    "title": "Image semantic segmentation of indoor scenes: A survey",
+    "section": "",
+    "text": "This survey provides a comprehensive evaluation of various deep learning-based segmentation architectures. It covers a wide range of models, from traditional ones like FCN and PSPNet to more modern approaches like SegFormer and FAN. In addition to assessing the methods in terms of segmentation accuracy, we propose to also evaluate the methods in terms of temporal consistency and corruption vulnerability. Most of the existing surveys on semantic segmentation focus on outdoor datasets. In contrast, this survey focuses on indoor scenarios to enhance the applicability of segmentation methods in this specific domain. Furthermore, our evaluation consists of a performance analysis of the methods in prevalent real-world segmentation scenarios that pose particular challenges. These complex situations involve scenes impacted by diverse forms of noise, blur corruptions, camera movements, optical aberrations, among other factors. By jointly exploring the segmentation accuracy, temporal consistency, and corruption vulnerability in challenging real-world situations, our survey offers insights that go beyond existing surveys, facilitating the understanding and development of better image segmentation methods for indoor scenes."
+  },
+  {
+    "objectID": "publications/velastegui24cviu_semseg.html#abstract",
+    "href": "publications/velastegui24cviu_semseg.html#abstract",
+    "title": "Image semantic segmentation of indoor scenes: A survey",
+    "section": "",
+    "text": "This survey provides a comprehensive evaluation of various deep learning-based segmentation architectures. It covers a wide range of models, from traditional ones like FCN and PSPNet to more modern approaches like SegFormer and FAN. In addition to assessing the methods in terms of segmentation accuracy, we propose to also evaluate the methods in terms of temporal consistency and corruption vulnerability. Most of the existing surveys on semantic segmentation focus on outdoor datasets. In contrast, this survey focuses on indoor scenarios to enhance the applicability of segmentation methods in this specific domain. Furthermore, our evaluation consists of a performance analysis of the methods in prevalent real-world segmentation scenarios that pose particular challenges. These complex situations involve scenes impacted by diverse forms of noise, blur corruptions, camera movements, optical aberrations, among other factors. By jointly exploring the segmentation accuracy, temporal consistency, and corruption vulnerability in challenging real-world situations, our survey offers insights that go beyond existing surveys, facilitating the understanding and development of better image segmentation methods for indoor scenes."
+  },
+  {
+    "objectID": "publications/velastegui24cviu_semseg.html#bibtex",
+    "href": "publications/velastegui24cviu_semseg.html#bibtex",
+    "title": "Image semantic segmentation of indoor scenes: A survey",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{velastegui24cviu_semseg,\n      title={Image semantic segmentation of indoor scenes: A survey}, \n      author={Ronny Velastegui and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={CVIU}\n}"
+  },
+  {
+    "objectID": "publications/kaelble24cvpr_binocc.html",
+    "href": "publications/kaelble24cvpr_binocc.html",
+    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
+    "section": "",
+    "text": "Automated driving fundamentally requires knowledge about the surrounding geometry of the scene. Modern approaches use only captured images to predict occupancy maps that represent the geometry. Training these approaches requires accurate data that may be acquired with the help of LiDAR scanners. We show that the techniques used for current benchmarks and training datasets to convert LiDAR scans into occupancy grid maps yield very low quality, and subsequently present a novel approach using evidence theory that yields more accurate reconstructions. We demonstrate that these are superior by a large margin, both qualitatively and quantitatively, and that we additionally obtain meaningful uncertainty estimates. When converting the occupancy maps back to depth estimates and comparing them with the raw LiDAR measurements, our method yields a MAE improvement of 30% to 52% on nuScenes and 53% on Waymo over other occupancy ground-truth data. Finally, we use the improved occupancy maps to train a state-of-the-art occupancy prediction method and demonstrate that it improves the MAE by 25% on nuScenes."
+  },
+  {
+    "objectID": "publications/kaelble24cvpr_binocc.html#abstract",
+    "href": "publications/kaelble24cvpr_binocc.html#abstract",
+    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
+    "section": "",
+    "text": "Automated driving fundamentally requires knowledge about the surrounding geometry of the scene. Modern approaches use only captured images to predict occupancy maps that represent the geometry. Training these approaches requires accurate data that may be acquired with the help of LiDAR scanners. We show that the techniques used for current benchmarks and training datasets to convert LiDAR scans into occupancy grid maps yield very low quality, and subsequently present a novel approach using evidence theory that yields more accurate reconstructions. We demonstrate that these are superior by a large margin, both qualitatively and quantitatively, and that we additionally obtain meaningful uncertainty estimates. When converting the occupancy maps back to depth estimates and comparing them with the raw LiDAR measurements, our method yields a MAE improvement of 30% to 52% on nuScenes and 53% on Waymo over other occupancy ground-truth data. Finally, we use the improved occupancy maps to train a state-of-the-art occupancy prediction method and demonstrate that it improves the MAE by 25% on nuScenes."
+  },
+  {
+    "objectID": "publications/kaelble24cvpr_binocc.html#bibtex",
+    "href": "publications/kaelble24cvpr_binocc.html#bibtex",
+    "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{kaelble24cvpr_binocc,\n      title={Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory}, \n      author={Jonas Kälble and Sascha Wirges and Maxim Tatarchenko and Eddy Ilg},\n      year={2024},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html",
+    "href": "publications/boehm19isbi_isoodlv2.html",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "",
+    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html#abstract",
+    "href": "publications/boehm19isbi_isoodlv2.html#abstract",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "",
+    "text": "We present ISOO_DL^V2 - a method for semantic instance segmentation of touching and overlapping objects. We introduce a series of design modifications to the prior framework, including a novel mixed 2D-3D segmentation network and a simplified post-processing procedure which enables segmentation of touching objects without relying on object detection. For the case of overlapping objects where detection is required, we upgrade the bounding box parametrization and allow for smaller reference point distances. All these novelties lead to substantial performance improvements and enable the method to deal with a wider range of challenging practical situations. Additionally, our framework can handle object sub-part segmentation. We evaluate our approach on both real-world and synthetically generated biological datasets and report state-of-the-art performance."
+  },
+  {
+    "objectID": "publications/boehm19isbi_isoodlv2.html#bibtex",
+    "href": "publications/boehm19isbi_isoodlv2.html#bibtex",
+    "title": "ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{boehm19isbi_isoodlv2,\n      title={ISOO^V2_DL - semantic instance segmentation of touching and overlapping objects}, \n      author={Anton Boehm and Maxim Tatarchenko and Thorsten Falk and Thomas Brox},\n      year={2019},\n      booktitle={ISBI}\n}"
+  },
+  {
+    "objectID": "publications/ocal23eccv_sceneteller.html",
+    "href": "publications/ocal23eccv_sceneteller.html",
+    "title": "SceneTeller: Language-to-3D Scene Generation",
+    "section": "",
+    "text": "Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices."
+  },
+  {
+    "objectID": "publications/ocal23eccv_sceneteller.html#abstract",
+    "href": "publications/ocal23eccv_sceneteller.html#abstract",
+    "title": "SceneTeller: Language-to-3D Scene Generation",
+    "section": "",
+    "text": "Designing high-quality indoor 3D scenes is important in many practical applications, such as room planning or game development. Conventionally, this has been a time-consuming process which requires both artistic skill and familiarity with professional software, making it hardly accessible for layman users. However, recent advances in generative AI have established solid foundation for democratizing 3D design. In this paper, we propose a pioneering approach for text-based 3D room design. Given a prompt in natural language describing the object placement in the room, our method produces a high-quality 3D scene corresponding to it. With an additional text prompt the users can change the appearance of the entire scene or of individual objects in it. Built using in-context learning, CAD model retrieval and 3D-Gaussian-Splatting-based stylization, our turnkey pipeline produces state-of-the-art 3D scenes, while being easy to use even for novices."
+  },
+  {
+    "objectID": "publications/ocal23eccv_sceneteller.html#bibtex",
+    "href": "publications/ocal23eccv_sceneteller.html#bibtex",
+    "title": "SceneTeller: Language-to-3D Scene Generation",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{ocal23eccv_sceneteller,\n      title={SceneTeller: Language-to-3D Scene Generation}, \n      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={ECCV}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko23radarconf_histdl.html",
+    "href": "publications/tatarchenko23radarconf_histdl.html",
+    "title": "Histogram-based Deep Learning for Automotive Radar",
+    "section": "",
+    "text": "There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions."
+  },
+  {
+    "objectID": "publications/tatarchenko23radarconf_histdl.html#abstract",
+    "href": "publications/tatarchenko23radarconf_histdl.html#abstract",
+    "title": "Histogram-based Deep Learning for Automotive Radar",
+    "section": "",
+    "text": "There are various automotive applications that rely on correctly interpreting point cloud data recorded with radar sensors. We present a deep learning approach for histogram-based processing of such point clouds. Compared to existing methods, the design of our approach is extremely simple: it boils down to computing a point cloud histogram and passing it through a multi-layer perceptron. Our approach matches and surpasses state-of-the-art approaches on the task of automotive radar object type classification. It is also robust to noise that often corrupts radar measurements, and can deal with missing features of single radar reflections. Finally, the design of our approach makes it more interpretable than existing methods, allowing insightful analysis of its decisions."
+  },
+  {
+    "objectID": "publications/tatarchenko23radarconf_histdl.html#bibtex",
+    "href": "publications/tatarchenko23radarconf_histdl.html#bibtex",
+    "title": "Histogram-based Deep Learning for Automotive Radar",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko2023radarconf,\n      title={Histogram-based Deep Learning for Automotive Radar}, \n      author={Maxim Tatarchenko and Kilian Rambach},\n      year={2023},\n      booktitle={RadarConf}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko17iccv_ogn.html",
+    "href": "publications/tatarchenko17iccv_ogn.html",
+    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
+    "section": "",
+    "text": "We present a deep convolutional decoder architecture that can generate volumetric 3D outputs in a compute- and memory-efficient manner by using an octree representation. The network learns to predict both the structure of the octree, and the occupancy values of individual cells. This makes it a particularly valuable technique for generating 3D shapes. In contrast to standard decoders acting on regular voxel grids, the architecture does not have cubic complexity. This allows representing much higher resolution outputs with a limited memory budget. We demonstrate this in several application domains, including 3D convolutional autoencoders, generation of objects and whole scenes from high-level representations, and shape from a single image."
+  },
+  {
+    "objectID": "publications/tatarchenko17iccv_ogn.html#abstract",
+    "href": "publications/tatarchenko17iccv_ogn.html#abstract",
+    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
+    "section": "",
+    "text": "We present a deep convolutional decoder architecture that can generate volumetric 3D outputs in a compute- and memory-efficient manner by using an octree representation. The network learns to predict both the structure of the octree, and the occupancy values of individual cells. This makes it a particularly valuable technique for generating 3D shapes. In contrast to standard decoders acting on regular voxel grids, the architecture does not have cubic complexity. This allows representing much higher resolution outputs with a limited memory budget. We demonstrate this in several application domains, including 3D convolutional autoencoders, generation of objects and whole scenes from high-level representations, and shape from a single image."
+  },
+  {
+    "objectID": "publications/tatarchenko17iccv_ogn.html#bibtex",
+    "href": "publications/tatarchenko17iccv_ogn.html#bibtex",
+    "title": "Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko17iccv_ogn,\n      title={Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs}, \n      author={Maxim Tatarchenko and Alexey Dosovitskiy and Thomas Brox},\n      year={2017},\n      booktitle={ICCV}\n}"
+  },
+  {
+    "objectID": "publications/frank15icra_recon.html",
+    "href": "publications/frank15icra_recon.html",
+    "title": "3D-reconstruction of indoor environments from human activity",
+    "section": "",
+    "text": "Observing human activities can reveal a lot about the structure of the environment, the objects contained therein and also their functionality. This knowledge, in turn, can be useful for robots interacting with humans or for robots performing mobile manipulation tasks. In this paper, we present an approach to infer the geometric and functional structure of the environment and the position of certain relevant objects in it from human activity. We observe this activity using a full-body motion capture system consisting of a set of inertial measurement units. This is a hard problem since our data suit provides odometry estimates only, which severely drift over time. Therefore, we regard the objects inferred from the activ- ities as landmarks in a graph-based simultaneous localization and mapping problem, which we optimize to obtain accurate estimates about the poses of the objects and the trajectory of the human. In extensive experiments, we demonstrate the effectiveness of the proposed method for the reconstruction of 3D representations. The resulting models not only contain a geometric but also a functional description of the environment and naturally provide a segmentation into individual objects."
+  },
+  {
+    "objectID": "publications/frank15icra_recon.html#abstract",
+    "href": "publications/frank15icra_recon.html#abstract",
+    "title": "3D-reconstruction of indoor environments from human activity",
+    "section": "",
+    "text": "Observing human activities can reveal a lot about the structure of the environment, the objects contained therein and also their functionality. This knowledge, in turn, can be useful for robots interacting with humans or for robots performing mobile manipulation tasks. In this paper, we present an approach to infer the geometric and functional structure of the environment and the position of certain relevant objects in it from human activity. We observe this activity using a full-body motion capture system consisting of a set of inertial measurement units. This is a hard problem since our data suit provides odometry estimates only, which severely drift over time. Therefore, we regard the objects inferred from the activ- ities as landmarks in a graph-based simultaneous localization and mapping problem, which we optimize to obtain accurate estimates about the poses of the objects and the trajectory of the human. In extensive experiments, we demonstrate the effectiveness of the proposed method for the reconstruction of 3D representations. The resulting models not only contain a geometric but also a functional description of the environment and naturally provide a segmentation into individual objects."
+  },
+  {
+    "objectID": "publications/frank15icra_recon.html#bibtex",
+    "href": "publications/frank15icra_recon.html#bibtex",
+    "title": "3D-reconstruction of indoor environments from human activity",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{frank15icra_recon,\n      title={3D-reconstruction of indoor environments from human activity}, \n      author={Barbara Frank, Michael Ruhnke, Maxim Tatarchenko, and Wolfram Burgard},\n      year={2015},\n      booktitle={ICRA}\n}"
+  },
+  {
+    "objectID": "publications/mees19iros_3d.html",
+    "href": "publications/mees19iros_3d.html",
+    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
+    "section": "",
+    "text": "We present a convolutional neural network for joint 3D shape prediction and viewpoint estimation from a single input image. During training, our network gets the learning signal from a silhouette of an object in the input image - a form of self-supervision. It does not require ground truth data for 3D shapes and the viewpoints. Because it relies on such a weak form of supervision, our approach can easily be applied to real-world data. We demonstrate that our method produces reasonable qualitative and quantitative results on natural images for both shape estimation and viewpoint prediction. Unlike previous approaches, our method does not require multiple views of the same object instance in the dataset, which significantly expands the applicability in practical robotics scenarios. We showcase it by using the hallucinated shapes to improve the performance on the task of grasping real-world objects both in simulation and with a PR2 robot."
+  },
+  {
+    "objectID": "publications/mees19iros_3d.html#abstract",
+    "href": "publications/mees19iros_3d.html#abstract",
+    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
+    "section": "",
+    "text": "We present a convolutional neural network for joint 3D shape prediction and viewpoint estimation from a single input image. During training, our network gets the learning signal from a silhouette of an object in the input image - a form of self-supervision. It does not require ground truth data for 3D shapes and the viewpoints. Because it relies on such a weak form of supervision, our approach can easily be applied to real-world data. We demonstrate that our method produces reasonable qualitative and quantitative results on natural images for both shape estimation and viewpoint prediction. Unlike previous approaches, our method does not require multiple views of the same object instance in the dataset, which significantly expands the applicability in practical robotics scenarios. We showcase it by using the hallucinated shapes to improve the performance on the task of grasping real-world objects both in simulation and with a PR2 robot."
+  },
+  {
+    "objectID": "publications/mees19iros_3d.html#bibtex",
+    "href": "publications/mees19iros_3d.html#bibtex",
+    "title": "Self-supervised 3d shape and viewpoint estimation from single images",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{mees19iros_3d,\n      title={Self-supervised 3d shape and viewpoint estimation from single images}, \n      author={Oier Mees and Maxim Tatarchenko and Thomas Brox and Wolfram Burgard},\n      year={2019},\n      booktitle={IROS}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html",
+    "title": "Tangent convolutions for dense prediction in 3D",
+    "section": "",
+    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
+  },
+  {
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html#abstract",
+    "title": "Tangent convolutions for dense prediction in 3D",
+    "section": "",
+    "text": "We present an approach to semantic scene analysis using deep convolutional networks. Our approach is based on tangent convolutions - a new construction for convolutional networks on 3D data. In contrast to volumetric approaches, our method operates directly on surface geometry. Crucially, the construction is applicable to unstructured point clouds and other noisy real-world data. We show that tangent convolutions can be evaluated efficiently on large-scale point clouds with millions of points. Using tangent convolutions, we design a deep fully-convolutional network for semantic segmentation of 3D point clouds, and apply it to challenging real-world datasets of indoor and outdoor 3D environments. Experimental results show that the presented approach outperforms other recent deep network constructions in detailed analysis of large 3D scenes."
+  },
+  {
+    "objectID": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
+    "href": "publications/tatarchenko18cvpr_tangentconv.html#bibtex",
+    "title": "Tangent convolutions for dense prediction in 3D",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko18cvpr_tangentconv,\n      title={Tangent convolutions for dense prediction in 3D}, \n      author={Maxim Tatarchenko and Jaesik Park and Vladlen Koltun and Qian-Yi Zhou},\n      year={2018},\n      booktitle={CVPR}\n}"
+  },
+  {
+    "objectID": "publications/ocal24arxiv_realdiff.html",
+    "href": "publications/ocal24arxiv_realdiff.html",
+    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
+    "section": "",
+    "text": "Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion."
+  },
+  {
+    "objectID": "publications/ocal24arxiv_realdiff.html#abstract",
+    "href": "publications/ocal24arxiv_realdiff.html#abstract",
+    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
+    "section": "",
+    "text": "Point cloud completion aims to recover the complete 3D shape of an object from partial observations. While approaches relying on synthetic shape priors achieved promising results in this domain, their applicability and generalizability to real-world data are still limited. To tackle this problem, we propose a self-supervised framework, namely RealDiff, that formulates point cloud completion as a conditional generation problem directly on real-world measurements. To better deal with noisy observations without resorting to training on synthetic data, we leverage additional geometric cues. Specifically, RealDiff simulates a diffusion process at the missing object parts while conditioning the generation on the partial input to address the multimodal nature of the task. We further regularize the training by matching object silhouettes and depth maps, predicted by our method, with the externally estimated ones. Experimental results show that our method consistently outperforms state-of-the-art methods in real-world point cloud completion."
+  },
+  {
+    "objectID": "publications/ocal24arxiv_realdiff.html#bibtex",
+    "href": "publications/ocal24arxiv_realdiff.html#bibtex",
+    "title": "RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{ocal24arxiv_realdiff,\n      title={RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models}, \n      author={Başak Melis Öcal and Maxim Tatarchenko and Sezer Karaoglu and Theo Gevers},\n      year={2024},\n      booktitle={arXiv}\n}"
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html",
+    "href": "publications/dosovitskiy17tpami_chairs.html",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "",
+    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html#abstract",
+    "href": "publications/dosovitskiy17tpami_chairs.html#abstract",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "",
+    "text": "We train generative ‘up-convolutional’ neural networks which are able to generate images of objects given object style, viewpoint, and color. We train the networks on rendered 3D models of chairs, tables, and cars. Our experiments show that the networks do not merely learn all images by heart, but rather find a meaningful representation of 3D models allowing them to assess the similarity of different models, interpolate between given views to generate the missing ones, extrapolate views, and invent new objects not present in the training set by recombining training instances, or even two different object classes. Moreover, we show that such generative networks can be used to find correspondences between different objects from the dataset, outperforming existing approaches on this task."
+  },
+  {
+    "objectID": "publications/dosovitskiy17tpami_chairs.html#bibtex",
+    "href": "publications/dosovitskiy17tpami_chairs.html#bibtex",
+    "title": "Learning to generate chairs, tables and cars with convolutional networks",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{dosovitskiy17tpami_chairs,\n      title={Learning to generate chairs, tables and cars with convolutional networks}, \n      author={Alexey Dosovitskiy and Jost Tobias Springenberg and Maxim Tatarchenko and Thomas Brox},\n      year={2017},\n      booktitle={TPAMI}\n}"
+  },
+  {
+    "objectID": "publications/mittal19tpami_semseg.html",
+    "href": "publications/mittal19tpami_semseg.html",
+    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
+    "section": "",
+    "text": "The ability to understand visual information from limited labeled data is an important aspect of machine learning. While image-level classification has been extensively studied in a semi-supervised setting, dense pixel-level classification with limited data has only drawn attention recently. In this work, we propose an approach for semi-supervised semantic segmentation that learns from limited pixel-wise annotated samples while exploiting additional annotation-free images. It uses two network branches that link semi-supervised classification with semi-supervised segmentation including self-training. The dual-branch approach reduces both the low-level and the high-level artifacts typical when training with few labels. The approach attains significant improvement over existing methods, especially when trained with very few labeled samples. On several standard benchmarks - PASCAL VOC 2012, PASCAL-Context, and Cityscapes - the approach achieves new state-of-the-art in semi-supervised learning."
+  },
+  {
+    "objectID": "publications/mittal19tpami_semseg.html#abstract",
+    "href": "publications/mittal19tpami_semseg.html#abstract",
+    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
+    "section": "",
+    "text": "The ability to understand visual information from limited labeled data is an important aspect of machine learning. While image-level classification has been extensively studied in a semi-supervised setting, dense pixel-level classification with limited data has only drawn attention recently. In this work, we propose an approach for semi-supervised semantic segmentation that learns from limited pixel-wise annotated samples while exploiting additional annotation-free images. It uses two network branches that link semi-supervised classification with semi-supervised segmentation including self-training. The dual-branch approach reduces both the low-level and the high-level artifacts typical when training with few labels. The approach attains significant improvement over existing methods, especially when trained with very few labeled samples. On several standard benchmarks - PASCAL VOC 2012, PASCAL-Context, and Cityscapes - the approach achieves new state-of-the-art in semi-supervised learning."
+  },
+  {
+    "objectID": "publications/mittal19tpami_semseg.html#bibtex",
+    "href": "publications/mittal19tpami_semseg.html#bibtex",
+    "title": "Semi-supervised semantic segmentation with high- and low-level consistency",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{mittal19tpami,\n      title={Semi-supervised semantic segmentation with high- and low-level consistency}, \n      author={Sudhanshu Mittal and Maxim Tatarchenko and Thomas Brox},\n      year={2019},\n      booktitle={TPAMI}\n}"
+  },
+  {
+    "objectID": "publications/mittal19arxiv_illusions.html",
+    "href": "publications/mittal19arxiv_illusions.html",
+    "title": "Parting with Illusions about Deep Active Learning",
+    "section": "",
+    "text": "Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol."
+  },
+  {
+    "objectID": "publications/mittal19arxiv_illusions.html#abstract",
+    "href": "publications/mittal19arxiv_illusions.html#abstract",
+    "title": "Parting with Illusions about Deep Active Learning",
+    "section": "",
+    "text": "Active learning aims to reduce the high labeling cost involved in training machine learning models on large datasets by efficiently labeling only the most informative samples. Recently, deep active learning has shown success on various tasks. However, the conventional evaluation scheme used for deep active learning is below par. Current methods disregard some apparent parallel work in the closely related fields. Active learning methods are quite sensitive w.r.t. changes in the training procedure like data augmentation. They improve by a large-margin when integrated with semi-supervised learning, but barely perform better than the random baseline. We re-implement various latest active learning approaches for image classification and evaluate them under more realistic settings. We further validate our findings for semantic segmentation. Based on our observations, we realistically assess the current state of the field and propose a more suitable evaluation protocol."
+  },
+  {
+    "objectID": "publications/mittal19arxiv_illusions.html#bibtex",
+    "href": "publications/mittal19arxiv_illusions.html#bibtex",
+    "title": "Parting with Illusions about Deep Active Learning",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{mittal19arxiv_illusions,\n      title={Parting with Illusions about Deep Active Learning}, \n      author={Sudhanshu Mittal and Maxim Tatarchenko and Özgün Çiçek and Thomas Brox},\n      year={2019},\n      booktitle={arXiv}\n}"
+  },
+  {
+    "objectID": "publications/tatarchenko16eccv_mv3d.html",
+    "href": "publications/tatarchenko16eccv_mv3d.html",
+    "title": "Multi-view 3d models from single images with a convolutional network",
+    "section": "",
+    "text": "We present a convolutional network capable of inferring a 3D representation of a previously unseen object given a single image of this object. Concretely, the network can predict an RGB image and a depth map of the object as seen from an arbitrary view. Several of these depth maps fused together give a full point cloud of the object. The point cloud can in turn be transformed into a surface mesh. The network is trained on renderings of synthetic 3D models of cars and chairs. It successfully deals with objects on cluttered background and generates reasonable predictions for real images of cars."
+  },
+  {
+    "objectID": "publications/tatarchenko16eccv_mv3d.html#abstract",
+    "href": "publications/tatarchenko16eccv_mv3d.html#abstract",
+    "title": "Multi-view 3d models from single images with a convolutional network",
+    "section": "",
+    "text": "We present a convolutional network capable of inferring a 3D representation of a previously unseen object given a single image of this object. Concretely, the network can predict an RGB image and a depth map of the object as seen from an arbitrary view. Several of these depth maps fused together give a full point cloud of the object. The point cloud can in turn be transformed into a surface mesh. The network is trained on renderings of synthetic 3D models of cars and chairs. It successfully deals with objects on cluttered background and generates reasonable predictions for real images of cars."
+  },
+  {
+    "objectID": "publications/tatarchenko16eccv_mv3d.html#bibtex",
+    "href": "publications/tatarchenko16eccv_mv3d.html#bibtex",
+    "title": "Multi-view 3d models from single images with a convolutional network",
+    "section": "Bibtex",
+    "text": "Bibtex\n@misc{tatarchenko16eccv_mv3d,\n      title={Multi-view 3d models from single images with a convolutional network}, \n      author={Maxim Tatarchenko and Alexey Dosovitskiy and Thomas Brox},\n      year={2016},\n      booktitle={ECCV}\n}"
+  },
+  {
+    "objectID": "blog/2024_10_05_learning_to_teach_robotics_2.html",
+    "href": "blog/2024_10_05_learning_to_teach_robotics_2.html",
+    "title": "Learning to teach robotics 2",
+    "section": "",
+    "text": "The pilot robotics course went quite well so we were naturally motivated to continue. What followed were three more streams, where we tried out - with various degrees of success - a lot of different ideas. This is a lessons learned post describing those attempts and how they played out. I will mostly focus on the organizational and conceptual aspects, leaving the technical details of the platform we used for a later post.\n\nThere are two strategies for learning something new. If you have the time, you can systematically work your way through the fundamentals, gradually going from the basics to more advanced topics, letting the knowledge sink in. That’s how university education works. If you don’t have the time (and who does, right?), you start doing something and learn as you go. That’s how startups work.\nThat’s how we learned to teach robotics, too. For the lack of a better term, let’s call it intuitive pedagogy. I’m sure thoughts that will follow are mostly self-evident if you have a formal education as a teacher. We didn’t. Instead, we put together a course that seemed plausible, with the intention of getting into a feedback loop as quickly as possible. Here’s the feedback we got and how we dealt with it.\n\nLectures don’t work, slides don’t matter\nThe original idea of splitting the course into two parts - basics and projects - stayed intact. During the “basics” sessions we would usually take turns going through several PowerPoint slides covering the new topic. As it quickly turned out, these short lectures do not work. Not even a little.\nI was biased by my university teaching experience, where one could talk about something for an extended period of time, without losing the audience. Not the case with kids. And I don’t mean 30-minute-long monologues, even 2-3 minutes of you talking without any interaction was way too much. I could almost read the word “b-o-r-i-n-g” on their faces, no matter how much effort I put into the slide design.\nWhat worked well, on the other hand, was staying in a constant discussion mode. I would say a couple of sentences, then check in: “What do you think? Why is this a problem? What can we do about it? Do you have an idea how this could work?” In my experience, the kids usually eagerly engaged in such discussions. Interestingly, it did not matter that much whether you had slides during those conversations or not. Of course, some concepts are easier to illustrate if you have a picture at hand. But most of the time just brainstorming together was really enough. Such discussions also worked well during the recaps at the beginning of each session where we tried to quickly refresh the concepts from the previous meetings.\nThis also nicely played together with the role I wanted to take in the whole process. I did not see myself as a teacher in the classical sense, rather what a senpai is in karate - someone more experienced, one who has trained longer. Eye-level discussions with me as a moderator felt exactly right.\n\n\nThey have better ideas than you do\nIn the second half of the course, I wanted to give the kids more freedom with their projects. Starting from the second stream, every team would design and build their own custom robots.\nDuring the brainstorming sessions the room would buzz with ideas. Our main task as mentors was directing the kids’ fountains of creativity, wrapping their proposals into something the teams could actually implement within the following 4-5 weeks. There is some delicacy to it. You need to convert their often extremely ambitious ideas into a workable plan, while preserving the authors’ original intention.\n\nWe even asked every group to jot down a brief project plan. Of course, those went astray right after the first step but it was not a bad thing to do nonetheless. The young engineers got a glimpse of how plans often work out in reality.\nTo this day I am vastly impressed by the projects with which the teams came up. Letting them decide what to do was better than handing out fixed tasks on so many levels. As a result, we got a remote-controlled painter that could draw shapes similar to those from a spirogrpah.\n\nA Mars rover that would collect atmospheric measurements and transfer them to Earth in Morse code. Guess how we simulated the temperature changes?\n \nA custom-sculpted moveable manipulator.\n\nA robot that would scan the environment and display the map on the screen.\n\nAn many more. I could dedicate the entire post to the awesome kids’ project. In summary, creative part of the course - definitely a go.\n\n\nDocumentation is important (but don’t call it that)\nIn the first stream there were no materials we could hand out to the students. They would simply ask us every time they forgot how to connect some component or how to use some coding block. This worked but was definitely not perfect.\nI’m not sure which is the best learning medium for gen alpha but as a millenial I figured it could be videos so I started a YouTube channel. This gave me a chance to direct those who missed a session to the corresponding video, instead of trying to squeeze in 15 minutes worth of information into a short one-on-one conversation during the next class. This also opened a door to handing out some optional homework assignments for those who wanted to practice outside the classroom.\nThe reality was slightly different. First, no one likes homework (well, who could have guessed!). There were occasional people who would touch the Arduino at home but their number was disproportional to the effort I had to put into those videos. Second, it is not a coincidence that hardware has “hard” in it. You have to connect everything correctly, otherwise some components might burn. You have to debug if something does not work right away. You have to figure out how to deal with occasional equipment hickups and imperfections. All of those are fine if there’s an experienced mentor sitting next to you, providing real-time feedback. When you are 12 years old, trying to replicate something from a YouTube video alone, it quickly gets tricky.\nPlus, we were constantly changing something about the course so the videos got outdated a couple of weeks after I published them. All of those reasons made me quit after recording about five videos. At some point I might come back to it though. While time-consuming, video production actually was fun. There was also some positive feedback. My video about the basics of Arduino programming got around 2K views, which was surprising given that I never advertised it anywhere - all those came organically through YouTube’s recommendation system.\nInstead of videos, we ended up putting together a couple of documentation pages summarizing how to connect certain components and how to control them with blocks. Those were not self-sufficient, you could not learn a completely new topic from them. They rather worked as a quick reference. A final marketing tip: calling them documentation, however professional it may sound, does not agree with kids. The word is too scary. Cheatsheet is better.\n\n\n\n3.3333333 students per mentor\nKostya and I finished two streams together, then he had to leave the project. I started looking for a new companion an luckily found Vova, a brilliant engineering student. The two of us ran the third stream. After that, I got approached by Natasha. She was the mother of one of the boys who attended the first stream, and she wanted to join as a mentor now. For the fourth stream we became a trio, and things instantly got so much better.\nWith individual projects and inexperienced audience two people often can’t provide enough support. There is simply too much multi-tasking: debugging hardware issues, discussing the next implementation step, configuring the environment, explaining the concept someone missed… Three mentors for ten students turned out to be a perfect ratio.\n\nFinally, I came up with a brand name - this is when the project officially became LOCO School.\n\nLOCO as in locomotion, making the robots drive and driving the students forward. And if you feel a little Spanish, LOCO as in a not-quite-your-regular school with a bit of good craziness, making it so much more fun."
   },
   {
     "objectID": "blog/2024_06_14_learning_to_teach_robotics.html",
